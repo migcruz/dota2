@@ -1,4 +1,9 @@
-
+# https://homes.cs.washington.edu/~suinlee/genome560/lecture7.pdf
+# http://cba.ualr.edu/smartstat/topics/anova/example.pdf
+# http://stattrek.com/statistics/notation.aspx
+# https://www.qualtrics.com/blog/determining-sample-size/
+# http://www.sjsu.edu/faculty/gerstman/StatPrimer/z-two-tails.pdf
+# https://stackoverflow.com/questions/20864847/probability-to-z-score-and-vice-versa-in-python
 # tableau vs bokeh vs matplotlib for visualization
 import dota2api
 import csv
