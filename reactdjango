@@ -1,0 +1,11 @@
+//for .profile for virtualenvwrapper see virtualenwrapper installation
+
+
+export WORKON_HOME=$HOME/.virtualenvs
+export PROJECT_HOME=$HOME/Devel
+source /home/mcruz/.local/bin/virtualenvwrapper.sh
+
+
+
+//
+https://github.com/scottwoodall/django-react-template
