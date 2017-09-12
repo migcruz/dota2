@@ -1,0 +1,567 @@
+{
+    "Abaddon": [
+        "102", 
+        "Abaddon", 
+        "dota2assets/img/heroes/abaddon.png"
+    ], 
+    "Alchemist": [
+        "73", 
+        "Alchemist", 
+        "dota2assets/img/heroes/alchemist.png"
+    ], 
+    "Ancient_Apparition": [
+        "68", 
+        "Ancient Apparition", 
+        "dota2assets/img/heroes/ancient_apparition.png"
+    ], 
+    "Anti-Mage": [
+        "1", 
+        "Anti-Mage", 
+        "dota2assets/img/heroes/antimage.png"
+    ], 
+    "Arc_Warden": [
+        "113", 
+        "Arc Warden", 
+        "dota2assets/img/heroes/arc_warden.png"
+    ], 
+    "Axe": [
+        "2", 
+        "Axe", 
+        "dota2assets/img/heroes/axe.png"
+    ], 
+    "Bane": [
+        "3", 
+        "Bane", 
+        "dota2assets/img/heroes/bane.png"
+    ], 
+    "Batrider": [
+        "65", 
+        "Batrider", 
+        "dota2assets/img/heroes/batrider.png"
+    ], 
+    "Beastmaster": [
+        "38", 
+        "Beastmaster", 
+        "dota2assets/img/heroes/beastmaster.png"
+    ], 
+    "Bloodseeker": [
+        "4", 
+        "Bloodseeker", 
+        "dota2assets/img/heroes/bloodseeker.png"
+    ], 
+    "Bounty_Hunter": [
+        "62", 
+        "Bounty Hunter", 
+        "dota2assets/img/heroes/bounty_hunter.png"
+    ], 
+    "Brewmaster": [
+        "78", 
+        "Brewmaster", 
+        "dota2assets/img/heroes/brewmaster.png"
+    ], 
+    "Bristleback": [
+        "99", 
+        "Bristleback", 
+        "dota2assets/img/heroes/bristleback.png"
+    ], 
+    "Broodmother": [
+        "61", 
+        "Broodmother", 
+        "dota2assets/img/heroes/broodmother.png"
+    ], 
+    "Centaur_Warrunner": [
+        "96", 
+        "Centaur Warrunner", 
+        "dota2assets/img/heroes/centaur.png"
+    ], 
+    "Chaos_Knight": [
+        "81", 
+        "Chaos Knight", 
+        "dota2assets/img/heroes/chaos_knight.png"
+    ], 
+    "Chen": [
+        "66", 
+        "Chen", 
+        "dota2assets/img/heroes/chen.png"
+    ], 
+    "Clinkz": [
+        "56", 
+        "Clinkz", 
+        "dota2assets/img/heroes/clinkz.png"
+    ], 
+    "Clockwerk": [
+        "51", 
+        "Clockwerk", 
+        "dota2assets/img/heroes/rattletrap.png"
+    ], 
+    "Crystal_Maiden": [
+        "5", 
+        "Crystal Maiden", 
+        "dota2assets/img/heroes/crystal_maiden.png"
+    ], 
+    "Dark_Seer": [
+        "55", 
+        "Dark Seer", 
+        "dota2assets/img/heroes/dark_seer.png"
+    ], 
+    "Dazzle": [
+        "50", 
+        "Dazzle", 
+        "dota2assets/img/heroes/dazzle.png"
+    ], 
+    "Death_Prophet": [
+        "43", 
+        "Death Prophet", 
+        "dota2assets/img/heroes/death_prophet.png"
+    ], 
+    "Disruptor": [
+        "87", 
+        "Disruptor", 
+        "dota2assets/img/heroes/disruptor.png"
+    ], 
+    "Doom": [
+        "69", 
+        "Doom", 
+        "dota2assets/img/heroes/doom_bringer.png"
+    ], 
+    "Dragon_Knight": [
+        "49", 
+        "Dragon Knight", 
+        "dota2assets/img/heroes/dragon_knight.png"
+    ], 
+    "Drow_Ranger": [
+        "6", 
+        "Drow Ranger", 
+        "dota2assets/img/heroes/drow_ranger.png"
+    ], 
+    "Earth_Spirit": [
+        "107", 
+        "Earth Spirit", 
+        "dota2assets/img/heroes/earth_spirit.png"
+    ], 
+    "Earthshaker": [
+        "7", 
+        "Earthshaker", 
+        "dota2assets/img/heroes/earthshaker.png"
+    ], 
+    "Elder_Titan": [
+        "103", 
+        "Elder Titan", 
+        "dota2assets/img/heroes/elder_titan.png"
+    ], 
+    "Ember_Spirit": [
+        "106", 
+        "Ember Spirit", 
+        "dota2assets/img/heroes/ember_spirit.png"
+    ], 
+    "Enchantress": [
+        "58", 
+        "Enchantress", 
+        "dota2assets/img/heroes/enchantress.png"
+    ], 
+    "Enigma": [
+        "33", 
+        "Enigma", 
+        "dota2assets/img/heroes/enigma.png"
+    ], 
+    "Faceless_Void": [
+        "41", 
+        "Faceless Void", 
+        "dota2assets/img/heroes/faceless_void.png"
+    ], 
+    "Gyrocopter": [
+        "72", 
+        "Gyrocopter", 
+        "dota2assets/img/heroes/gyrocopter.png"
+    ], 
+    "Huskar": [
+        "59", 
+        "Huskar", 
+        "dota2assets/img/heroes/huskar.png"
+    ], 
+    "Invoker": [
+        "74", 
+        "Invoker", 
+        "dota2assets/img/heroes/invoker.png"
+    ], 
+    "Io": [
+        "91", 
+        "Io", 
+        "dota2assets/img/heroes/wisp.png"
+    ], 
+    "Jakiro": [
+        "64", 
+        "Jakiro", 
+        "dota2assets/img/heroes/jakiro.png"
+    ], 
+    "Juggernaut": [
+        "8", 
+        "Juggernaut", 
+        "dota2assets/img/heroes/juggernaut.png"
+    ], 
+    "Keeper_of_the_Light": [
+        "90", 
+        "Keeper of the Light", 
+        "dota2assets/img/heroes/keeper_of_the_light.png"
+    ], 
+    "Kunkka": [
+        "23", 
+        "Kunkka", 
+        "dota2assets/img/heroes/kunkka.png"
+    ], 
+    "Legion_Commander": [
+        "104", 
+        "Legion Commander", 
+        "dota2assets/img/heroes/legion_commander.png"
+    ], 
+    "Leshrac": [
+        "52", 
+        "Leshrac", 
+        "dota2assets/img/heroes/leshrac.png"
+    ], 
+    "Lich": [
+        "31", 
+        "Lich", 
+        "dota2assets/img/heroes/lich.png"
+    ], 
+    "Lifestealer": [
+        "54", 
+        "Lifestealer", 
+        "dota2assets/img/heroes/life_stealer.png"
+    ], 
+    "Lina": [
+        "25", 
+        "Lina", 
+        "dota2assets/img/heroes/lina.png"
+    ], 
+    "Lion": [
+        "26", 
+        "Lion", 
+        "dota2assets/img/heroes/lion.png"
+    ], 
+    "Lone_Druid": [
+        "80", 
+        "Lone Druid", 
+        "dota2assets/img/heroes/lone_druid.png"
+    ], 
+    "Luna": [
+        "48", 
+        "Luna", 
+        "dota2assets/img/heroes/luna.png"
+    ], 
+    "Lycan": [
+        "77", 
+        "Lycan", 
+        "dota2assets/img/heroes/lycan.png"
+    ], 
+    "Magnus": [
+        "97", 
+        "Magnus", 
+        "dota2assets/img/heroes/magnataur.png"
+    ], 
+    "Medusa": [
+        "94", 
+        "Medusa", 
+        "dota2assets/img/heroes/medusa.png"
+    ], 
+    "Meepo": [
+        "82", 
+        "Meepo", 
+        "dota2assets/img/heroes/meepo.png"
+    ], 
+    "Mirana": [
+        "9", 
+        "Mirana", 
+        "dota2assets/img/heroes/mirana.png"
+    ], 
+    "Monkey_King": [
+        "114", 
+        "Monkey King", 
+        "dota2assets/img/heroes/monkey_king.png"
+    ], 
+    "Morphling": [
+        "10", 
+        "Morphling", 
+        "dota2assets/img/heroes/morphling.png"
+    ], 
+    "Naga_Siren": [
+        "89", 
+        "Naga Siren", 
+        "dota2assets/img/heroes/naga_siren.png"
+    ], 
+    "Natures_Prophet": [
+        "53", 
+        "Nature's Prophet", 
+        "dota2assets/img/heroes/furion.png"
+    ], 
+    "Necrophos": [
+        "36", 
+        "Necrophos", 
+        "dota2assets/img/heroes/necrolyte.png"
+    ], 
+    "Night_Stalker": [
+        "60", 
+        "Night Stalker", 
+        "dota2assets/img/heroes/night_stalker.png"
+    ], 
+    "Nyx_Assassin": [
+        "88", 
+        "Nyx Assassin", 
+        "dota2assets/img/heroes/nyx_assassin.png"
+    ], 
+    "Ogre_Magi": [
+        "84", 
+        "Ogre Magi", 
+        "dota2assets/img/heroes/ogre_magi.png"
+    ], 
+    "Omniknight": [
+        "57", 
+        "Omniknight", 
+        "dota2assets/img/heroes/omniknight.png"
+    ], 
+    "Oracle": [
+        "111", 
+        "Oracle", 
+        "dota2assets/img/heroes/oracle.png"
+    ], 
+    "Outworld_Devourer": [
+        "76", 
+        "Outworld Devourer", 
+        "dota2assets/img/heroes/obsidian_destroyer.png"
+    ], 
+    "Phantom_Assassin": [
+        "44", 
+        "Phantom Assassin", 
+        "dota2assets/img/heroes/phantom_assassin.png"
+    ], 
+    "Phantom_Lancer": [
+        "12", 
+        "Phantom Lancer", 
+        "dota2assets/img/heroes/phantom_lancer.png"
+    ], 
+    "Phoenix": [
+        "110", 
+        "Phoenix", 
+        "dota2assets/img/heroes/phoenix.png"
+    ], 
+    "Puck": [
+        "13", 
+        "Puck", 
+        "dota2assets/img/heroes/puck.png"
+    ], 
+    "Pudge": [
+        "14", 
+        "Pudge", 
+        "dota2assets/img/heroes/pudge.png"
+    ], 
+    "Pugna": [
+        "45", 
+        "Pugna", 
+        "dota2assets/img/heroes/pugna.png"
+    ], 
+    "Queen_of_Pain": [
+        "39", 
+        "Queen of Pain", 
+        "dota2assets/img/heroes/queenofpain.png"
+    ], 
+    "Razor": [
+        "15", 
+        "Razor", 
+        "dota2assets/img/heroes/razor.png"
+    ], 
+    "Riki": [
+        "32", 
+        "Riki", 
+        "dota2assets/img/heroes/riki.png"
+    ], 
+    "Rubick": [
+        "86", 
+        "Rubick", 
+        "dota2assets/img/heroes/rubick.png"
+    ], 
+    "Sand_King": [
+        "16", 
+        "Sand King", 
+        "dota2assets/img/heroes/sand_king.png"
+    ], 
+    "Shadow_Demon": [
+        "79", 
+        "Shadow Demon", 
+        "dota2assets/img/heroes/shadow_demon.png"
+    ], 
+    "Shadow_Fiend": [
+        "11", 
+        "Shadow Fiend", 
+        "dota2assets/img/heroes/nevermore.png"
+    ], 
+    "Shadow_Shaman": [
+        "27", 
+        "Shadow Shaman", 
+        "dota2assets/img/heroes/shadow_shaman.png"
+    ], 
+    "Silencer": [
+        "75", 
+        "Silencer", 
+        "dota2assets/img/heroes/silencer.png"
+    ], 
+    "Skywrath_Mage": [
+        "101", 
+        "Skywrath Mage", 
+        "dota2assets/img/heroes/skywrath_mage.png"
+    ], 
+    "Slardar": [
+        "28", 
+        "Slardar", 
+        "dota2assets/img/heroes/slardar.png"
+    ], 
+    "Slark": [
+        "93", 
+        "Slark", 
+        "dota2assets/img/heroes/slark.png"
+    ], 
+    "Sniper": [
+        "35", 
+        "Sniper", 
+        "dota2assets/img/heroes/sniper.png"
+    ], 
+    "Spectre": [
+        "67", 
+        "Spectre", 
+        "dota2assets/img/heroes/spectre.png"
+    ], 
+    "Spirit_Breaker": [
+        "71", 
+        "Spirit Breaker", 
+        "dota2assets/img/heroes/spirit_breaker.png"
+    ], 
+    "Storm_Spirit": [
+        "17", 
+        "Storm Spirit", 
+        "dota2assets/img/heroes/storm_spirit.png"
+    ], 
+    "Sven": [
+        "18", 
+        "Sven", 
+        "dota2assets/img/heroes/sven.png"
+    ], 
+    "Techies": [
+        "105", 
+        "Techies", 
+        "dota2assets/img/heroes/techies.png"
+    ], 
+    "Templar_Assassin": [
+        "46", 
+        "Templar Assassin", 
+        "dota2assets/img/heroes/templar_assassin.png"
+    ], 
+    "Terrorblade": [
+        "109", 
+        "Terrorblade", 
+        "dota2assets/img/heroes/terrorblade.png"
+    ], 
+    "Tidehunter": [
+        "29", 
+        "Tidehunter", 
+        "dota2assets/img/heroes/tidehunter.png"
+    ], 
+    "Timbersaw": [
+        "98", 
+        "Timbersaw", 
+        "dota2assets/img/heroes/shredder.png"
+    ], 
+    "Tinker": [
+        "34", 
+        "Tinker", 
+        "dota2assets/img/heroes/tinker.png"
+    ], 
+    "Tiny": [
+        "19", 
+        "Tiny", 
+        "dota2assets/img/heroes/tiny.png"
+    ], 
+    "Treant_Protector": [
+        "83", 
+        "Treant Protector", 
+        "dota2assets/img/heroes/treant.png"
+    ], 
+    "Troll_Warlord": [
+        "95", 
+        "Troll Warlord", 
+        "dota2assets/img/heroes/troll_warlord.png"
+    ], 
+    "Tusk": [
+        "100", 
+        "Tusk", 
+        "dota2assets/img/heroes/tusk.png"
+    ], 
+    "Underlord": [
+        "108", 
+        "Underlord", 
+        "dota2assets/img/heroes/abyssal_underlord.png"
+    ], 
+    "Undying": [
+        "85", 
+        "Undying", 
+        "dota2assets/img/heroes/undying.png"
+    ], 
+    "Ursa": [
+        "70", 
+        "Ursa", 
+        "dota2assets/img/heroes/ursa.png"
+    ], 
+    "Vengeful_Spirit": [
+        "20", 
+        "Vengeful Spirit", 
+        "dota2assets/img/heroes/vengefulspirit.png"
+    ], 
+    "Venomancer": [
+        "40", 
+        "Venomancer", 
+        "dota2assets/img/heroes/venomancer.png"
+    ], 
+    "Viper": [
+        "47", 
+        "Viper", 
+        "dota2assets/img/heroes/viper.png"
+    ], 
+    "Visage": [
+        "92", 
+        "Visage", 
+        "dota2assets/img/heroes/visage.png"
+    ], 
+    "Warlock": [
+        "37", 
+        "Warlock", 
+        "dota2assets/img/heroes/warlock.png"
+    ], 
+    "Weaver": [
+        "63", 
+        "Weaver", 
+        "dota2assets/img/heroes/weaver.png"
+    ], 
+    "Windranger": [
+        "21", 
+        "Windranger", 
+        "dota2assets/img/heroes/windrunner.png"
+    ], 
+    "Winter_Wyvern": [
+        "112", 
+        "Winter Wyvern", 
+        "dota2assets/img/heroes/winter_wyvern.png"
+    ], 
+    "Witch_Doctor": [
+        "30", 
+        "Witch Doctor", 
+        "dota2assets/img/heroes/witch_doctor.png"
+    ], 
+    "Wraith_King": [
+        "42", 
+        "Wraith King", 
+        "dota2assets/img/heroes/skeleton_king.png"
+    ], 
+    "Zeus": [
+        "22", 
+        "Zeus", 
+        "dota2assets/img/heroes/zuus.png"
+    ]
+}
