@@ -404,7 +404,7 @@ for key, val in heroes.iteritems():
 hero_url_id = OrderedDict()
 
 for key, val in heroes.iteritems():
-    hero_url_id[val["url"]] = [key, val["localized_name"], val["img"]]
+    hero_url_id[val["url"]] = [key, val["localized_name"], val["webm"]]
 
 
 

@@ -2,566 +2,566 @@
     "Abaddon": [
         "102", 
         "Abaddon", 
-        "dota2assets/img/heroes/abaddon.png"
+        "dota2assets/webm/heroes/abaddon.webm"
     ], 
     "Alchemist": [
         "73", 
         "Alchemist", 
-        "dota2assets/img/heroes/alchemist.png"
+        "dota2assets/webm/heroes/alchemist.webm"
     ], 
     "Ancient_Apparition": [
         "68", 
         "Ancient Apparition", 
-        "dota2assets/img/heroes/ancient_apparition.png"
+        "dota2assets/webm/heroes/ancient_apparition.webm"
     ], 
     "Anti-Mage": [
         "1", 
         "Anti-Mage", 
-        "dota2assets/img/heroes/antimage.png"
+        "dota2assets/webm/heroes/antimage.webm"
     ], 
     "Arc_Warden": [
         "113", 
         "Arc Warden", 
-        "dota2assets/img/heroes/arc_warden.png"
+        "dota2assets/webm/heroes/arc_warden.webm"
     ], 
     "Axe": [
         "2", 
         "Axe", 
-        "dota2assets/img/heroes/axe.png"
+        "dota2assets/webm/heroes/axe.webm"
     ], 
     "Bane": [
         "3", 
         "Bane", 
-        "dota2assets/img/heroes/bane.png"
+        "dota2assets/webm/heroes/bane.webm"
     ], 
     "Batrider": [
         "65", 
         "Batrider", 
-        "dota2assets/img/heroes/batrider.png"
+        "dota2assets/webm/heroes/batrider.webm"
     ], 
     "Beastmaster": [
         "38", 
         "Beastmaster", 
-        "dota2assets/img/heroes/beastmaster.png"
+        "dota2assets/webm/heroes/beastmaster.webm"
     ], 
     "Bloodseeker": [
         "4", 
         "Bloodseeker", 
-        "dota2assets/img/heroes/bloodseeker.png"
+        "dota2assets/webm/heroes/bloodseeker.webm"
     ], 
     "Bounty_Hunter": [
         "62", 
         "Bounty Hunter", 
-        "dota2assets/img/heroes/bounty_hunter.png"
+        "dota2assets/webm/heroes/bounty_hunter.webm"
     ], 
     "Brewmaster": [
         "78", 
         "Brewmaster", 
-        "dota2assets/img/heroes/brewmaster.png"
+        "dota2assets/webm/heroes/brewmaster.webm"
     ], 
     "Bristleback": [
         "99", 
         "Bristleback", 
-        "dota2assets/img/heroes/bristleback.png"
+        "dota2assets/webm/heroes/bristleback.webm"
     ], 
     "Broodmother": [
         "61", 
         "Broodmother", 
-        "dota2assets/img/heroes/broodmother.png"
+        "dota2assets/webm/heroes/broodmother.webm"
     ], 
     "Centaur_Warrunner": [
         "96", 
         "Centaur Warrunner", 
-        "dota2assets/img/heroes/centaur.png"
+        "dota2assets/webm/heroes/centaur.webm"
     ], 
     "Chaos_Knight": [
         "81", 
         "Chaos Knight", 
-        "dota2assets/img/heroes/chaos_knight.png"
+        "dota2assets/webm/heroes/chaos_knight.webm"
     ], 
     "Chen": [
         "66", 
         "Chen", 
-        "dota2assets/img/heroes/chen.png"
+        "dota2assets/webm/heroes/chen.webm"
     ], 
     "Clinkz": [
         "56", 
         "Clinkz", 
-        "dota2assets/img/heroes/clinkz.png"
+        "dota2assets/webm/heroes/clinkz.webm"
     ], 
     "Clockwerk": [
         "51", 
         "Clockwerk", 
-        "dota2assets/img/heroes/rattletrap.png"
+        "dota2assets/webm/heroes/rattletrap.webm"
     ], 
     "Crystal_Maiden": [
         "5", 
         "Crystal Maiden", 
-        "dota2assets/img/heroes/crystal_maiden.png"
+        "dota2assets/webm/heroes/crystal_maiden.webm"
     ], 
     "Dark_Seer": [
         "55", 
         "Dark Seer", 
-        "dota2assets/img/heroes/dark_seer.png"
+        "dota2assets/webm/heroes/dark_seer.webm"
     ], 
     "Dazzle": [
         "50", 
         "Dazzle", 
-        "dota2assets/img/heroes/dazzle.png"
+        "dota2assets/webm/heroes/dazzle.webm"
     ], 
     "Death_Prophet": [
         "43", 
         "Death Prophet", 
-        "dota2assets/img/heroes/death_prophet.png"
+        "dota2assets/webm/heroes/death_prophet.webm"
     ], 
     "Disruptor": [
         "87", 
         "Disruptor", 
-        "dota2assets/img/heroes/disruptor.png"
+        "dota2assets/webm/heroes/disruptor.webm"
     ], 
     "Doom": [
         "69", 
         "Doom", 
-        "dota2assets/img/heroes/doom_bringer.png"
+        "dota2assets/webm/heroes/doom_bringer.webm"
     ], 
     "Dragon_Knight": [
         "49", 
         "Dragon Knight", 
-        "dota2assets/img/heroes/dragon_knight.png"
+        "dota2assets/webm/heroes/dragon_knight.webm"
     ], 
     "Drow_Ranger": [
         "6", 
         "Drow Ranger", 
-        "dota2assets/img/heroes/drow_ranger.png"
+        "dota2assets/webm/heroes/drow_ranger.webm"
     ], 
     "Earth_Spirit": [
         "107", 
         "Earth Spirit", 
-        "dota2assets/img/heroes/earth_spirit.png"
+        "dota2assets/webm/heroes/earth_spirit.webm"
     ], 
     "Earthshaker": [
         "7", 
         "Earthshaker", 
-        "dota2assets/img/heroes/earthshaker.png"
+        "dota2assets/webm/heroes/earthshaker.webm"
     ], 
     "Elder_Titan": [
         "103", 
         "Elder Titan", 
-        "dota2assets/img/heroes/elder_titan.png"
+        "dota2assets/webm/heroes/elder_titan.webm"
     ], 
     "Ember_Spirit": [
         "106", 
         "Ember Spirit", 
-        "dota2assets/img/heroes/ember_spirit.png"
+        "dota2assets/webm/heroes/ember_spirit.webm"
     ], 
     "Enchantress": [
         "58", 
         "Enchantress", 
-        "dota2assets/img/heroes/enchantress.png"
+        "dota2assets/webm/heroes/enchantress.webm"
     ], 
     "Enigma": [
         "33", 
         "Enigma", 
-        "dota2assets/img/heroes/enigma.png"
+        "dota2assets/webm/heroes/enigma.webm"
     ], 
     "Faceless_Void": [
         "41", 
         "Faceless Void", 
-        "dota2assets/img/heroes/faceless_void.png"
+        "dota2assets/webm/heroes/faceless_void.webm"
     ], 
     "Gyrocopter": [
         "72", 
         "Gyrocopter", 
-        "dota2assets/img/heroes/gyrocopter.png"
+        "dota2assets/webm/heroes/gyrocopter.webm"
     ], 
     "Huskar": [
         "59", 
         "Huskar", 
-        "dota2assets/img/heroes/huskar.png"
+        "dota2assets/webm/heroes/huskar.webm"
     ], 
     "Invoker": [
         "74", 
         "Invoker", 
-        "dota2assets/img/heroes/invoker.png"
+        "dota2assets/webm/heroes/invoker.webm"
     ], 
     "Io": [
         "91", 
         "Io", 
-        "dota2assets/img/heroes/wisp.png"
+        "dota2assets/webm/heroes/wisp.webm"
     ], 
     "Jakiro": [
         "64", 
         "Jakiro", 
-        "dota2assets/img/heroes/jakiro.png"
+        "dota2assets/webm/heroes/jakiro.webm"
     ], 
     "Juggernaut": [
         "8", 
         "Juggernaut", 
-        "dota2assets/img/heroes/juggernaut.png"
+        "dota2assets/webm/heroes/juggernaut.webm"
     ], 
     "Keeper_of_the_Light": [
         "90", 
         "Keeper of the Light", 
-        "dota2assets/img/heroes/keeper_of_the_light.png"
+        "dota2assets/webm/heroes/keeper_of_the_light.webm"
     ], 
     "Kunkka": [
         "23", 
         "Kunkka", 
-        "dota2assets/img/heroes/kunkka.png"
+        "dota2assets/webm/heroes/kunkka.webm"
     ], 
     "Legion_Commander": [
         "104", 
         "Legion Commander", 
-        "dota2assets/img/heroes/legion_commander.png"
+        "dota2assets/webm/heroes/legion_commander.webm"
     ], 
     "Leshrac": [
         "52", 
         "Leshrac", 
-        "dota2assets/img/heroes/leshrac.png"
+        "dota2assets/webm/heroes/leshrac.webm"
     ], 
     "Lich": [
         "31", 
         "Lich", 
-        "dota2assets/img/heroes/lich.png"
+        "dota2assets/webm/heroes/lich.webm"
     ], 
     "Lifestealer": [
         "54", 
         "Lifestealer", 
-        "dota2assets/img/heroes/life_stealer.png"
+        "dota2assets/webm/heroes/life_stealer.webm"
     ], 
     "Lina": [
         "25", 
         "Lina", 
-        "dota2assets/img/heroes/lina.png"
+        "dota2assets/webm/heroes/lina.webm"
     ], 
     "Lion": [
         "26", 
         "Lion", 
-        "dota2assets/img/heroes/lion.png"
+        "dota2assets/webm/heroes/lion.webm"
     ], 
     "Lone_Druid": [
         "80", 
         "Lone Druid", 
-        "dota2assets/img/heroes/lone_druid.png"
+        "dota2assets/webm/heroes/lone_druid.webm"
     ], 
     "Luna": [
         "48", 
         "Luna", 
-        "dota2assets/img/heroes/luna.png"
+        "dota2assets/webm/heroes/luna.webm"
     ], 
     "Lycan": [
         "77", 
         "Lycan", 
-        "dota2assets/img/heroes/lycan.png"
+        "dota2assets/webm/heroes/lycan.webm"
     ], 
     "Magnus": [
         "97", 
         "Magnus", 
-        "dota2assets/img/heroes/magnataur.png"
+        "dota2assets/webm/heroes/magnataur.webm"
     ], 
     "Medusa": [
         "94", 
         "Medusa", 
-        "dota2assets/img/heroes/medusa.png"
+        "dota2assets/webm/heroes/medusa.webm"
     ], 
     "Meepo": [
         "82", 
         "Meepo", 
-        "dota2assets/img/heroes/meepo.png"
+        "dota2assets/webm/heroes/meepo.webm"
     ], 
     "Mirana": [
         "9", 
         "Mirana", 
-        "dota2assets/img/heroes/mirana.png"
+        "dota2assets/webm/heroes/mirana.webm"
     ], 
     "Monkey_King": [
         "114", 
         "Monkey King", 
-        "dota2assets/img/heroes/monkey_king.png"
+        "dota2assets/webm/heroes/monkey_king.webm"
     ], 
     "Morphling": [
         "10", 
         "Morphling", 
-        "dota2assets/img/heroes/morphling.png"
+        "dota2assets/webm/heroes/morphling.webm"
     ], 
     "Naga_Siren": [
         "89", 
         "Naga Siren", 
-        "dota2assets/img/heroes/naga_siren.png"
+        "dota2assets/webm/heroes/naga_siren.webm"
     ], 
     "Natures_Prophet": [
         "53", 
         "Nature's Prophet", 
-        "dota2assets/img/heroes/furion.png"
+        "dota2assets/webm/heroes/furion.webm"
     ], 
     "Necrophos": [
         "36", 
         "Necrophos", 
-        "dota2assets/img/heroes/necrolyte.png"
+        "dota2assets/webm/heroes/necrolyte.webm"
     ], 
     "Night_Stalker": [
         "60", 
         "Night Stalker", 
-        "dota2assets/img/heroes/night_stalker.png"
+        "dota2assets/webm/heroes/night_stalker.webm"
     ], 
     "Nyx_Assassin": [
         "88", 
         "Nyx Assassin", 
-        "dota2assets/img/heroes/nyx_assassin.png"
+        "dota2assets/webm/heroes/nyx_assassin.webm"
     ], 
     "Ogre_Magi": [
         "84", 
         "Ogre Magi", 
-        "dota2assets/img/heroes/ogre_magi.png"
+        "dota2assets/webm/heroes/ogre_magi.webm"
     ], 
     "Omniknight": [
         "57", 
         "Omniknight", 
-        "dota2assets/img/heroes/omniknight.png"
+        "dota2assets/webm/heroes/omniknight.webm"
     ], 
     "Oracle": [
         "111", 
         "Oracle", 
-        "dota2assets/img/heroes/oracle.png"
+        "dota2assets/webm/heroes/oracle.webm"
     ], 
     "Outworld_Devourer": [
         "76", 
         "Outworld Devourer", 
-        "dota2assets/img/heroes/obsidian_destroyer.png"
+        "dota2assets/webm/heroes/obsidian_destroyer.webm"
     ], 
     "Phantom_Assassin": [
         "44", 
         "Phantom Assassin", 
-        "dota2assets/img/heroes/phantom_assassin.png"
+        "dota2assets/webm/heroes/phantom_assassin.webm"
     ], 
     "Phantom_Lancer": [
         "12", 
         "Phantom Lancer", 
-        "dota2assets/img/heroes/phantom_lancer.png"
+        "dota2assets/webm/heroes/phantom_lancer.webm"
     ], 
     "Phoenix": [
         "110", 
         "Phoenix", 
-        "dota2assets/img/heroes/phoenix.png"
+        "dota2assets/webm/heroes/phoenix.webm"
     ], 
     "Puck": [
         "13", 
         "Puck", 
-        "dota2assets/img/heroes/puck.png"
+        "dota2assets/webm/heroes/puck.webm"
     ], 
     "Pudge": [
         "14", 
         "Pudge", 
-        "dota2assets/img/heroes/pudge.png"
+        "dota2assets/webm/heroes/pudge.webm"
     ], 
     "Pugna": [
         "45", 
         "Pugna", 
-        "dota2assets/img/heroes/pugna.png"
+        "dota2assets/webm/heroes/pugna.webm"
     ], 
     "Queen_of_Pain": [
         "39", 
         "Queen of Pain", 
-        "dota2assets/img/heroes/queenofpain.png"
+        "dota2assets/webm/heroes/queenofpain.webm"
     ], 
     "Razor": [
         "15", 
         "Razor", 
-        "dota2assets/img/heroes/razor.png"
+        "dota2assets/webm/heroes/razor.webm"
     ], 
     "Riki": [
         "32", 
         "Riki", 
-        "dota2assets/img/heroes/riki.png"
+        "dota2assets/webm/heroes/riki.webm"
     ], 
     "Rubick": [
         "86", 
         "Rubick", 
-        "dota2assets/img/heroes/rubick.png"
+        "dota2assets/webm/heroes/rubick.webm"
     ], 
     "Sand_King": [
         "16", 
         "Sand King", 
-        "dota2assets/img/heroes/sand_king.png"
+        "dota2assets/webm/heroes/sand_king.webm"
     ], 
     "Shadow_Demon": [
         "79", 
         "Shadow Demon", 
-        "dota2assets/img/heroes/shadow_demon.png"
+        "dota2assets/webm/heroes/shadow_demon.webm"
     ], 
     "Shadow_Fiend": [
         "11", 
         "Shadow Fiend", 
-        "dota2assets/img/heroes/nevermore.png"
+        "dota2assets/webm/heroes/nevermore.webm"
     ], 
     "Shadow_Shaman": [
         "27", 
         "Shadow Shaman", 
-        "dota2assets/img/heroes/shadow_shaman.png"
+        "dota2assets/webm/heroes/shadow_shaman.webm"
     ], 
     "Silencer": [
         "75", 
         "Silencer", 
-        "dota2assets/img/heroes/silencer.png"
+        "dota2assets/webm/heroes/silencer.webm"
     ], 
     "Skywrath_Mage": [
         "101", 
         "Skywrath Mage", 
-        "dota2assets/img/heroes/skywrath_mage.png"
+        "dota2assets/webm/heroes/skywrath_mage.webm"
     ], 
     "Slardar": [
         "28", 
         "Slardar", 
-        "dota2assets/img/heroes/slardar.png"
+        "dota2assets/webm/heroes/slardar.webm"
     ], 
     "Slark": [
         "93", 
         "Slark", 
-        "dota2assets/img/heroes/slark.png"
+        "dota2assets/webm/heroes/slark.webm"
     ], 
     "Sniper": [
         "35", 
         "Sniper", 
-        "dota2assets/img/heroes/sniper.png"
+        "dota2assets/webm/heroes/sniper.webm"
     ], 
     "Spectre": [
         "67", 
         "Spectre", 
-        "dota2assets/img/heroes/spectre.png"
+        "dota2assets/webm/heroes/spectre.webm"
     ], 
     "Spirit_Breaker": [
         "71", 
         "Spirit Breaker", 
-        "dota2assets/img/heroes/spirit_breaker.png"
+        "dota2assets/webm/heroes/spirit_breaker.webm"
     ], 
     "Storm_Spirit": [
         "17", 
         "Storm Spirit", 
-        "dota2assets/img/heroes/storm_spirit.png"
+        "dota2assets/webm/heroes/storm_spirit.webm"
     ], 
     "Sven": [
         "18", 
         "Sven", 
-        "dota2assets/img/heroes/sven.png"
+        "dota2assets/webm/heroes/sven.webm"
     ], 
     "Techies": [
         "105", 
         "Techies", 
-        "dota2assets/img/heroes/techies.png"
+        "dota2assets/webm/heroes/techies.webm"
     ], 
     "Templar_Assassin": [
         "46", 
         "Templar Assassin", 
-        "dota2assets/img/heroes/templar_assassin.png"
+        "dota2assets/webm/heroes/templar_assassin.webm"
     ], 
     "Terrorblade": [
         "109", 
         "Terrorblade", 
-        "dota2assets/img/heroes/terrorblade.png"
+        "dota2assets/webm/heroes/terrorblade.webm"
     ], 
     "Tidehunter": [
         "29", 
         "Tidehunter", 
-        "dota2assets/img/heroes/tidehunter.png"
+        "dota2assets/webm/heroes/tidehunter.webm"
     ], 
     "Timbersaw": [
         "98", 
         "Timbersaw", 
-        "dota2assets/img/heroes/shredder.png"
+        "dota2assets/webm/heroes/shredder.webm"
     ], 
     "Tinker": [
         "34", 
         "Tinker", 
-        "dota2assets/img/heroes/tinker.png"
+        "dota2assets/webm/heroes/tinker.webm"
     ], 
     "Tiny": [
         "19", 
         "Tiny", 
-        "dota2assets/img/heroes/tiny.png"
+        "dota2assets/webm/heroes/tiny.webm"
     ], 
     "Treant_Protector": [
         "83", 
         "Treant Protector", 
-        "dota2assets/img/heroes/treant.png"
+        "dota2assets/webm/heroes/treant.webm"
     ], 
     "Troll_Warlord": [
         "95", 
         "Troll Warlord", 
-        "dota2assets/img/heroes/troll_warlord.png"
+        "dota2assets/webm/heroes/troll_warlord.webm"
     ], 
     "Tusk": [
         "100", 
         "Tusk", 
-        "dota2assets/img/heroes/tusk.png"
+        "dota2assets/webm/heroes/tusk.webm"
     ], 
     "Underlord": [
         "108", 
         "Underlord", 
-        "dota2assets/img/heroes/abyssal_underlord.png"
+        "dota2assets/webm/heroes/abyssal_underlord.webm"
     ], 
     "Undying": [
         "85", 
         "Undying", 
-        "dota2assets/img/heroes/undying.png"
+        "dota2assets/webm/heroes/undying.webm"
     ], 
     "Ursa": [
         "70", 
         "Ursa", 
-        "dota2assets/img/heroes/ursa.png"
+        "dota2assets/webm/heroes/ursa.webm"
     ], 
     "Vengeful_Spirit": [
         "20", 
         "Vengeful Spirit", 
-        "dota2assets/img/heroes/vengefulspirit.png"
+        "dota2assets/webm/heroes/vengefulspirit.webm"
     ], 
     "Venomancer": [
         "40", 
         "Venomancer", 
-        "dota2assets/img/heroes/venomancer.png"
+        "dota2assets/webm/heroes/venomancer.webm"
     ], 
     "Viper": [
         "47", 
         "Viper", 
-        "dota2assets/img/heroes/viper.png"
+        "dota2assets/webm/heroes/viper.webm"
     ], 
     "Visage": [
         "92", 
         "Visage", 
-        "dota2assets/img/heroes/visage.png"
+        "dota2assets/webm/heroes/visage.webm"
     ], 
     "Warlock": [
         "37", 
         "Warlock", 
-        "dota2assets/img/heroes/warlock.png"
+        "dota2assets/webm/heroes/warlock.webm"
     ], 
     "Weaver": [
         "63", 
         "Weaver", 
-        "dota2assets/img/heroes/weaver.png"
+        "dota2assets/webm/heroes/weaver.webm"
     ], 
     "Windranger": [
         "21", 
         "Windranger", 
-        "dota2assets/img/heroes/windrunner.png"
+        "dota2assets/webm/heroes/windrunner.webm"
     ], 
     "Winter_Wyvern": [
         "112", 
         "Winter Wyvern", 
-        "dota2assets/img/heroes/winter_wyvern.png"
+        "dota2assets/webm/heroes/winter_wyvern.webm"
     ], 
     "Witch_Doctor": [
         "30", 
         "Witch Doctor", 
-        "dota2assets/img/heroes/witch_doctor.png"
+        "dota2assets/webm/heroes/witch_doctor.webm"
     ], 
     "Wraith_King": [
         "42", 
         "Wraith King", 
-        "dota2assets/img/heroes/skeleton_king.png"
+        "dota2assets/webm/heroes/skeleton_king.webm"
     ], 
     "Zeus": [
         "22", 
         "Zeus", 
-        "dota2assets/img/heroes/zuus.png"
+        "dota2assets/webm/heroes/zuus.webm"
     ]
 }

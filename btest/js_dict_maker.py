@@ -7,6 +7,6 @@ with open('heroes_url_id.json') as filepath:
 
 x = []
 for key, val in heroes.iteritems():
-	y = "{key: <"+val[1]+">, value: [;"+key+";,@"+val[2]+"`]},"
+	y = "<"+key+"<: [;"+val[0]+";,@"+val[2]+"`],"
 	print y
 	#x.append()
