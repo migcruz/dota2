@@ -3055,7 +3055,14 @@
       "invoker_invoke",
       "invoker_cold_snap",
       "invoker_ghost_walk",
-      "invoker_tornado"
+      "invoker_ice_wall",
+      "invoker_emp",
+      "invoker_tornado",
+      "invoker_alacrity",
+      "invoker_sun_strike",
+      "invoker_forge_spirit",
+      "invoker_chaos_meteor",
+      "invoker_deafening_blast"
     ],
     "talents": [
       {
