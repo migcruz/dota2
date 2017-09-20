@@ -1,0 +1,6392 @@
+{
+    "npc_dota_hero_antimage": {
+        "abilities": [
+            [
+                "antimage_mana_break", 
+                1
+            ], 
+            [
+                "antimage_blink", 
+                1
+            ], 
+            [
+                "antimage_spell_shield", 
+                1
+            ], 
+            [
+                "antimage_mana_void", 
+                1
+            ]
+        ], 
+        "talents": [
+            {
+                "name": "special_bonus_hp_150", 
+                "level": 1
+            }, 
+            {
+                "name": "special_bonus_attack_damage_20", 
+                "level": 1
+            }, 
+            {
+                "name": "special_bonus_attack_speed_20", 
+                "level": 2
+            }, 
+            {
+                "name": "special_bonus_unique_antimage", 
+                "level": 2
+            }, 
+            {
+                "name": "special_bonus_evasion_15", 
+                "level": 3
+            }, 
+            {
+                "name": "special_bonus_all_stats_10", 
+                "level": 3
+            }, 
+            {
+                "name": "special_bonus_agility_25", 
+                "level": 4
+            }, 
+            {
+                "name": "special_bonus_unique_antimage_2", 
+                "level": 4
+            }
+        ]
+    }, 
+    "npc_dota_hero_axe": {
+        "abilities": [
+            [
+                "axe_berserkers_call", 
+                1
+            ], 
+            [
+                "axe_battle_hunger", 
+                1
+            ], 
+            [
+                "axe_counter_helix", 
+                1
+            ], 
+            [
+                "axe_culling_blade", 
+                1
+            ]
+        ], 
+        "talents": [
+            {
+                "name": "special_bonus_strength_6", 
+                "level": 1
+            }, 
+            {
+                "name": "special_bonus_mp_regen_3", 
+                "level": 1
+            }, 
+            {
+                "name": "special_bonus_attack_damage_75", 
+                "level": 2
+            }, 
+            {
+                "name": "special_bonus_hp_250", 
+                "level": 2
+            }, 
+            {
+                "name": "special_bonus_hp_regen_25", 
+                "level": 3
+            }, 
+            {
+                "name": "special_bonus_movement_speed_35", 
+                "level": 3
+            }, 
+            {
+                "name": "special_bonus_armor_15", 
+                "level": 4
+            }, 
+            {
+                "name": "special_bonus_unique_axe", 
+                "level": 4
+            }
+        ]
+    }, 
+    "npc_dota_hero_bane": {
+        "abilities": [
+            [
+                "bane_enfeeble", 
+                1
+            ], 
+            [
+                "bane_brain_sap", 
+                1
+            ], 
+            [
+                "bane_nightmare", 
+                1
+            ], 
+            [
+                "bane_fiends_grip", 
+                1
+            ], 
+            [
+                "bane_nightmare_end", 
+                1
+            ]
+        ], 
+        "talents": [
+            {
+                "name": "special_bonus_armor_6", 
+                "level": 1
+            }, 
+            {
+                "name": "special_bonus_mp_200", 
+                "level": 1
+            }, 
+            {
+                "name": "special_bonus_hp_250", 
+                "level": 2
+            }, 
+            {
+                "name": "special_bonus_exp_boost_30", 
+                "level": 2
+            }, 
+            {
+                "name": "special_bonus_unique_bane_1", 
+                "level": 3
+            }, 
+            {
+                "name": "special_bonus_cast_range_175", 
+                "level": 3
+            }, 
+            {
+                "name": "special_bonus_movement_speed_100", 
+                "level": 4
+            }, 
+            {
+                "name": "special_bonus_unique_bane_2", 
+                "level": 4
+            }
+        ]
+    }, 
+    "npc_dota_hero_bloodseeker": {
+        "abilities": [
+            [
+                "bloodseeker_bloodrage", 
+                1
+            ], 
+            [
+                "bloodseeker_blood_bath", 
+                1
+            ], 
+            [
+                "bloodseeker_thirst", 
+                1
+            ], 
+            [
+                "bloodseeker_rupture", 
+                1
+            ]
+        ], 
+        "talents": [
+            {
+                "name": "special_bonus_attack_damage_25", 
+                "level": 1
+            }, 
+            {
+                "name": "special_bonus_hp_225", 
+                "level": 1
+            }, 
+            {
+                "name": "special_bonus_attack_speed_30", 
+                "level": 2
+            }, 
+            {
+                "name": "special_bonus_unique_bloodseeker_2", 
+                "level": 2
+            }, 
+            {
+                "name": "special_bonus_unique_bloodseeker_3", 
+                "level": 3
+            }, 
+            {
+                "name": "special_bonus_all_stats_10", 
+                "level": 3
+            }, 
+            {
+                "name": "special_bonus_unique_bloodseeker", 
+                "level": 4
+            }, 
+            {
+                "name": "special_bonus_lifesteal_30", 
+                "level": 4
+            }
+        ]
+    }, 
+    "npc_dota_hero_crystal_maiden": {
+        "abilities": [
+            [
+                "crystal_maiden_crystal_nova", 
+                1
+            ], 
+            [
+                "crystal_maiden_frostbite", 
+                1
+            ], 
+            [
+                "crystal_maiden_brilliance_aura", 
+                1
+            ], 
+            [
+                "crystal_maiden_freezing_field", 
+                1
+            ]
+        ], 
+        "talents": [
+            {
+                "name": "special_bonus_magic_resistance_15", 
+                "level": 1
+            }, 
+            {
+                "name": "special_bonus_attack_damage_60", 
+                "level": 1
+            }, 
+            {
+                "name": "special_bonus_cast_range_125", 
+                "level": 2
+            }, 
+            {
+                "name": "special_bonus_hp_250", 
+                "level": 2
+            }, 
+            {
+                "name": "special_bonus_gold_income_20", 
+                "level": 3
+            }, 
+            {
+                "name": "special_bonus_unique_crystal_maiden_3", 
+                "level": 3
+            }, 
+            {
+                "name": "special_bonus_unique_crystal_maiden_1", 
+                "level": 4
+            }, 
+            {
+                "name": "special_bonus_unique_crystal_maiden_2", 
+                "level": 4
+            }
+        ]
+    }, 
+    "npc_dota_hero_drow_ranger": {
+        "abilities": [
+            [
+                "drow_ranger_frost_arrows", 
+                1
+            ], 
+            [
+                "drow_ranger_wave_of_silence", 
+                1
+            ], 
+            [
+                "drow_ranger_trueshot", 
+                1
+            ], 
+            [
+                "drow_ranger_marksmanship", 
+                1
+            ]
+        ], 
+        "talents": [
+            {
+                "name": "special_bonus_movement_speed_15", 
+                "level": 1
+            }, 
+            {
+                "name": "special_bonus_all_stats_5", 
+                "level": 1
+            }, 
+            {
+                "name": "special_bonus_hp_175", 
+                "level": 2
+            }, 
+            {
+                "name": "special_bonus_attack_speed_20", 
+                "level": 2
+            }, 
+            {
+                "name": "special_bonus_unique_drow_ranger_1", 
+                "level": 3
+            }, 
+            {
+                "name": "special_bonus_strength_14", 
+                "level": 3
+            }, 
+            {
+                "name": "special_bonus_unique_drow_ranger_2", 
+                "level": 4
+            }, 
+            {
+                "name": "special_bonus_unique_drow_ranger_3", 
+                "level": 4
+            }
+        ]
+    }, 
+    "npc_dota_hero_earthshaker": {
+        "abilities": [
+            [
+                "earthshaker_fissure", 
+                1
+            ], 
+            [
+                "earthshaker_enchant_totem", 
+                1
+            ], 
+            [
+                "earthshaker_aftershock", 
+                1
+            ], 
+            [
+                "earthshaker_echo_slam", 
+                1
+            ]
+        ], 
+        "talents": [
+            {
+                "name": "special_bonus_strength_10", 
+                "level": 1
+            }, 
+            {
+                "name": "special_bonus_mp_250", 
+                "level": 1
+            }, 
+            {
+                "name": "special_bonus_movement_speed_20", 
+                "level": 2
+            }, 
+            {
+                "name": "special_bonus_attack_damage_50", 
+                "level": 2
+            }, 
+            {
+                "name": "special_bonus_unique_earthshaker_2", 
+                "level": 3
+            }, 
+            {
+                "name": "special_bonus_unique_earthshaker_3", 
+                "level": 3
+            }, 
+            {
+                "name": "special_bonus_hp_600", 
+                "level": 4
+            }, 
+            {
+                "name": "special_bonus_unique_earthshaker", 
+                "level": 4
+            }
+        ]
+    }, 
+    "npc_dota_hero_juggernaut": {
+        "abilities": [
+            [
+                "juggernaut_blade_fury", 
+                1
+            ], 
+            [
+                "juggernaut_healing_ward", 
+                1
+            ], 
+            [
+                "juggernaut_blade_dance", 
+                1
+            ], 
+            [
+                "juggernaut_omni_slash", 
+                1
+            ]
+        ], 
+        "talents": [
+            {
+                "name": "special_bonus_hp_175", 
+                "level": 1
+            }, 
+            {
+                "name": "special_bonus_attack_damage_20", 
+                "level": 1
+            }, 
+            {
+                "name": "special_bonus_attack_speed_20", 
+                "level": 2
+            }, 
+            {
+                "name": "special_bonus_armor_7", 
+                "level": 2
+            }, 
+            {
+                "name": "special_bonus_movement_speed_20", 
+                "level": 3
+            }, 
+            {
+                "name": "special_bonus_all_stats_8", 
+                "level": 3
+            }, 
+            {
+                "name": "special_bonus_agility_20", 
+                "level": 4
+            }, 
+            {
+                "name": "special_bonus_unique_juggernaut", 
+                "level": 4
+            }
+        ]
+    }, 
+    "npc_dota_hero_mirana": {
+        "abilities": [
+            [
+                "mirana_starfall", 
+                1
+            ], 
+            [
+                "mirana_arrow", 
+                1
+            ], 
+            [
+                "mirana_leap", 
+                1
+            ], 
+            [
+                "mirana_invis", 
+                1
+            ]
+        ], 
+        "talents": [
+            {
+                "name": "special_bonus_agility_8", 
+                "level": 1
+            }, 
+            {
+                "name": "special_bonus_hp_150", 
+                "level": 1
+            }, 
+            {
+                "name": "special_bonus_spell_amplify_5", 
+                "level": 2
+            }, 
+            {
+                "name": "special_bonus_attack_speed_30", 
+                "level": 2
+            }, 
+            {
+                "name": "special_bonus_attack_damage_50", 
+                "level": 3
+            }, 
+            {
+                "name": "special_bonus_unique_mirana_3", 
+                "level": 3
+            }, 
+            {
+                "name": "special_bonus_unique_mirana_1", 
+                "level": 4
+            }, 
+            {
+                "name": "special_bonus_unique_mirana_2", 
+                "level": 4
+            }
+        ]
+    }, 
+    "npc_dota_hero_nevermore": {
+        "abilities": [
+            [
+                "nevermore_shadowraze1", 
+                3
+            ], 
+            [
+                "nevermore_shadowraze2", 
+                3
+            ], 
+            [
+                "nevermore_shadowraze3", 
+                3
+            ], 
+            [
+                "nevermore_necromastery", 
+                1
+            ], 
+            [
+                "nevermore_dark_lord", 
+                1
+            ], 
+            [
+                "nevermore_requiem", 
+                1
+            ]
+        ], 
+        "talents": [
+            {
+                "name": "special_bonus_movement_speed_15", 
+                "level": 1
+            }, 
+            {
+                "name": "special_bonus_attack_speed_20", 
+                "level": 1
+            }, 
+            {
+                "name": "special_bonus_spell_amplify_6", 
+                "level": 2
+            }, 
+            {
+                "name": "special_bonus_hp_175", 
+                "level": 2
+            }, 
+            {
+                "name": "special_bonus_lifesteal_15", 
+                "level": 3
+            }, 
+            {
+                "name": "special_bonus_unique_nevermore_1", 
+                "level": 3
+            }, 
+            {
+                "name": "special_bonus_attack_range_150", 
+                "level": 4
+            }, 
+            {
+                "name": "special_bonus_unique_nevermore_2", 
+                "level": 4
+            }
+        ]
+    }, 
+    "npc_dota_hero_morphling": {
+        "abilities": [
+            [
+                "morphling_waveform", 
+                1
+            ], 
+            [
+                "morphling_adaptive_strike", 
+                1
+            ], 
+            [
+                "morphling_morph_agi", 
+                2
+            ], 
+            [
+                "morphling_morph_str", 
+                2
+            ], 
+            [
+                "morphling_hybrid", 
+                1
+            ], 
+            [
+                "morphling_replicate", 
+                2
+            ], 
+            [
+                "morphling_morph_replicate", 
+                2
+            ]
+        ], 
+        "talents": [
+            {
+                "name": "special_bonus_agility_8", 
+                "level": 1
+            }, 
+            {
+                "name": "special_bonus_mp_200", 
+                "level": 1
+            }, 
+            {
+                "name": "special_bonus_attack_speed_25", 
+                "level": 2
+            }, 
+            {
+                "name": "special_bonus_cooldown_reduction_12", 
+                "level": 2
+            }, 
+            {
+                "name": "special_bonus_movement_speed_25", 
+                "level": 3
+            }, 
+            {
+                "name": "special_bonus_attack_damage_40", 
+                "level": 3
+            }, 
+            {
+                "name": "special_bonus_unique_morphling_1", 
+                "level": 4
+            }, 
+            {
+                "name": "special_bonus_unique_morphling_2", 
+                "level": 4
+            }
+        ]
+    }, 
+    "npc_dota_hero_phantom_lancer": {
+        "abilities": [
+            [
+                "phantom_lancer_spirit_lance", 
+                1
+            ], 
+            [
+                "phantom_lancer_doppelwalk", 
+                1
+            ], 
+            [
+                "phantom_lancer_phantom_edge", 
+                1
+            ], 
+            [
+                "phantom_lancer_juxtapose", 
+                1
+            ]
+        ], 
+        "talents": [
+            {
+                "name": "special_bonus_unique_phantom_lancer_2", 
+                "level": 1
+            }, 
+            {
+                "name": "special_bonus_attack_speed_20", 
+                "level": 1
+            }, 
+            {
+                "name": "special_bonus_all_stats_8", 
+                "level": 2
+            }, 
+            {
+                "name": "special_bonus_cooldown_reduction_15", 
+                "level": 2
+            }, 
+            {
+                "name": "special_bonus_magic_resistance_15", 
+                "level": 3
+            }, 
+            {
+                "name": "special_bonus_evasion_15", 
+                "level": 3
+            }, 
+            {
+                "name": "special_bonus_strength_20", 
+                "level": 4
+            }, 
+            {
+                "name": "special_bonus_unique_phantom_lancer", 
+                "level": 4
+            }
+        ]
+    }, 
+    "npc_dota_hero_puck": {
+        "abilities": [
+            [
+                "puck_illusory_orb", 
+                2
+            ],
+            [
+                "puck_ethereal_jaunt", 
+                2
+            ],  
+            [
+                "puck_waning_rift", 
+                1
+            ], 
+            [
+                "puck_phase_shift", 
+                1
+            ], 
+            [
+                "puck_dream_coil", 
+                1
+            ]
+        ], 
+        "talents": [
+            {
+                "name": "special_bonus_intelligence_8", 
+                "level": 1
+            }, 
+            {
+                "name": "special_bonus_hp_175", 
+                "level": 1
+            }, 
+            {
+                "name": "special_bonus_attack_damage_50", 
+                "level": 2
+            }, 
+            {
+                "name": "special_bonus_magic_resistance_20", 
+                "level": 2
+            }, 
+            {
+                "name": "special_bonus_spell_amplify_10", 
+                "level": 3
+            }, 
+            {
+                "name": "special_bonus_unique_puck_2", 
+                "level": 3
+            }, 
+            {
+                "name": "special_bonus_gold_income_70", 
+                "level": 4
+            }, 
+            {
+                "name": "special_bonus_unique_puck", 
+                "level": 4
+            }
+        ]
+    }, 
+    "npc_dota_hero_pudge": {
+        "abilities": [
+            [
+                "pudge_meat_hook", 
+                1
+            ], 
+            [
+                "pudge_rot", 
+                1
+            ], 
+            [
+                "pudge_flesh_heap", 
+                1
+            ], 
+            [
+                "pudge_dismember", 
+                1
+            ]
+        ], 
+        "talents": [
+            {
+                "name": "special_bonus_strength_8", 
+                "level": 1
+            }, 
+            {
+                "name": "special_bonus_mp_regen_2", 
+                "level": 1
+            }, 
+            {
+                "name": "special_bonus_armor_5", 
+                "level": 2
+            }, 
+            {
+                "name": "special_bonus_movement_speed_15", 
+                "level": 2
+            }, 
+            {
+                "name": "special_bonus_gold_income_25", 
+                "level": 3
+            }, 
+            {
+                "name": "special_bonus_unique_pudge_3", 
+                "level": 3
+            }, 
+            {
+                "name": "special_bonus_unique_pudge_1", 
+                "level": 4
+            }, 
+            {
+                "name": "special_bonus_unique_pudge_2", 
+                "level": 4
+            }
+        ]
+    }, 
+    "npc_dota_hero_razor": {
+        "abilities": [
+            [
+                "razor_plasma_field", 
+                1
+            ], 
+            [
+                "razor_static_link", 
+                1
+            ], 
+            [
+                "razor_unstable_current", 
+                1
+            ], 
+            [
+                "razor_eye_of_the_storm", 
+                1
+            ]
+        ], 
+        "talents": [
+            {
+                "name": "special_bonus_movement_speed_25", 
+                "level": 1
+            }, 
+            {
+                "name": "special_bonus_agility_15", 
+                "level": 1
+            }, 
+            {
+                "name": "special_bonus_unique_razor_2", 
+                "level": 2
+            }, 
+            {
+                "name": "special_bonus_cast_range_175", 
+                "level": 2
+            }, 
+            {
+                "name": "special_bonus_hp_400", 
+                "level": 3
+            }, 
+            {
+                "name": "special_bonus_attack_speed_40", 
+                "level": 3
+            }, 
+            {
+                "name": "special_bonus_attack_range_175", 
+                "level": 4
+            }, 
+            {
+                "name": "special_bonus_unique_razor", 
+                "level": 4
+            }
+        ]
+    }, 
+    "npc_dota_hero_sand_king": {
+        "abilities": [
+            [
+                "sandking_burrowstrike", 
+                1
+            ], 
+            [
+                "sandking_sand_storm", 
+                1
+            ], 
+            [
+                "sandking_caustic_finale", 
+                1
+            ], 
+            [
+                "sandking_epicenter", 
+                1
+            ]
+        ], 
+        "talents": [
+            {
+                "name": "special_bonus_magic_resistance_10", 
+                "level": 1
+            }, 
+            {
+                "name": "special_bonus_armor_5", 
+                "level": 1
+            }, 
+            {
+                "name": "special_bonus_unique_sand_king_2", 
+                "level": 2
+            }, 
+            {
+                "name": "special_bonus_unique_sand_king_3", 
+                "level": 2
+            }, 
+            {
+                "name": "special_bonus_hp_350", 
+                "level": 3
+            }, 
+            {
+                "name": "special_bonus_gold_income_20", 
+                "level": 3
+            }, 
+            {
+                "name": "special_bonus_hp_regen_50", 
+                "level": 4
+            }, 
+            {
+                "name": "special_bonus_unique_sand_king", 
+                "level": 4
+            }
+        ]
+    }, 
+    "npc_dota_hero_storm_spirit": {
+        "abilities": [
+            [
+                "storm_spirit_static_remnant", 
+                1
+            ], 
+            [
+                "storm_spirit_electric_vortex", 
+                1
+            ], 
+            [
+                "storm_spirit_overload", 
+                1
+            ], 
+            [
+                "storm_spirit_ball_lightning", 
+                1
+            ]
+        ], 
+        "talents": [
+            {
+                "name": "special_bonus_attack_damage_20", 
+                "level": 1
+            }, 
+            {
+                "name": "special_bonus_mp_regen_3", 
+                "level": 1
+            }, 
+            {
+                "name": "special_bonus_hp_200", 
+                "level": 2
+            }, 
+            {
+                "name": "special_bonus_intelligence_10", 
+                "level": 2
+            }, 
+            {
+                "name": "special_bonus_attack_speed_40", 
+                "level": 3
+            }, 
+            {
+                "name": "special_bonus_armor_8", 
+                "level": 3
+            }, 
+            {
+                "name": "special_bonus_spell_amplify_10", 
+                "level": 4
+            }, 
+            {
+                "name": "special_bonus_unique_storm_spirit", 
+                "level": 4
+            }
+        ]
+    }, 
+    "npc_dota_hero_sven": {
+        "abilities": [
+            [
+                "sven_storm_bolt", 
+                1
+            ], 
+            [
+                "sven_great_cleave", 
+                1
+            ], 
+            [
+                "sven_warcry", 
+                1
+            ], 
+            [
+                "sven_gods_strength", 
+                1
+            ]
+        ], 
+        "talents": [
+            {
+                "name": "special_bonus_strength_6", 
+                "level": 1
+            }, 
+            {
+                "name": "special_bonus_mp_225", 
+                "level": 1
+            }, 
+            {
+                "name": "special_bonus_movement_speed_20", 
+                "level": 2
+            }, 
+            {
+                "name": "special_bonus_all_stats_8", 
+                "level": 2
+            }, 
+            {
+                "name": "special_bonus_attack_speed_30", 
+                "level": 3
+            }, 
+            {
+                "name": "special_bonus_evasion_20", 
+                "level": 3
+            }, 
+            {
+                "name": "special_bonus_attack_damage_65", 
+                "level": 4
+            }, 
+            {
+                "name": "special_bonus_unique_sven", 
+                "level": 4
+            }
+        ]
+    }, 
+    "npc_dota_hero_tiny": {
+        "abilities": [
+            [
+                "tiny_avalanche", 
+                1
+            ], 
+            [
+                "tiny_toss", 
+                1
+            ], 
+            [
+                "tiny_craggy_exterior", 
+                1
+            ], 
+            [
+                "tiny_grow", 
+                1
+            ]
+        ], 
+        "talents": [
+            {
+                "name": "special_bonus_strength_8", 
+                "level": 1
+            }, 
+            {
+                "name": "special_bonus_intelligence_14", 
+                "level": 1
+            }, 
+            {
+                "name": "special_bonus_attack_damage_60", 
+                "level": 2
+            }, 
+            {
+                "name": "special_bonus_movement_speed_40", 
+                "level": 2
+            }, 
+            {
+                "name": "special_bonus_attack_speed_25", 
+                "level": 3
+            }, 
+            {
+                "name": "special_bonus_mp_regen_14", 
+                "level": 3
+            }, 
+            {
+                "name": "special_bonus_cooldown_reduction_20", 
+                "level": 4
+            }, 
+            {
+                "name": "special_bonus_unique_tiny", 
+                "level": 4
+            }
+        ]
+    }, 
+    "npc_dota_hero_vengefulspirit": {
+        "abilities": [
+            [
+                "vengefulspirit_magic_missile", 
+                1
+            ], 
+            [
+                "vengefulspirit_wave_of_terror", 
+                1
+            ], 
+            [
+                "vengefulspirit_command_aura", 
+                1
+            ], 
+            [
+                "vengefulspirit_nether_swap", 
+                1
+            ]
+        ], 
+        "talents": [
+            {
+                "name": "special_bonus_magic_resistance_8", 
+                "level": 1
+            }, 
+            {
+                "name": "special_bonus_attack_speed_25", 
+                "level": 1
+            }, 
+            {
+                "name": "special_bonus_all_stats_8", 
+                "level": 2
+            }, 
+            {
+                "name": "special_bonus_unique_vengeful_spirit_1", 
+                "level": 2
+            }, 
+            {
+                "name": "special_bonus_attack_damage_65", 
+                "level": 3
+            }, 
+            {
+                "name": "special_bonus_movement_speed_35", 
+                "level": 3
+            }, 
+            {
+                "name": "special_bonus_unique_vengeful_spirit_2", 
+                "level": 4
+            }, 
+            {
+                "name": "special_bonus_unique_vengeful_spirit_3", 
+                "level": 4
+            }
+        ]
+    }, 
+    "npc_dota_hero_windrunner": {
+        "abilities": [
+            [
+                "windrunner_shackleshot", 
+                1
+            ], 
+            [
+                "windrunner_powershot", 
+                1
+            ], 
+            [
+                "windrunner_windrun", 
+                1
+            ], 
+            [
+                "windrunner_focusfire", 
+                1
+            ]
+        ], 
+        "talents": [
+            {
+                "name": "special_bonus_mp_regen_4", 
+                "level": 1
+            }, 
+            {
+                "name": "special_bonus_unique_windranger_2", 
+                "level": 1
+            }, 
+            {
+                "name": "special_bonus_movement_speed_40", 
+                "level": 2
+            }, 
+            {
+                "name": "special_bonus_intelligence_20", 
+                "level": 2
+            }, 
+            {
+                "name": "special_bonus_unique_windranger", 
+                "level": 3
+            }, 
+            {
+                "name": "special_bonus_unique_windranger_3", 
+                "level": 3
+            }, 
+            {
+                "name": "special_bonus_attack_range_150", 
+                "level": 4
+            }, 
+            {
+                "name": "special_bonus_cooldown_reduction_30", 
+                "level": 4
+            }
+        ]
+    }, 
+    "npc_dota_hero_zuus": {
+        "abilities": [
+            [
+                "zuus_arc_lightning", 
+                1
+            ], 
+            [
+                "zuus_lightning_bolt", 
+                1
+            ], 
+            [
+                "zuus_static_field", 
+                1
+            ], 
+            [
+                "zuus_cloud", 
+                1
+            ], 
+            [
+                "zuus_thundergods_wrath", 
+                1
+            ]
+        ], 
+        "talents": [
+            {
+                "name": "special_bonus_mp_regen_2", 
+                "level": 1
+            }, 
+            {
+                "name": "special_bonus_movement_speed_25", 
+                "level": 1
+            }, 
+            {
+                "name": "special_bonus_armor_7", 
+                "level": 2
+            }, 
+            {
+                "name": "special_bonus_magic_resistance_15", 
+                "level": 2
+            }, 
+            {
+                "name": "special_bonus_unique_zeus_2", 
+                "level": 3
+            }, 
+            {
+                "name": "special_bonus_unique_zeus_3", 
+                "level": 3
+            }, 
+            {
+                "name": "special_bonus_cast_range_200", 
+                "level": 4
+            }, 
+            {
+                "name": "special_bonus_unique_zeus", 
+                "level": 4
+            }
+        ]
+    }, 
+    "npc_dota_hero_kunkka": {
+        "abilities": [
+            [
+                "kunkka_torrent", 
+                1
+            ], 
+            [
+                "kunkka_tidebringer", 
+                1
+            ], 
+            [
+                "kunkka_x_marks_the_spot", 
+                2
+            ],
+            [
+                "kunkka_return", 
+                2
+            ], 
+            [
+                "kunkka_ghostship", 
+                1
+            ]
+        ], 
+        "talents": [
+            {
+                "name": "special_bonus_attack_damage_30", 
+                "level": 1
+            }, 
+            {
+                "name": "special_bonus_unique_kunkka_2", 
+                "level": 1
+            }, 
+            {
+                "name": "special_bonus_hp_regen_15", 
+                "level": 2
+            }, 
+            {
+                "name": "special_bonus_movement_speed_30", 
+                "level": 2
+            }, 
+            {
+                "name": "special_bonus_hp_300", 
+                "level": 3
+            }, 
+            {
+                "name": "special_bonus_gold_income_20", 
+                "level": 3
+            }, 
+            {
+                "name": "special_bonus_magic_resistance_35", 
+                "level": 4
+            }, 
+            {
+                "name": "special_bonus_unique_kunkka", 
+                "level": 4
+            }
+        ]
+    }, 
+    "npc_dota_hero_lina": {
+        "abilities": [
+            [
+                "lina_dragon_slave", 
+                1
+            ], 
+            [
+                "lina_light_strike_array", 
+                1
+            ], 
+            [
+                "lina_fiery_soul", 
+                1
+            ], 
+            [
+                "lina_laguna_blade", 
+                1
+            ]
+        ], 
+        "talents": [
+            {
+                "name": "special_bonus_unique_lina_3", 
+                "level": 1
+            }, 
+            {
+                "name": "special_bonus_cast_range_125", 
+                "level": 1
+            }, 
+            {
+                "name": "special_bonus_attack_damage_50", 
+                "level": 2
+            }, 
+            {
+                "name": "special_bonus_movement_speed_40", 
+                "level": 2
+            }, 
+            {
+                "name": "special_bonus_spell_amplify_6", 
+                "level": 3
+            }, 
+            {
+                "name": "special_bonus_attack_range_150", 
+                "level": 3
+            }, 
+            {
+                "name": "special_bonus_unique_lina_1", 
+                "level": 4
+            }, 
+            {
+                "name": "special_bonus_unique_lina_2", 
+                "level": 4
+            }
+        ]
+    }, 
+    "npc_dota_hero_lich": {
+        "abilities": [
+            [
+                "lich_frost_nova", 
+                1
+            ], 
+            [
+                "lich_frost_armor", 
+                1
+            ], 
+            [
+                "lich_dark_ritual", 
+                1
+            ], 
+            [
+                "lich_chain_frost", 
+                1
+            ]
+        ], 
+        "talents": [
+            {
+                "name": "special_bonus_hp_175", 
+                "level": 1
+            }, 
+            {
+                "name": "special_bonus_movement_speed_25", 
+                "level": 1
+            }, 
+            {
+                "name": "special_bonus_cast_range_125", 
+                "level": 2
+            }, 
+            {
+                "name": "special_bonus_unique_lich_3", 
+                "level": 2
+            }, 
+            {
+                "name": "special_bonus_attack_damage_150", 
+                "level": 3
+            }, 
+            {
+                "name": "special_bonus_gold_income_20", 
+                "level": 3
+            }, 
+            {
+                "name": "special_bonus_unique_lich_1", 
+                "level": 4
+            }, 
+            {
+                "name": "special_bonus_unique_lich_2", 
+                "level": 4
+            }
+        ]
+    }, 
+    "npc_dota_hero_lion": {
+        "abilities": [
+            [
+                "lion_impale", 
+                1
+            ], 
+            [
+                "lion_voodoo", 
+                1
+            ], 
+            [
+                "lion_mana_drain", 
+                1
+            ], 
+            [
+                "lion_finger_of_death", 
+                1
+            ]
+        ], 
+        "talents": [
+            {
+                "name": "special_bonus_cast_range_75", 
+                "level": 1
+            }, 
+            {
+                "name": "special_bonus_attack_damage_60", 
+                "level": 1
+            }, 
+            {
+                "name": "special_bonus_unique_lion_2", 
+                "level": 2
+            }, 
+            {
+                "name": "special_bonus_gold_income_15", 
+                "level": 2
+            }, 
+            {
+                "name": "special_bonus_magic_resistance_20", 
+                "level": 3
+            }, 
+            {
+                "name": "special_bonus_spell_amplify_8", 
+                "level": 3
+            }, 
+            {
+                "name": "special_bonus_all_stats_20", 
+                "level": 4
+            }, 
+            {
+                "name": "special_bonus_unique_lion", 
+                "level": 4
+            }
+        ]
+    }, 
+    "npc_dota_hero_shadow_shaman": {
+        "abilities": [
+            [
+                "shadow_shaman_ether_shock", 
+                1
+            ], 
+            [
+                "shadow_shaman_voodoo", 
+                1
+            ], 
+            [
+                "shadow_shaman_shackles", 
+                1
+            ], 
+            [
+                "shadow_shaman_mass_serpent_ward", 
+                1
+            ]
+        ], 
+        "talents": [
+            {
+                "name": "special_bonus_hp_200", 
+                "level": 1
+            }, 
+            {
+                "name": "special_bonus_movement_speed_25", 
+                "level": 1
+            }, 
+            {
+                "name": "special_bonus_cast_range_100", 
+                "level": 2
+            }, 
+            {
+                "name": "special_bonus_exp_boost_35", 
+                "level": 2
+            }, 
+            {
+                "name": "special_bonus_unique_shadow_shaman_4", 
+                "level": 3
+            }, 
+            {
+                "name": "special_bonus_unique_shadow_shaman_2", 
+                "level": 3
+            }, 
+            {
+                "name": "special_bonus_unique_shadow_shaman_1", 
+                "level": 4
+            }, 
+            {
+                "name": "special_bonus_unique_shadow_shaman_3", 
+                "level": 4
+            }
+        ]
+    }, 
+    "npc_dota_hero_slardar": {
+        "abilities": [
+            [
+                "slardar_sprint", 
+                1
+            ], 
+            [
+                "slardar_slithereen_crush", 
+                1
+            ], 
+            [
+                "slardar_bash", 
+                1
+            ], 
+            [
+                "slardar_amplify_damage", 
+                1
+            ]
+        ], 
+        "talents": [
+            {
+                "name": "special_bonus_hp_regen_6", 
+                "level": 1
+            }, 
+            {
+                "name": "special_bonus_mp_175", 
+                "level": 1
+            }, 
+            {
+                "name": "special_bonus_hp_225", 
+                "level": 2
+            }, 
+            {
+                "name": "special_bonus_attack_speed_25", 
+                "level": 2
+            }, 
+            {
+                "name": "special_bonus_attack_damage_35", 
+                "level": 3
+            }, 
+            {
+                "name": "special_bonus_armor_7", 
+                "level": 3
+            }, 
+            {
+                "name": "special_bonus_strength_20", 
+                "level": 4
+            }, 
+            {
+                "name": "special_bonus_unique_slardar", 
+                "level": 4
+            }
+        ]
+    }, 
+    "npc_dota_hero_tidehunter": {
+        "abilities": [
+            [
+                "tidehunter_gush", 
+                1
+            ], 
+            [
+                "tidehunter_kraken_shell", 
+                1
+            ], 
+            [
+                "tidehunter_anchor_smash", 
+                1
+            ], 
+            [
+                "tidehunter_ravage", 
+                1
+            ]
+        ], 
+        "talents": [
+            {
+                "name": "special_bonus_attack_damage_50", 
+                "level": 1
+            }, 
+            {
+                "name": "special_bonus_hp_150", 
+                "level": 1
+            }, 
+            {
+                "name": "special_bonus_armor_7", 
+                "level": 2
+            }, 
+            {
+                "name": "special_bonus_exp_boost_35", 
+                "level": 2
+            }, 
+            {
+                "name": "special_bonus_mp_regen_6", 
+                "level": 3
+            }, 
+            {
+                "name": "special_bonus_strength_15", 
+                "level": 3
+            }, 
+            {
+                "name": "special_bonus_cooldown_reduction_20", 
+                "level": 4
+            }, 
+            {
+                "name": "special_bonus_unique_tidehunter", 
+                "level": 4
+            }
+        ]
+    }, 
+    "npc_dota_hero_witch_doctor": {
+        "abilities": [
+            [
+                "witch_doctor_paralyzing_cask", 
+                1
+            ], 
+            [
+                "witch_doctor_voodoo_restoration", 
+                1
+            ], 
+            [
+                "witch_doctor_maledict", 
+                1
+            ], 
+            [
+                "witch_doctor_death_ward", 
+                1
+            ]
+        ], 
+        "talents": [
+            {
+                "name": "special_bonus_hp_200", 
+                "level": 1
+            }, 
+            {
+                "name": "special_bonus_exp_boost_25", 
+                "level": 1
+            }, 
+            {
+                "name": "special_bonus_attack_damage_90", 
+                "level": 2
+            }, 
+            {
+                "name": "special_bonus_unique_witch_doctor_3", 
+                "level": 2
+            }, 
+            {
+                "name": "special_bonus_armor_8", 
+                "level": 3
+            }, 
+            {
+                "name": "special_bonus_magic_resistance_15", 
+                "level": 3
+            }, 
+            {
+                "name": "special_bonus_unique_witch_doctor_1", 
+                "level": 4
+            }, 
+            {
+                "name": "special_bonus_unique_witch_doctor_2", 
+                "level": 4
+            }
+        ]
+    }, 
+    "npc_dota_hero_riki": {
+        "abilities": [
+            [
+                "riki_smoke_screen", 
+                1
+            ], 
+            [
+                "riki_blink_strike", 
+                1
+            ], 
+            [
+                "riki_permanent_invisibility", 
+                1
+            ], 
+            [
+                "riki_tricks_of_the_trade", 
+                1
+            ]
+        ], 
+        "talents": [
+            {
+                "name": "special_bonus_hp_150", 
+                "level": 1
+            }, 
+            {
+                "name": "special_bonus_movement_speed_15", 
+                "level": 1
+            }, 
+            {
+                "name": "special_bonus_agility_10", 
+                "level": 2
+            }, 
+            {
+                "name": "special_bonus_exp_boost_30", 
+                "level": 2
+            }, 
+            {
+                "name": "special_bonus_cast_range_250", 
+                "level": 3
+            }, 
+            {
+                "name": "special_bonus_all_stats_8", 
+                "level": 3
+            }, 
+            {
+                "name": "special_bonus_unique_riki_1", 
+                "level": 4
+            }, 
+            {
+                "name": "special_bonus_unique_riki_2", 
+                "level": 4
+            }
+        ]
+    }, 
+    "npc_dota_hero_enigma": {
+        "abilities": [
+            [
+                "enigma_malefice", 
+                1
+            ], 
+            [
+                "enigma_demonic_conversion", 
+                1
+            ], 
+            [
+                "enigma_midnight_pulse", 
+                1
+            ], 
+            [
+                "enigma_black_hole", 
+                1
+            ]
+        ], 
+        "talents": [
+            {
+                "name": "special_bonus_movement_speed_20", 
+                "level": 1
+            }, 
+            {
+                "name": "special_bonus_magic_resistance_12", 
+                "level": 1
+            }, 
+            {
+                "name": "special_bonus_cooldown_reduction_15", 
+                "level": 2
+            }, 
+            {
+                "name": "special_bonus_gold_income_20", 
+                "level": 2
+            }, 
+            {
+                "name": "special_bonus_hp_300", 
+                "level": 3
+            }, 
+            {
+                "name": "special_bonus_unique_enigma_2", 
+                "level": 3
+            }, 
+            {
+                "name": "special_bonus_armor_12", 
+                "level": 4
+            }, 
+            {
+                "name": "special_bonus_unique_enigma", 
+                "level": 4
+            }
+        ]
+    }, 
+    "npc_dota_hero_tinker": {
+        "abilities": [
+            [
+                "tinker_laser", 
+                1
+            ], 
+            [
+                "tinker_heat_seeking_missile", 
+                1
+            ], 
+            [
+                "tinker_march_of_the_machines", 
+                1
+            ], 
+            [
+                "tinker_rearm", 
+                1
+            ]
+        ], 
+        "talents": [
+            {
+                "name": "special_bonus_intelligence_8", 
+                "level": 1
+            }, 
+            {
+                "name": "special_bonus_armor_6", 
+                "level": 1
+            }, 
+            {
+                "name": "special_bonus_hp_225", 
+                "level": 2
+            }, 
+            {
+                "name": "special_bonus_spell_amplify_4", 
+                "level": 2
+            }, 
+            {
+                "name": "special_bonus_cast_range_75", 
+                "level": 3
+            }, 
+            {
+                "name": "special_bonus_magic_resistance_15", 
+                "level": 3
+            }, 
+            {
+                "name": "special_bonus_spell_lifesteal_20", 
+                "level": 4
+            }, 
+            {
+                "name": "special_bonus_unique_tinker", 
+                "level": 4
+            }
+        ]
+    }, 
+    "npc_dota_hero_sniper": {
+        "abilities": [
+            [
+                "sniper_shrapnel", 
+                1
+            ], 
+            [
+                "sniper_headshot", 
+                1
+            ], 
+            [
+                "sniper_take_aim", 
+                1
+            ], 
+            [
+                "sniper_assassinate", 
+                1
+            ]
+        ], 
+        "talents": [
+            {
+                "name": "special_bonus_mp_regen_5", 
+                "level": 1
+            }, 
+            {
+                "name": "special_bonus_attack_speed_15", 
+                "level": 1
+            }, 
+            {
+                "name": "special_bonus_unique_sniper_1", 
+                "level": 2
+            }, 
+            {
+                "name": "special_bonus_hp_200", 
+                "level": 2
+            }, 
+            {
+                "name": "special_bonus_armor_8", 
+                "level": 3
+            }, 
+            {
+                "name": "special_bonus_cooldown_reduction_25", 
+                "level": 3
+            }, 
+            {
+                "name": "special_bonus_attack_range_100", 
+                "level": 4
+            }, 
+            {
+                "name": "special_bonus_unique_sniper_2", 
+                "level": 4
+            }
+        ]
+    }, 
+    "npc_dota_hero_necrolyte": {
+        "abilities": [
+            [
+                "necrolyte_death_pulse", 
+                1
+            ], 
+            [
+                "necrolyte_sadist", 
+                1
+            ], 
+            [
+                "necrolyte_heartstopper_aura", 
+                1
+            ], 
+            [
+                "necrolyte_reapers_scythe", 
+                1
+            ]
+        ], 
+        "talents": [
+            {
+                "name": "special_bonus_attack_damage_40", 
+                "level": 1
+            }, 
+            {
+                "name": "special_bonus_strength_8", 
+                "level": 1
+            }, 
+            {
+                "name": "special_bonus_all_stats_6", 
+                "level": 2
+            }, 
+            {
+                "name": "special_bonus_movement_speed_20", 
+                "level": 2
+            }, 
+            {
+                "name": "special_bonus_spell_amplify_5", 
+                "level": 3
+            }, 
+            {
+                "name": "special_bonus_magic_resistance_10", 
+                "level": 3
+            }, 
+            {
+                "name": "special_bonus_hp_400", 
+                "level": 4
+            }, 
+            {
+                "name": "special_bonus_unique_necrophos", 
+                "level": 4
+            }
+        ]
+    }, 
+    "npc_dota_hero_warlock": {
+        "abilities": [
+            [
+                "warlock_fatal_bonds", 
+                1
+            ], 
+            [
+                "warlock_shadow_word", 
+                1
+            ], 
+            [
+                "warlock_upheaval", 
+                1
+            ], 
+            [
+                "warlock_rain_of_chaos", 
+                1
+            ]
+        ], 
+        "talents": [
+            {
+                "name": "special_bonus_exp_boost_20", 
+                "level": 1
+            }, 
+            {
+                "name": "special_bonus_all_stats_6", 
+                "level": 1
+            }, 
+            {
+                "name": "special_bonus_cast_range_150", 
+                "level": 2
+            }, 
+            {
+                "name": "special_bonus_unique_warlock_3", 
+                "level": 2
+            }, 
+            {
+                "name": "special_bonus_hp_350", 
+                "level": 3
+            }, 
+            {
+                "name": "special_bonus_unique_warlock_4", 
+                "level": 3
+            }, 
+            {
+                "name": "special_bonus_unique_warlock_1", 
+                "level": 4
+            }, 
+            {
+                "name": "special_bonus_unique_warlock_2", 
+                "level": 4
+            }
+        ]
+    }, 
+    "npc_dota_hero_beastmaster": {
+        "abilities": [
+            [
+                "beastmaster_wild_axes", 
+                1
+            ], 
+            [
+                "beastmaster_call_of_the_wild", 
+                2
+            ], 
+            [
+                "beastmaster_call_of_the_wild_boar", 
+                2
+            ], 
+            [
+                "beastmaster_inner_beast", 
+                1
+            ], 
+            [
+                "beastmaster_primal_roar", 
+                1
+            ]
+        ], 
+        "talents": [
+            {
+                "name": "special_bonus_exp_boost_20", 
+                "level": 1
+            }, 
+            {
+                "name": "special_bonus_movement_speed_20", 
+                "level": 1
+            }, 
+            {
+                "name": "special_bonus_strength_12", 
+                "level": 2
+            }, 
+            {
+                "name": "special_bonus_unique_beastmaster_2", 
+                "level": 2
+            }, 
+            {
+                "name": "special_bonus_cooldown_reduction_12", 
+                "level": 3
+            }, 
+            {
+                "name": "special_bonus_hp_400", 
+                "level": 3
+            }, 
+            {
+                "name": "special_bonus_attack_damage_120", 
+                "level": 4
+            }, 
+            {
+                "name": "special_bonus_unique_beastmaster", 
+                "level": 4
+            }
+        ]
+    }, 
+    "npc_dota_hero_queenofpain": {
+        "abilities": [
+            [
+                "queenofpain_shadow_strike", 
+                1
+            ], 
+            [
+                "queenofpain_blink", 
+                1
+            ], 
+            [
+                "queenofpain_scream_of_pain", 
+                1
+            ], 
+            [
+                "queenofpain_sonic_wave", 
+                1
+            ]
+        ], 
+        "talents": [
+            {
+                "name": "special_bonus_attack_damage_25", 
+                "level": 1
+            }, 
+            {
+                "name": "special_bonus_strength_10", 
+                "level": 1
+            }, 
+            {
+                "name": "special_bonus_cooldown_reduction_12", 
+                "level": 2
+            }, 
+            {
+                "name": "special_bonus_gold_income_15", 
+                "level": 2
+            }, 
+            {
+                "name": "special_bonus_attack_range_100", 
+                "level": 3
+            }, 
+            {
+                "name": "special_bonus_hp_300", 
+                "level": 3
+            }, 
+            {
+                "name": "special_bonus_unique_queen_of_pain", 
+                "level": 4
+            }, 
+            {
+                "name": "special_bonus_spell_lifesteal_60", 
+                "level": 4
+            }
+        ]
+    }, 
+    "npc_dota_hero_venomancer": {
+        "abilities": [
+            [
+                "venomancer_venomous_gale", 
+                1
+            ], 
+            [
+                "venomancer_poison_sting", 
+                1
+            ], 
+            [
+                "venomancer_plague_ward", 
+                1
+            ], 
+            [
+                "venomancer_poison_nova", 
+                1
+            ]
+        ], 
+        "talents": [
+            {
+                "name": "special_bonus_exp_boost_30", 
+                "level": 1
+            }, 
+            {
+                "name": "special_bonus_movement_speed_30", 
+                "level": 1
+            }, 
+            {
+                "name": "special_bonus_hp_200", 
+                "level": 2
+            }, 
+            {
+                "name": "special_bonus_cast_range_150", 
+                "level": 2
+            }, 
+            {
+                "name": "special_bonus_attack_damage_75", 
+                "level": 3
+            }, 
+            {
+                "name": "special_bonus_magic_resistance_15", 
+                "level": 3
+            }, 
+            {
+                "name": "special_bonus_unique_venomancer_2", 
+                "level": 4
+            }, 
+            {
+                "name": "special_bonus_unique_venomancer", 
+                "level": 4
+            }
+        ]
+    }, 
+    "npc_dota_hero_faceless_void": {
+        "abilities": [
+            [
+                "faceless_void_time_walk", 
+                1
+            ], 
+            [
+                "faceless_void_time_dilation", 
+                1
+            ], 
+            [
+                "faceless_void_time_lock", 
+                1
+            ], 
+            [
+                "faceless_void_chronosphere", 
+                1
+            ]
+        ], 
+        "talents": [
+            {
+                "name": "special_bonus_attack_speed_15", 
+                "level": 1
+            }, 
+            {
+                "name": "special_bonus_strength_8", 
+                "level": 1
+            }, 
+            {
+                "name": "special_bonus_armor_7", 
+                "level": 2
+            }, 
+            {
+                "name": "special_bonus_attack_damage_25", 
+                "level": 2
+            }, 
+            {
+                "name": "special_bonus_hp_300", 
+                "level": 3
+            }, 
+            {
+                "name": "special_bonus_gold_income_20", 
+                "level": 3
+            }, 
+            {
+                "name": "special_bonus_evasion_20", 
+                "level": 4
+            }, 
+            {
+                "name": "special_bonus_unique_faceless_void", 
+                "level": 4
+            }
+        ]
+    }, 
+    "npc_dota_hero_skeleton_king": {
+        "abilities": [
+            [
+                "skeleton_king_hellfire_blast", 
+                1
+            ], 
+            [
+                "skeleton_king_vampiric_aura", 
+                1
+            ], 
+            [
+                "skeleton_king_mortal_strike", 
+                1
+            ], 
+            [
+                "skeleton_king_reincarnation", 
+                1
+            ]
+        ], 
+        "talents": [
+            {
+                "name": "special_bonus_attack_damage_15", 
+                "level": 1
+            }, 
+            {
+                "name": "special_bonus_intelligence_10", 
+                "level": 1
+            }, 
+            {
+                "name": "special_bonus_movement_speed_15", 
+                "level": 2
+            }, 
+            {
+                "name": "special_bonus_unique_wraith_king_3", 
+                "level": 2
+            }, 
+            {
+                "name": "special_bonus_attack_speed_40", 
+                "level": 3
+            }, 
+            {
+                "name": "special_bonus_unique_wraith_king_2", 
+                "level": 3
+            }, 
+            {
+                "name": "special_bonus_unique_wraith_king_1", 
+                "level": 4
+            }, 
+            {
+                "name": "special_bonus_unique_wraith_king_4", 
+                "level": 4
+            }
+        ]
+    }, 
+    "npc_dota_hero_death_prophet": {
+        "abilities": [
+            [
+                "death_prophet_carrion_swarm", 
+                1
+            ], 
+            [
+                "death_prophet_silence", 
+                1
+            ], 
+            [
+                "death_prophet_spirit_siphon", 
+                1
+            ], 
+            [
+                "death_prophet_exorcism", 
+                1
+            ]
+        ], 
+        "talents": [
+            {
+                "name": "special_bonus_spell_amplify_5", 
+                "level": 1
+            }, 
+            {
+                "name": "special_bonus_magic_resistance_12", 
+                "level": 1
+            }, 
+            {
+                "name": "special_bonus_unique_death_prophet_2", 
+                "level": 2
+            }, 
+            {
+                "name": "special_bonus_cast_range_150", 
+                "level": 2
+            }, 
+            {
+                "name": "special_bonus_cooldown_reduction_10", 
+                "level": 3
+            }, 
+            {
+                "name": "special_bonus_movement_speed_50", 
+                "level": 3
+            }, 
+            {
+                "name": "special_bonus_hp_600", 
+                "level": 4
+            }, 
+            {
+                "name": "special_bonus_unique_death_prophet", 
+                "level": 4
+            }
+        ]
+    }, 
+    "npc_dota_hero_phantom_assassin": {
+        "abilities": [
+            [
+                "phantom_assassin_stifling_dagger", 
+                1
+            ], 
+            [
+                "phantom_assassin_phantom_strike", 
+                1
+            ], 
+            [
+                "phantom_assassin_blur", 
+                1
+            ], 
+            [
+                "phantom_assassin_coup_de_grace", 
+                1
+            ]
+        ], 
+        "talents": [
+            {
+                "name": "special_bonus_hp_150", 
+                "level": 1
+            }, 
+            {
+                "name": "special_bonus_attack_damage_15", 
+                "level": 1
+            }, 
+            {
+                "name": "special_bonus_lifesteal_10", 
+                "level": 2
+            }, 
+            {
+                "name": "special_bonus_movement_speed_20", 
+                "level": 2
+            }, 
+            {
+                "name": "special_bonus_attack_speed_35", 
+                "level": 3
+            }, 
+            {
+                "name": "special_bonus_all_stats_10", 
+                "level": 3
+            }, 
+            {
+                "name": "special_bonus_agility_25", 
+                "level": 4
+            }, 
+            {
+                "name": "special_bonus_unique_phantom_assassin", 
+                "level": 4
+            }
+        ]
+    }, 
+    "npc_dota_hero_pugna": {
+        "abilities": [
+            [
+                "pugna_nether_blast", 
+                1
+            ], 
+            [
+                "pugna_decrepify", 
+                1
+            ], 
+            [
+                "pugna_nether_ward", 
+                1
+            ], 
+            [
+                "pugna_life_drain", 
+                1
+            ]
+        ], 
+        "talents": [
+            {
+                "name": "special_bonus_mp_regen_3", 
+                "level": 1
+            }, 
+            {
+                "name": "special_bonus_hp_225", 
+                "level": 1
+            }, 
+            {
+                "name": "special_bonus_unique_pugna_5", 
+                "level": 2
+            }, 
+            {
+                "name": "special_bonus_unique_pugna_4", 
+                "level": 2
+            }, 
+            {
+                "name": "special_bonus_unique_pugna_3", 
+                "level": 3
+            }, 
+            {
+                "name": "special_bonus_cast_range_150", 
+                "level": 3
+            }, 
+            {
+                "name": "special_bonus_unique_pugna_1", 
+                "level": 4
+            }, 
+            {
+                "name": "special_bonus_unique_pugna_2", 
+                "level": 4
+            }
+        ]
+    }, 
+    "npc_dota_hero_templar_assassin": {
+        "abilities": [
+            [
+                "templar_assassin_refraction", 
+                1
+            ], 
+            [
+                "templar_assassin_meld", 
+                1
+            ], 
+            [
+                "templar_assassin_psi_blades", 
+                1
+            ], 
+            [
+                "templar_assassin_trap", 
+                2
+            ], 
+            [
+                "templar_assassin_psionic_trap", 
+                2
+            ]
+        ], 
+        "talents": [
+            {
+                "name": "special_bonus_attack_speed_25", 
+                "level": 1
+            }, 
+            {
+                "name": "special_bonus_movement_speed_20", 
+                "level": 1
+            }, 
+            {
+                "name": "special_bonus_all_stats_6", 
+                "level": 2
+            }, 
+            {
+                "name": "special_bonus_evasion_12", 
+                "level": 2
+            }, 
+            {
+                "name": "special_bonus_hp_275", 
+                "level": 3
+            }, 
+            {
+                "name": "special_bonus_attack_damage_40", 
+                "level": 3
+            }, 
+            {
+                "name": "special_bonus_unique_templar_assassin_2", 
+                "level": 4
+            }, 
+            {
+                "name": "special_bonus_unique_templar_assassin", 
+                "level": 4
+            }
+        ]
+    }, 
+    "npc_dota_hero_viper": {
+        "abilities": [
+            [
+                "viper_poison_attack", 
+                1
+            ], 
+            [
+                "viper_nethertoxin", 
+                1
+            ], 
+            [
+                "viper_corrosive_skin", 
+                1
+            ], 
+            [
+                "viper_viper_strike", 
+                1
+            ]
+        ], 
+        "talents": [
+            {
+                "name": "special_bonus_attack_damage_15", 
+                "level": 1
+            }, 
+            {
+                "name": "special_bonus_hp_175", 
+                "level": 1
+            }, 
+            {
+                "name": "special_bonus_strength_15", 
+                "level": 2
+            }, 
+            {
+                "name": "special_bonus_agility_16", 
+                "level": 2
+            }, 
+            {
+                "name": "special_bonus_unique_viper_1", 
+                "level": 3
+            }, 
+            {
+                "name": "special_bonus_attack_range_75", 
+                "level": 3
+            }, 
+            {
+                "name": "special_bonus_armor_20", 
+                "level": 4
+            }, 
+            {
+                "name": "special_bonus_unique_viper_2", 
+                "level": 4
+            }
+        ]
+    }, 
+    "npc_dota_hero_luna": {
+        "abilities": [
+            [
+                "luna_lucent_beam", 
+                1
+            ], 
+            [
+                "luna_moon_glaive", 
+                1
+            ], 
+            [
+                "luna_lunar_blessing", 
+                1
+            ], 
+            [
+                "luna_eclipse", 
+                1
+            ]
+        ], 
+        "talents": [
+            {
+                "name": "special_bonus_attack_damage_15", 
+                "level": 1
+            }, 
+            {
+                "name": "special_bonus_movement_speed_20", 
+                "level": 1
+            }, 
+            {
+                "name": "special_bonus_hp_150", 
+                "level": 2
+            }, 
+            {
+                "name": "special_bonus_unique_luna_1", 
+                "level": 2
+            }, 
+            {
+                "name": "special_bonus_attack_speed_25", 
+                "level": 3
+            }, 
+            {
+                "name": "special_bonus_magic_resistance_15", 
+                "level": 3
+            }, 
+            {
+                "name": "special_bonus_all_stats_15", 
+                "level": 4
+            }, 
+            {
+                "name": "special_bonus_unique_luna_2", 
+                "level": 4
+            }
+        ]
+    }, 
+    "npc_dota_hero_dragon_knight": {
+        "abilities": [
+            [
+                "dragon_knight_breathe_fire", 
+                1
+            ], 
+            [
+                "dragon_knight_dragon_tail", 
+                1
+            ], 
+            [
+                "dragon_knight_dragon_blood", 
+                1
+            ], 
+            [
+                "dragon_knight_elder_dragon_form", 
+                1
+            ]
+        ], 
+        "talents": [
+            {
+                "name": "special_bonus_strength_10", 
+                "level": 1
+            }, 
+            {
+                "name": "special_bonus_attack_speed_30", 
+                "level": 1
+            }, 
+            {
+                "name": "special_bonus_exp_boost_40", 
+                "level": 2
+            }, 
+            {
+                "name": "special_bonus_attack_damage_40", 
+                "level": 2
+            }, 
+            {
+                "name": "special_bonus_gold_income_20", 
+                "level": 3
+            }, 
+            {
+                "name": "special_bonus_hp_300", 
+                "level": 3
+            }, 
+            {
+                "name": "special_bonus_movement_speed_75", 
+                "level": 4
+            }, 
+            {
+                "name": "special_bonus_unique_dragon_knight", 
+                "level": 4
+            }
+        ]
+    }, 
+    "npc_dota_hero_dazzle": {
+        "abilities": [
+            [
+                "dazzle_poison_touch", 
+                1
+            ], 
+            [
+                "dazzle_shallow_grave", 
+                1
+            ], 
+            [
+                "dazzle_shadow_wave", 
+                1
+            ], 
+            [
+                "dazzle_weave", 
+                1
+            ]
+        ], 
+        "talents": [
+            {
+                "name": "special_bonus_intelligence_10", 
+                "level": 1
+            }, 
+            {
+                "name": "special_bonus_hp_125", 
+                "level": 1
+            }, 
+            {
+                "name": "special_bonus_cast_range_100", 
+                "level": 2
+            }, 
+            {
+                "name": "special_bonus_attack_damage_60", 
+                "level": 2
+            }, 
+            {
+                "name": "special_bonus_movement_speed_25", 
+                "level": 3
+            }, 
+            {
+                "name": "special_bonus_unique_dazzle_3", 
+                "level": 3
+            }, 
+            {
+                "name": "special_bonus_unique_dazzle_1", 
+                "level": 4
+            }, 
+            {
+                "name": "special_bonus_unique_dazzle_2", 
+                "level": 4
+            }
+        ]
+    }, 
+    "npc_dota_hero_rattletrap": {
+        "abilities": [
+            [
+                "rattletrap_battery_assault", 
+                1
+            ], 
+            [
+                "rattletrap_power_cogs", 
+                1
+            ], 
+            [
+                "rattletrap_rocket_flare", 
+                1
+            ], 
+            [
+                "rattletrap_hookshot", 
+                1
+            ]
+        ], 
+        "talents": [
+            {
+                "name": "special_bonus_armor_4", 
+                "level": 1
+            }, 
+            {
+                "name": "special_bonus_mp_200", 
+                "level": 1
+            }, 
+            {
+                "name": "special_bonus_attack_damage_50", 
+                "level": 2
+            }, 
+            {
+                "name": "special_bonus_unique_clockwerk_2", 
+                "level": 2
+            }, 
+            {
+                "name": "special_bonus_unique_clockwerk_3", 
+                "level": 3
+            }, 
+            {
+                "name": "special_bonus_magic_resistance_12", 
+                "level": 3
+            }, 
+            {
+                "name": "special_bonus_hp_400", 
+                "level": 4
+            }, 
+            {
+                "name": "special_bonus_unique_clockwerk", 
+                "level": 4
+            }
+        ]
+    }, 
+    "npc_dota_hero_leshrac": {
+        "abilities": [
+            [
+                "leshrac_split_earth", 
+                1
+            ], 
+            [
+                "leshrac_diabolic_edict", 
+                1
+            ], 
+            [
+                "leshrac_lightning_storm", 
+                1
+            ], 
+            [
+                "leshrac_pulse_nova", 
+                1
+            ]
+        ], 
+        "talents": [
+            {
+                "name": "special_bonus_hp_175", 
+                "level": 1
+            }, 
+            {
+                "name": "special_bonus_movement_speed_25", 
+                "level": 1
+            }, 
+            {
+                "name": "special_bonus_mp_400", 
+                "level": 2
+            }, 
+            {
+                "name": "special_bonus_magic_resistance_15", 
+                "level": 2
+            }, 
+            {
+                "name": "special_bonus_spell_amplify_5", 
+                "level": 3
+            }, 
+            {
+                "name": "special_bonus_strength_15", 
+                "level": 3
+            }, 
+            {
+                "name": "special_bonus_unique_leshrac_1", 
+                "level": 4
+            }, 
+            {
+                "name": "special_bonus_unique_leshrac_2", 
+                "level": 4
+            }
+        ]
+    }, 
+    "npc_dota_hero_furion": {
+        "abilities": [
+            [
+                "furion_sprout", 
+                1
+            ], 
+            [
+                "furion_teleportation", 
+                1
+            ], 
+            [
+                "furion_force_of_nature", 
+                1
+            ], 
+            [
+                "furion_wrath_of_nature", 
+                1
+            ]
+        ], 
+        "talents": [
+            {
+                "name": "special_bonus_attack_damage_30", 
+                "level": 1
+            }, 
+            {
+                "name": "special_bonus_hp_250", 
+                "level": 1
+            }, 
+            {
+                "name": "special_bonus_intelligence_20", 
+                "level": 2
+            }, 
+            {
+                "name": "special_bonus_unique_furion_2", 
+                "level": 2
+            }, 
+            {
+                "name": "special_bonus_attack_speed_35", 
+                "level": 3
+            }, 
+            {
+                "name": "special_bonus_armor_10", 
+                "level": 3
+            }, 
+            {
+                "name": "special_bonus_unique_furion_3", 
+                "level": 4
+            }, 
+            {
+                "name": "special_bonus_unique_furion", 
+                "level": 4
+            }
+        ]
+    }, 
+    "npc_dota_hero_life_stealer": {
+        "abilities": [
+            [
+                "life_stealer_rage", 
+                1
+            ], 
+            [
+                "life_stealer_feast", 
+                1
+            ], 
+            [
+                "life_stealer_open_wounds", 
+                1
+            ], 
+            [
+                "life_stealer_assimilate", 
+                2
+            ], 
+            [
+                "life_stealer_assimilate_eject", 
+                2
+            ], 
+            [
+                "life_stealer_infest", 
+                3
+            ], 
+            [
+                "life_stealer_control", 
+                3
+            ], 
+            [
+                "life_stealer_consume", 
+                3
+            ]
+        ], 
+        "talents": [
+            {
+                "name": "special_bonus_all_stats_5", 
+                "level": 1
+            }, 
+            {
+                "name": "special_bonus_attack_speed_15", 
+                "level": 1
+            }, 
+            {
+                "name": "special_bonus_hp_250", 
+                "level": 2
+            }, 
+            {
+                "name": "special_bonus_attack_damage_25", 
+                "level": 2
+            }, 
+            {
+                "name": "special_bonus_evasion_15", 
+                "level": 3
+            }, 
+            {
+                "name": "special_bonus_movement_speed_25", 
+                "level": 3
+            }, 
+            {
+                "name": "special_bonus_armor_15", 
+                "level": 4
+            }, 
+            {
+                "name": "special_bonus_unique_lifestealer", 
+                "level": 4
+            }
+        ]
+    }, 
+    "npc_dota_hero_dark_seer": {
+        "abilities": [
+            [
+                "dark_seer_vacuum", 
+                1
+            ], 
+            [
+                "dark_seer_ion_shell", 
+                1
+            ], 
+            [
+                "dark_seer_surge", 
+                1
+            ], 
+            [
+                "dark_seer_wall_of_replica", 
+                1
+            ]
+        ], 
+        "talents": [
+            {
+                "name": "special_bonus_evasion_12", 
+                "level": 1
+            }, 
+            {
+                "name": "special_bonus_cast_range_100", 
+                "level": 1
+            }, 
+            {
+                "name": "special_bonus_attack_damage_120", 
+                "level": 2
+            }, 
+            {
+                "name": "special_bonus_hp_regen_14", 
+                "level": 2
+            }, 
+            {
+                "name": "special_bonus_cooldown_reduction_10", 
+                "level": 3
+            }, 
+            {
+                "name": "special_bonus_unique_dark_seer_2", 
+                "level": 3
+            }, 
+            {
+                "name": "special_bonus_strength_25", 
+                "level": 4
+            }, 
+            {
+                "name": "special_bonus_unique_dark_seer", 
+                "level": 4
+            }
+        ]
+    }, 
+    "npc_dota_hero_clinkz": {
+        "abilities": [
+            [
+                "clinkz_strafe", 
+                1
+            ], 
+            [
+                "clinkz_searing_arrows", 
+                1
+            ], 
+            [
+                "clinkz_wind_walk", 
+                1
+            ], 
+            [
+                "clinkz_death_pact", 
+                1
+            ]
+        ], 
+        "talents": [
+            {
+                "name": "special_bonus_intelligence_10", 
+                "level": 1
+            }, 
+            {
+                "name": "special_bonus_magic_resistance_10", 
+                "level": 1
+            }, 
+            {
+                "name": "special_bonus_strength_15", 
+                "level": 2
+            }, 
+            {
+                "name": "special_bonus_unique_clinkz_1", 
+                "level": 2
+            }, 
+            {
+                "name": "special_bonus_evasion_20", 
+                "level": 3
+            }, 
+            {
+                "name": "special_bonus_all_stats_10", 
+                "level": 3
+            }, 
+            {
+                "name": "special_bonus_attack_range_125", 
+                "level": 4
+            }, 
+            {
+                "name": "special_bonus_unique_clinkz_2", 
+                "level": 4
+            }
+        ]
+    }, 
+    "npc_dota_hero_omniknight": {
+        "abilities": [
+            [
+                "omniknight_purification", 
+                1
+            ], 
+            [
+                "omniknight_repel", 
+                1
+            ], 
+            [
+                "omniknight_degen_aura", 
+                1
+            ], 
+            [
+                "omniknight_guardian_angel", 
+                1
+            ]
+        ], 
+        "talents": [
+            {
+                "name": "special_bonus_gold_income_10", 
+                "level": 1
+            }, 
+            {
+                "name": "special_bonus_exp_boost_20", 
+                "level": 1
+            }, 
+            {
+                "name": "special_bonus_cast_range_75", 
+                "level": 2
+            }, 
+            {
+                "name": "special_bonus_strength_8", 
+                "level": 2
+            }, 
+            {
+                "name": "special_bonus_attack_damage_100", 
+                "level": 3
+            }, 
+            {
+                "name": "special_bonus_mp_regen_6", 
+                "level": 3
+            }, 
+            {
+                "name": "special_bonus_unique_omniknight_1", 
+                "level": 4
+            }, 
+            {
+                "name": "special_bonus_unique_omniknight_2", 
+                "level": 4
+            }
+        ]
+    }, 
+    "npc_dota_hero_enchantress": {
+        "abilities": [
+            [
+                "enchantress_untouchable", 
+                1
+            ], 
+            [
+                "enchantress_enchant", 
+                1
+            ], 
+            [
+                "enchantress_natures_attendants", 
+                1
+            ], 
+            [
+                "enchantress_impetus", 
+                1
+            ]
+        ], 
+        "talents": [
+            {
+                "name": "special_bonus_all_stats_6", 
+                "level": 1
+            }, 
+            {
+                "name": "special_bonus_movement_speed_25", 
+                "level": 1
+            }, 
+            {
+                "name": "special_bonus_unique_enchantress_2", 
+                "level": 2
+            }, 
+            {
+                "name": "special_bonus_attack_damage_50", 
+                "level": 2
+            }, 
+            {
+                "name": "special_bonus_magic_resistance_15", 
+                "level": 3
+            }, 
+            {
+                "name": "special_bonus_unique_enchantress_3", 
+                "level": 3
+            }, 
+            {
+                "name": "special_bonus_unique_enchantress_4", 
+                "level": 4
+            }, 
+            {
+                "name": "special_bonus_unique_enchantress_1", 
+                "level": 4
+            }
+        ]
+    }, 
+    "npc_dota_hero_huskar": {
+        "abilities": [
+            [
+                "huskar_inner_vitality", 
+                1
+            ], 
+            [
+                "huskar_burning_spear", 
+                1
+            ], 
+            [
+                "huskar_berserkers_blood", 
+                1
+            ], 
+            [
+                "huskar_life_break", 
+                1
+            ]
+        ], 
+        "talents": [
+            {
+                "name": "special_bonus_hp_175", 
+                "level": 1
+            }, 
+            {
+                "name": "special_bonus_unique_huskar_2", 
+                "level": 1
+            }, 
+            {
+                "name": "special_bonus_attack_damage_30", 
+                "level": 2
+            }, 
+            {
+                "name": "special_bonus_lifesteal_15", 
+                "level": 2
+            }, 
+            {
+                "name": "special_bonus_strength_15", 
+                "level": 3
+            }, 
+            {
+                "name": "special_bonus_attack_speed_40", 
+                "level": 3
+            }, 
+            {
+                "name": "special_bonus_attack_range_100", 
+                "level": 4
+            }, 
+            {
+                "name": "special_bonus_unique_huskar", 
+                "level": 4
+            }
+        ]
+    }, 
+    "npc_dota_hero_night_stalker": {
+        "abilities": [
+            [
+                "night_stalker_void", 
+                1
+            ], 
+            [
+                "night_stalker_crippling_fear", 
+                1
+            ], 
+            [
+                "night_stalker_hunter_in_the_night", 
+                1
+            ], 
+            [
+                "night_stalker_darkness", 
+                1
+            ]
+        ], 
+        "talents": [
+            {
+                "name": "special_bonus_strength_7", 
+                "level": 1
+            }, 
+            {
+                "name": "special_bonus_cast_range_100", 
+                "level": 1
+            }, 
+            {
+                "name": "special_bonus_mp_300", 
+                "level": 2
+            }, 
+            {
+                "name": "special_bonus_attack_speed_25", 
+                "level": 2
+            }, 
+            {
+                "name": "special_bonus_movement_speed_30", 
+                "level": 3
+            }, 
+            {
+                "name": "special_bonus_attack_damage_50", 
+                "level": 3
+            }, 
+            {
+                "name": "special_bonus_armor_12", 
+                "level": 4
+            }, 
+            {
+                "name": "special_bonus_unique_night_stalker", 
+                "level": 4
+            }
+        ]
+    }, 
+    "npc_dota_hero_broodmother": {
+        "abilities": [
+            [
+                "broodmother_spawn_spiderlings", 
+                1
+            ], 
+            [
+                "broodmother_spin_web", 
+                1
+            ], 
+            [
+                "broodmother_incapacitating_bite", 
+                1
+            ], 
+            [
+                "broodmother_insatiable_hunger", 
+                1
+            ]
+        ], 
+        "talents": [
+            {
+                "name": "special_bonus_unique_broodmother_3", 
+                "level": 1
+            }, 
+            {
+                "name": "special_bonus_exp_boost_25", 
+                "level": 1
+            }, 
+            {
+                "name": "special_bonus_cooldown_reduction_20", 
+                "level": 2
+            }, 
+            {
+                "name": "special_bonus_hp_350", 
+                "level": 2
+            }, 
+            {
+                "name": "special_bonus_unique_broodmother_4", 
+                "level": 3
+            }, 
+            {
+                "name": "special_bonus_attack_speed_70", 
+                "level": 3
+            }, 
+            {
+                "name": "special_bonus_unique_broodmother_1", 
+                "level": 4
+            }, 
+            {
+                "name": "special_bonus_unique_broodmother_2", 
+                "level": 4
+            }
+        ]
+    }, 
+    "npc_dota_hero_bounty_hunter": {
+        "abilities": [
+            [
+                "bounty_hunter_shuriken_toss", 
+                1
+            ], 
+            [
+                "bounty_hunter_jinada", 
+                1
+            ], 
+            [
+                "bounty_hunter_wind_walk", 
+                1
+            ], 
+            [
+                "bounty_hunter_track", 
+                1
+            ]
+        ], 
+        "talents": [
+            {
+                "name": "special_bonus_hp_175", 
+                "level": 1
+            }, 
+            {
+                "name": "special_bonus_exp_boost_20", 
+                "level": 1
+            }, 
+            {
+                "name": "special_bonus_attack_speed_40", 
+                "level": 2
+            }, 
+            {
+                "name": "special_bonus_movement_speed_15", 
+                "level": 2
+            }, 
+            {
+                "name": "special_bonus_unique_bounty_hunter_2", 
+                "level": 3
+            }, 
+            {
+                "name": "special_bonus_attack_damage_120", 
+                "level": 3
+            }, 
+            {
+                "name": "special_bonus_evasion_25", 
+                "level": 4
+            }, 
+            {
+                "name": "special_bonus_unique_bounty_hunter", 
+                "level": 4
+            }
+        ]
+    }, 
+    "npc_dota_hero_weaver": {
+        "abilities": [
+            [
+                "weaver_the_swarm", 
+                1
+            ], 
+            [
+                "weaver_shukuchi", 
+                1
+            ], 
+            [
+                "weaver_geminate_attack", 
+                1
+            ], 
+            [
+                "weaver_time_lapse", 
+                1
+            ]
+        ], 
+        "talents": [
+            {
+                "name": "special_bonus_strength_6", 
+                "level": 1
+            }, 
+            {
+                "name": "special_bonus_unique_weaver_1", 
+                "level": 1
+            }, 
+            {
+                "name": "special_bonus_attack_damage_25", 
+                "level": 2
+            }, 
+            {
+                "name": "special_bonus_all_stats_7", 
+                "level": 2
+            }, 
+            {
+                "name": "special_bonus_hp_200", 
+                "level": 3
+            }, 
+            {
+                "name": "special_bonus_agility_15", 
+                "level": 3
+            }, 
+            {
+                "name": "special_bonus_magic_resistance_35", 
+                "level": 4
+            }, 
+            {
+                "name": "special_bonus_unique_weaver_2", 
+                "level": 4
+            }
+        ]
+    }, 
+    "npc_dota_hero_jakiro": {
+        "abilities": [
+            [
+                "jakiro_dual_breath", 
+                1
+            ], 
+            [
+                "jakiro_ice_path", 
+                1
+            ], 
+            [
+                "jakiro_liquid_fire", 
+                1
+            ], 
+            [
+                "jakiro_macropyre", 
+                1
+            ]
+        ], 
+        "talents": [
+            {
+                "name": "special_bonus_exp_boost_25", 
+                "level": 1
+            }, 
+            {
+                "name": "special_bonus_spell_amplify_8", 
+                "level": 1
+            }, 
+            {
+                "name": "special_bonus_cast_range_125", 
+                "level": 2
+            }, 
+            {
+                "name": "special_bonus_unique_jakiro_2", 
+                "level": 2
+            }, 
+            {
+                "name": "special_bonus_attack_range_400", 
+                "level": 3
+            }, 
+            {
+                "name": "special_bonus_gold_income_25", 
+                "level": 3
+            }, 
+            {
+                "name": "special_bonus_unique_jakiro_3", 
+                "level": 4
+            }, 
+            {
+                "name": "special_bonus_unique_jakiro", 
+                "level": 4
+            }
+        ]
+    }, 
+    "npc_dota_hero_batrider": {
+        "abilities": [
+            [
+                "batrider_sticky_napalm", 
+                1
+            ], 
+            [
+                "batrider_flamebreak", 
+                1
+            ], 
+            [
+                "batrider_firefly", 
+                1
+            ], 
+            [
+                "batrider_flaming_lasso", 
+                1
+            ]
+        ], 
+        "talents": [
+            {
+                "name": "special_bonus_intelligence_10", 
+                "level": 1
+            }, 
+            {
+                "name": "special_bonus_armor_4", 
+                "level": 1
+            }, 
+            {
+                "name": "special_bonus_spell_amplify_5", 
+                "level": 2
+            }, 
+            {
+                "name": "special_bonus_hp_200", 
+                "level": 2
+            }, 
+            {
+                "name": "special_bonus_cooldown_reduction_15", 
+                "level": 3
+            }, 
+            {
+                "name": "special_bonus_movement_speed_35", 
+                "level": 3
+            }, 
+            {
+                "name": "special_bonus_unique_batrider_1", 
+                "level": 4
+            }, 
+            {
+                "name": "special_bonus_unique_batrider_2", 
+                "level": 4
+            }
+        ]
+    }, 
+    "npc_dota_hero_chen": {
+        "abilities": [
+            [
+                "chen_penitence", 
+                1
+            ], 
+            [
+                "chen_test_of_faith", 
+                2
+            ], 
+            [
+                "chen_test_of_faith_teleport", 
+                2
+            ], 
+            [
+                "chen_holy_persuasion", 
+                1
+            ], 
+            [
+                "chen_hand_of_god", 
+                1
+            ]
+        ], 
+        "talents": [
+            {
+                "name": "special_bonus_movement_speed_30", 
+                "level": 1
+            }, 
+            {
+                "name": "special_bonus_cast_range_125", 
+                "level": 1
+            }, 
+            {
+                "name": "special_bonus_hp_250", 
+                "level": 2
+            }, 
+            {
+                "name": "special_bonus_unique_chen_3", 
+                "level": 2
+            }, 
+            {
+                "name": "special_bonus_gold_income_20", 
+                "level": 3
+            }, 
+            {
+                "name": "special_bonus_unique_chen_4", 
+                "level": 3
+            }, 
+            {
+                "name": "special_bonus_unique_chen_1", 
+                "level": 4
+            }, 
+            {
+                "name": "special_bonus_unique_chen_2", 
+                "level": 4
+            }
+        ]
+    }, 
+    "npc_dota_hero_spectre": {
+        "abilities": [
+            [
+                "spectre_spectral_dagger", 
+                1
+            ], 
+            [
+                "spectre_desolate", 
+                1
+            ], 
+            [
+                "spectre_dispersion", 
+                1
+            ], 
+            [
+                "spectre_reality", 
+                2
+            ], 
+            [
+                "spectre_haunt", 
+                2
+            ]
+        ], 
+        "talents": [
+            {
+                "name": "special_bonus_attack_damage_20", 
+                "level": 1
+            }, 
+            {
+                "name": "special_bonus_armor_5", 
+                "level": 1
+            }, 
+            {
+                "name": "special_bonus_all_stats_8", 
+                "level": 2
+            }, 
+            {
+                "name": "special_bonus_movement_speed_25", 
+                "level": 2
+            }, 
+            {
+                "name": "special_bonus_attack_speed_30", 
+                "level": 3
+            }, 
+            {
+                "name": "special_bonus_strength_20", 
+                "level": 3
+            }, 
+            {
+                "name": "special_bonus_hp_400", 
+                "level": 4
+            }, 
+            {
+                "name": "special_bonus_unique_spectre", 
+                "level": 4
+            }
+        ]
+    }, 
+    "npc_dota_hero_doom_bringer": {
+        "abilities": [
+            [
+                "doom_bringer_devour", 
+                1
+            ], 
+            [
+                "doom_bringer_scorched_earth", 
+                1
+            ], 
+            [
+                "doom_bringer_infernal_blade", 
+                1
+            ], 
+            [
+                "doom_bringer_doom", 
+                1
+            ]
+        ], 
+        "talents": [
+            {
+                "name": "special_bonus_hp_275", 
+                "level": 1
+            }, 
+            {
+                "name": "special_bonus_unique_doom_3", 
+                "level": 1
+            }, 
+            {
+                "name": "special_bonus_movement_speed_25", 
+                "level": 2
+            }, 
+            {
+                "name": "special_bonus_unique_doom_4", 
+                "level": 2
+            }, 
+            {
+                "name": "special_bonus_unique_doom_5", 
+                "level": 3
+            }, 
+            {
+                "name": "special_bonus_unique_doom_2", 
+                "level": 3
+            }, 
+            {
+                "name": "special_bonus_unique_doom_1", 
+                "level": 4
+            }, 
+            {
+                "name": "special_bonus_hp_regen_40", 
+                "level": 4
+            }
+        ]
+    }, 
+    "npc_dota_hero_ancient_apparition": {
+        "abilities": [
+            [
+                "ancient_apparition_cold_feet", 
+                1
+            ], 
+            [
+                "ancient_apparition_ice_vortex", 
+                1
+            ], 
+            [
+                "ancient_apparition_chilling_touch", 
+                1
+            ], 
+            [
+                "ancient_apparition_ice_blast", 
+                2
+            ], 
+            [
+                "ancient_apparition_ice_blast_release", 
+                2
+            ]
+        ], 
+        "talents": [
+            {
+                "name": "special_bonus_gold_income_10", 
+                "level": 1
+            }, 
+            {
+                "name": "special_bonus_spell_amplify_8", 
+                "level": 1
+            }, 
+            {
+                "name": "special_bonus_unique_ancient_apparition_3", 
+                "level": 2
+            }, 
+            {
+                "name": "special_bonus_hp_regen_30", 
+                "level": 2
+            }, 
+            {
+                "name": "special_bonus_hp_400", 
+                "level": 3
+            }, 
+            {
+                "name": "special_bonus_unique_ancient_apparition_4", 
+                "level": 3
+            }, 
+            {
+                "name": "special_bonus_unique_ancient_apparition_1", 
+                "level": 4
+            }, 
+            {
+                "name": "special_bonus_unique_ancient_apparition_2", 
+                "level": 4
+            }
+        ]
+    }, 
+    "npc_dota_hero_ursa": {
+        "abilities": [
+            [
+                "ursa_earthshock", 
+                1
+            ], 
+            [
+                "ursa_overpower", 
+                1
+            ], 
+            [
+                "ursa_fury_swipes", 
+                1
+            ], 
+            [
+                "ursa_enrage", 
+                1
+            ]
+        ], 
+        "talents": [
+            {
+                "name": "special_bonus_attack_damage_25", 
+                "level": 1
+            }, 
+            {
+                "name": "special_bonus_magic_resistance_10", 
+                "level": 1
+            }, 
+            {
+                "name": "special_bonus_armor_5", 
+                "level": 2
+            }, 
+            {
+                "name": "special_bonus_attack_speed_20", 
+                "level": 2
+            }, 
+            {
+                "name": "special_bonus_movement_speed_15", 
+                "level": 3
+            }, 
+            {
+                "name": "special_bonus_hp_250", 
+                "level": 3
+            }, 
+            {
+                "name": "special_bonus_all_stats_14", 
+                "level": 4
+            }, 
+            {
+                "name": "special_bonus_unique_ursa", 
+                "level": 4
+            }
+        ]
+    }, 
+    "npc_dota_hero_spirit_breaker": {
+        "abilities": [
+            [
+                "spirit_breaker_charge_of_darkness", 
+                1
+            ], 
+            [
+                "spirit_breaker_empowering_haste", 
+                1
+            ], 
+            [
+                "spirit_breaker_greater_bash", 
+                1
+            ], 
+            [
+                "spirit_breaker_nether_strike", 
+                1
+            ]
+        ], 
+        "talents": [
+            {
+                "name": "special_bonus_all_stats_5", 
+                "level": 1
+            }, 
+            {
+                "name": "special_bonus_movement_speed_20", 
+                "level": 1
+            }, 
+            {
+                "name": "special_bonus_attack_damage_20", 
+                "level": 2
+            }, 
+            {
+                "name": "special_bonus_armor_5", 
+                "level": 2
+            }, 
+            {
+                "name": "special_bonus_gold_income_20", 
+                "level": 3
+            }, 
+            {
+                "name": "special_bonus_unique_spirit_breaker_3", 
+                "level": 3
+            }, 
+            {
+                "name": "special_bonus_unique_spirit_breaker_1", 
+                "level": 4
+            }, 
+            {
+                "name": "special_bonus_unique_spirit_breaker_2", 
+                "level": 4
+            }
+        ]
+    }, 
+    "npc_dota_hero_gyrocopter": {
+        "abilities": [
+            [
+                "gyrocopter_rocket_barrage", 
+                1
+            ], 
+            [
+                "gyrocopter_homing_missile", 
+                1
+            ], 
+            [
+                "gyrocopter_flak_cannon", 
+                1
+            ], 
+            [
+                "gyrocopter_call_down", 
+                1
+            ]
+        ], 
+        "talents": [
+            {
+                "name": "special_bonus_spell_amplify_6", 
+                "level": 1
+            }, 
+            {
+                "name": "special_bonus_hp_225", 
+                "level": 1
+            }, 
+            {
+                "name": "special_bonus_magic_resistance_15", 
+                "level": 2
+            }, 
+            {
+                "name": "special_bonus_attack_damage_30", 
+                "level": 2
+            }, 
+            {
+                "name": "special_bonus_movement_speed_35", 
+                "level": 3
+            }, 
+            {
+                "name": "special_bonus_cooldown_reduction_20", 
+                "level": 3
+            }, 
+            {
+                "name": "special_bonus_unique_gyrocopter_1", 
+                "level": 4
+            }, 
+            {
+                "name": "special_bonus_unique_gyrocopter_2", 
+                "level": 4
+            }
+        ]
+    }, 
+    "npc_dota_hero_alchemist": {
+        "abilities": [
+            [
+                "alchemist_acid_spray", 
+                1
+            ], 
+            [
+                "alchemist_unstable_concoction", 
+                1
+            ], 
+            [
+                "alchemist_goblins_greed", 
+                1
+            ], 
+            [
+                "alchemist_chemical_rage", 
+                1
+            ], 
+            [
+                "alchemist_unstable_concoction_throw", 
+                1
+            ]
+        ], 
+        "talents": [
+            {
+                "name": "special_bonus_attack_damage_20", 
+                "level": 1
+            }, 
+            {
+                "name": "special_bonus_armor_4", 
+                "level": 1
+            }, 
+            {
+                "name": "special_bonus_unique_alchemist_2", 
+                "level": 2
+            }, 
+            {
+                "name": "special_bonus_all_stats_6", 
+                "level": 2
+            }, 
+            {
+                "name": "special_bonus_attack_speed_30", 
+                "level": 3
+            }, 
+            {
+                "name": "special_bonus_hp_300", 
+                "level": 3
+            }, 
+            {
+                "name": "special_bonus_lifesteal_30", 
+                "level": 4
+            }, 
+            {
+                "name": "special_bonus_unique_alchemist", 
+                "level": 4
+            }
+        ]
+    }, 
+    "npc_dota_hero_invoker": {
+        "abilities": [
+            [
+                "invoker_quas", 
+                1
+            ], 
+            [
+                "invoker_wex", 
+                1
+            ], 
+            [
+                "invoker_exort", 
+                1
+            ], 
+            [
+                "invoker_invoke", 
+                1
+            ], 
+            [
+                "invoker_cold_snap", 
+                1
+            ], 
+            [
+                "invoker_ghost_walk", 
+                1
+            ], 
+            [
+                "invoker_ice_wall", 
+                1
+            ], 
+            [
+                "invoker_emp", 
+                1
+            ], 
+            [
+                "invoker_tornado", 
+                1
+            ], 
+            [
+                "invoker_alacrity", 
+                1
+            ], 
+            [
+                "invoker_sun_strike", 
+                1
+            ], 
+            [
+                "invoker_forge_spirit", 
+                1
+            ], 
+            [
+                "invoker_chaos_meteor", 
+                1
+            ], 
+            [
+                "invoker_deafening_blast", 
+                1
+            ]
+        ], 
+        "talents": [
+            {
+                "name": "invoker_emp", 
+                "level": 1
+            }, 
+            {
+                "name": "invoker_alacrity", 
+                "level": 1
+            }, 
+            {
+                "name": "invoker_chaos_meteor", 
+                "level": 2
+            }, 
+            {
+                "name": "invoker_sun_strike", 
+                "level": 2
+            }, 
+            {
+                "name": "invoker_forge_spirit", 
+                "level": 3
+            }, 
+            {
+                "name": "invoker_ice_wall", 
+                "level": 3
+            }, 
+            {
+                "name": "invoker_deafening_blast", 
+                "level": 4
+            }, 
+            {
+                "name": "special_bonus_attack_damage_15", 
+                "level": 4
+            }, 
+            {
+                "name": "special_bonus_hp_125", 
+                "level": 5
+            }, 
+            {
+                "name": "special_bonus_unique_invoker_1", 
+                "level": 5
+            }, 
+            {
+                "name": "special_bonus_exp_boost_30", 
+                "level": 6
+            }, 
+            {
+                "name": "special_bonus_all_stats_7", 
+                "level": 6
+            }, 
+            {
+                "name": "special_bonus_attack_speed_35", 
+                "level": 7
+            }, 
+            {
+                "name": "special_bonus_unique_invoker_2", 
+                "level": 7
+            }, 
+            {
+                "name": "special_bonus_unique_invoker_3", 
+                "level": 8
+            }
+        ]
+    }, 
+    "npc_dota_hero_silencer": {
+        "abilities": [
+            [
+                "silencer_curse_of_the_silent", 
+                1
+            ], 
+            [
+                "silencer_glaives_of_wisdom", 
+                1
+            ], 
+            [
+                "silencer_last_word", 
+                1
+            ], 
+            [
+                "silencer_global_silence", 
+                1
+            ]
+        ], 
+        "talents": [
+            {
+                "name": "special_bonus_armor_4", 
+                "level": 1
+            }, 
+            {
+                "name": "special_bonus_intelligence_7", 
+                "level": 1
+            }, 
+            {
+                "name": "special_bonus_hp_200", 
+                "level": 2
+            }, 
+            {
+                "name": "special_bonus_gold_income_10", 
+                "level": 2
+            }, 
+            {
+                "name": "special_bonus_attack_speed_30", 
+                "level": 3
+            }, 
+            {
+                "name": "special_bonus_magic_resistance_12", 
+                "level": 3
+            }, 
+            {
+                "name": "special_bonus_attack_range_200", 
+                "level": 4
+            }, 
+            {
+                "name": "special_bonus_unique_silencer", 
+                "level": 4
+            }
+        ]
+    }, 
+    "npc_dota_hero_obsidian_destroyer": {
+        "abilities": [
+            [
+                "obsidian_destroyer_arcane_orb", 
+                1
+            ], 
+            [
+                "obsidian_destroyer_astral_imprisonment", 
+                1
+            ], 
+            [
+                "obsidian_destroyer_essence_aura", 
+                1
+            ], 
+            [
+                "obsidian_destroyer_sanity_eclipse", 
+                1
+            ]
+        ], 
+        "talents": [
+            {
+                "name": "special_bonus_mp_250", 
+                "level": 1
+            }, 
+            {
+                "name": "special_bonus_movement_speed_10", 
+                "level": 1
+            }, 
+            {
+                "name": "special_bonus_armor_5", 
+                "level": 2
+            }, 
+            {
+                "name": "special_bonus_attack_speed_20", 
+                "level": 2
+            }, 
+            {
+                "name": "special_bonus_intelligence_15", 
+                "level": 3
+            }, 
+            {
+                "name": "special_bonus_hp_275", 
+                "level": 3
+            }, 
+            {
+                "name": "special_bonus_unique_outworld_devourer", 
+                "level": 4
+            }, 
+            {
+                "name": "special_bonus_spell_amplify_8", 
+                "level": 4
+            }
+        ]
+    }, 
+    "npc_dota_hero_lycan": {
+        "abilities": [
+            [
+                "lycan_summon_wolves", 
+                1
+            ], 
+            [
+                "lycan_howl", 
+                1
+            ], 
+            [
+                "lycan_feral_impulse", 
+                1
+            ], 
+            [
+                "lycan_shapeshift", 
+                1
+            ]
+        ], 
+        "talents": [
+            {
+                "name": "special_bonus_attack_damage_15", 
+                "level": 1
+            }, 
+            {
+                "name": "special_bonus_hp_200", 
+                "level": 1
+            }, 
+            {
+                "name": "special_bonus_unique_lycan_3", 
+                "level": 2
+            }, 
+            {
+                "name": "special_bonus_strength_12", 
+                "level": 2
+            }, 
+            {
+                "name": "special_bonus_evasion_15", 
+                "level": 3
+            }, 
+            {
+                "name": "special_bonus_cooldown_reduction_15", 
+                "level": 3
+            }, 
+            {
+                "name": "special_bonus_unique_lycan_2", 
+                "level": 4
+            }, 
+            {
+                "name": "special_bonus_unique_lycan_1", 
+                "level": 4
+            }
+        ]
+    }, 
+    "npc_dota_hero_brewmaster": {
+        "abilities": [
+            [
+                "brewmaster_thunder_clap", 
+                1
+            ], 
+            [
+                "brewmaster_drunken_haze", 
+                1
+            ], 
+            [
+                "brewmaster_drunken_brawler", 
+                1
+            ], 
+            [
+                "brewmaster_primal_split", 
+                1
+            ]
+        ], 
+        "talents": [
+            {
+                "name": "special_bonus_attack_damage_30", 
+                "level": 1
+            }, 
+            {
+                "name": "special_bonus_mp_regen_3", 
+                "level": 1
+            }, 
+            {
+                "name": "special_bonus_unique_brewmaster_2", 
+                "level": 2
+            }, 
+            {
+                "name": "special_bonus_magic_resistance_15", 
+                "level": 2
+            }, 
+            {
+                "name": "special_bonus_unique_brewmaster_3", 
+                "level": 3
+            }, 
+            {
+                "name": "special_bonus_strength_20", 
+                "level": 3
+            }, 
+            {
+                "name": "special_bonus_attack_speed_140", 
+                "level": 4
+            }, 
+            {
+                "name": "special_bonus_unique_brewmaster", 
+                "level": 4
+            }
+        ]
+    }, 
+    "npc_dota_hero_shadow_demon": {
+        "abilities": [
+            [
+                "shadow_demon_disruption", 
+                1
+            ], 
+            [
+                "shadow_demon_soul_catcher", 
+                1
+            ], 
+            [
+                "shadow_demon_shadow_poison", 
+                1
+            ], 
+            [
+                "shadow_demon_shadow_poison_release", 
+                1
+            ], 
+            [
+                "shadow_demon_demonic_purge", 
+                1
+            ]
+        ], 
+        "talents": [
+            {
+                "name": "special_bonus_strength_10", 
+                "level": 1
+            }, 
+            {
+                "name": "special_bonus_movement_speed_20", 
+                "level": 1
+            }, 
+            {
+                "name": "special_bonus_cast_range_75", 
+                "level": 2
+            }, 
+            {
+                "name": "special_bonus_spell_amplify_8", 
+                "level": 2
+            }, 
+            {
+                "name": "special_bonus_magic_resistance_15", 
+                "level": 3
+            }, 
+            {
+                "name": "special_bonus_unique_shadow_demon_3", 
+                "level": 3
+            }, 
+            {
+                "name": "special_bonus_unique_shadow_demon_1", 
+                "level": 4
+            }, 
+            {
+                "name": "special_bonus_unique_shadow_demon_2", 
+                "level": 4
+            }
+        ]
+    }, 
+    "npc_dota_hero_lone_druid": {
+        "abilities": [
+            [
+                "lone_druid_spirit_bear", 
+                1
+            ], 
+            [
+                "lone_druid_rabid", 
+                1
+            ], 
+            [
+                "lone_druid_savage_roar", 
+                1
+            ], 
+            [
+                "lone_druid_true_form_battle_cry", 
+                3
+            ], 
+            [
+                "lone_druid_true_form", 
+                3
+            ], 
+            [
+                "lone_druid_true_form_druid", 
+                3
+            ]
+        ], 
+        "talents": [
+            {
+                "name": "special_bonus_hp_250", 
+                "level": 1
+            }, 
+            {
+                "name": "special_bonus_attack_range_175", 
+                "level": 1
+            }, 
+            {
+                "name": "special_bonus_attack_damage_50", 
+                "level": 2
+            }, 
+            {
+                "name": "special_bonus_unique_lone_druid_1", 
+                "level": 2
+            }, 
+            {
+                "name": "special_bonus_unique_lone_druid_2", 
+                "level": 3
+            }, 
+            {
+                "name": "special_bonus_unique_lone_druid_5", 
+                "level": 3
+            }, 
+            {
+                "name": "special_bonus_unique_lone_druid_3", 
+                "level": 4
+            }, 
+            {
+                "name": "special_bonus_unique_lone_druid_4", 
+                "level": 4
+            }
+        ]
+    }, 
+    "npc_dota_hero_chaos_knight": {
+        "abilities": [
+            [
+                "chaos_knight_chaos_bolt", 
+                1
+            ], 
+            [
+                "chaos_knight_reality_rift", 
+                1
+            ], 
+            [
+                "chaos_knight_chaos_strike", 
+                1
+            ], 
+            [
+                "chaos_knight_phantasm", 
+                1
+            ]
+        ], 
+        "talents": [
+            {
+                "name": "special_bonus_attack_speed_15", 
+                "level": 1
+            }, 
+            {
+                "name": "special_bonus_intelligence_8", 
+                "level": 1
+            }, 
+            {
+                "name": "special_bonus_movement_speed_20", 
+                "level": 2
+            }, 
+            {
+                "name": "special_bonus_strength_10", 
+                "level": 2
+            }, 
+            {
+                "name": "special_bonus_gold_income_20", 
+                "level": 3
+            }, 
+            {
+                "name": "special_bonus_all_stats_12", 
+                "level": 3
+            }, 
+            {
+                "name": "special_bonus_cooldown_reduction_20", 
+                "level": 4
+            }, 
+            {
+                "name": "special_bonus_unique_chaos_knight", 
+                "level": 4
+            }
+        ]
+    }, 
+    "npc_dota_hero_meepo": {
+        "abilities": [
+            [
+                "meepo_earthbind", 
+                1
+            ], 
+            [
+                "meepo_poof", 
+                1
+            ], 
+            [
+                "meepo_geostrike", 
+                1
+            ], 
+            [
+                "meepo_divided_we_stand", 
+                1
+            ]
+        ], 
+        "talents": [
+            {
+                "name": "special_bonus_armor_4", 
+                "level": 1
+            }, 
+            {
+                "name": "special_bonus_attack_damage_15", 
+                "level": 1
+            }, 
+            {
+                "name": "special_bonus_lifesteal_15", 
+                "level": 2
+            }, 
+            {
+                "name": "special_bonus_movement_speed_25", 
+                "level": 2
+            }, 
+            {
+                "name": "special_bonus_evasion_10", 
+                "level": 3
+            }, 
+            {
+                "name": "special_bonus_attack_speed_25", 
+                "level": 3
+            }, 
+            {
+                "name": "special_bonus_hp_400", 
+                "level": 4
+            }, 
+            {
+                "name": "special_bonus_unique_meepo", 
+                "level": 4
+            }
+        ]
+    }, 
+    "npc_dota_hero_treant": {
+        "abilities": [
+            [
+                "treant_natures_guise", 
+                1
+            ], 
+            [
+                "treant_leech_seed", 
+                1
+            ], 
+            [
+                "treant_living_armor", 
+                1
+            ], 
+            [
+                "treant_eyes_in_the_forest", 
+                1
+            ], 
+            [
+                "treant_overgrowth", 
+                1
+            ]
+        ], 
+        "talents": [
+            {
+                "name": "special_bonus_attack_speed_30", 
+                "level": 1
+            }, 
+            {
+                "name": "special_bonus_mp_regen_2", 
+                "level": 1
+            }, 
+            {
+                "name": "special_bonus_gold_income_15", 
+                "level": 2
+            }, 
+            {
+                "name": "special_bonus_movement_speed_25", 
+                "level": 2
+            }, 
+            {
+                "name": "special_bonus_cooldown_reduction_15", 
+                "level": 3
+            }, 
+            {
+                "name": "special_bonus_attack_damage_90", 
+                "level": 3
+            }, 
+            {
+                "name": "special_bonus_unique_treant_2", 
+                "level": 4
+            }, 
+            {
+                "name": "special_bonus_unique_treant", 
+                "level": 4
+            }
+        ]
+    }, 
+    "npc_dota_hero_ogre_magi": {
+        "abilities": [
+            [
+                "ogre_magi_fireblast", 
+                1
+            ], 
+            [
+                "ogre_magi_ignite", 
+                1
+            ], 
+            [
+                "ogre_magi_bloodlust", 
+                1
+            ], 
+            [
+                "ogre_magi_unrefined_fireblast", 
+                1
+            ], 
+            [
+                "ogre_magi_multicast", 
+                1
+            ]
+        ], 
+        "talents": [
+            {
+                "name": "special_bonus_gold_income_10", 
+                "level": 1
+            }, 
+            {
+                "name": "special_bonus_cast_range_100", 
+                "level": 1
+            }, 
+            {
+                "name": "special_bonus_attack_damage_50", 
+                "level": 2
+            }, 
+            {
+                "name": "special_bonus_magic_resistance_12", 
+                "level": 2
+            }, 
+            {
+                "name": "special_bonus_hp_350", 
+                "level": 3
+            }, 
+            {
+                "name": "special_bonus_movement_speed_30", 
+                "level": 3
+            }, 
+            {
+                "name": "special_bonus_spell_amplify_15", 
+                "level": 4
+            }, 
+            {
+                "name": "special_bonus_unique_ogre_magi", 
+                "level": 4
+            }
+        ]
+    }, 
+    "npc_dota_hero_undying": {
+        "abilities": [
+            [
+                "undying_decay", 
+                1
+            ], 
+            [
+                "undying_soul_rip", 
+                1
+            ], 
+            [
+                "undying_tombstone", 
+                1
+            ], 
+            [
+                "undying_flesh_golem", 
+                1
+            ]
+        ], 
+        "talents": [
+            {
+                "name": "special_bonus_hp_regen_15", 
+                "level": 1
+            }, 
+            {
+                "name": "special_bonus_gold_income_15", 
+                "level": 1
+            }, 
+            {
+                "name": "special_bonus_exp_boost_35", 
+                "level": 2
+            }, 
+            {
+                "name": "special_bonus_hp_300", 
+                "level": 2
+            }, 
+            {
+                "name": "special_bonus_unique_undying", 
+                "level": 3
+            }, 
+            {
+                "name": "special_bonus_movement_speed_30", 
+                "level": 3
+            }, 
+            {
+                "name": "special_bonus_armor_15", 
+                "level": 4
+            }, 
+            {
+                "name": "special_bonus_unique_undying_2", 
+                "level": 4
+            }
+        ]
+    }, 
+    "npc_dota_hero_rubick": {
+        "abilities": [
+            [
+                "rubick_telekinesis", 
+                2
+            ], 
+            [
+                "rubick_telekinesis_land", 
+                2
+            ], 
+            [
+                "rubick_fade_bolt", 
+                1
+            ], 
+            [
+                "rubick_null_field", 
+                1
+            ], 
+            [
+                "rubick_spell_steal", 
+                1
+            ]
+        ], 
+        "talents": [
+            {
+                "name": "rubick_hidden3", 
+                "level": 1
+            }, 
+            {
+                "name": "special_bonus_gold_income_10", 
+                "level": 1
+            }, 
+            {
+                "name": "special_bonus_attack_damage_60", 
+                "level": 2
+            }, 
+            {
+                "name": "special_bonus_hp_150", 
+                "level": 2
+            }, 
+            {
+                "name": "special_bonus_intelligence_15", 
+                "level": 3
+            }, 
+            {
+                "name": "special_bonus_cast_range_75", 
+                "level": 3
+            }, 
+            {
+                "name": "special_bonus_spell_amplify_8", 
+                "level": 4
+            }, 
+            {
+                "name": "special_bonus_cooldown_reduction_20", 
+                "level": 4
+            }, 
+            {
+                "name": "special_bonus_unique_rubick", 
+                "level": 5
+            }
+        ]
+    }, 
+    "npc_dota_hero_disruptor": {
+        "abilities": [
+            [
+                "disruptor_thunder_strike", 
+                1
+            ], 
+            [
+                "disruptor_glimpse", 
+                1
+            ], 
+            [
+                "disruptor_kinetic_field", 
+                1
+            ], 
+            [
+                "disruptor_static_storm", 
+                1
+            ]
+        ], 
+        "talents": [
+            {
+                "name": "special_bonus_cast_range_100", 
+                "level": 1
+            }, 
+            {
+                "name": "special_bonus_gold_income_10", 
+                "level": 1
+            }, 
+            {
+                "name": "special_bonus_unique_disruptor_2", 
+                "level": 2
+            }, 
+            {
+                "name": "special_bonus_unique_disruptor_3", 
+                "level": 2
+            }, 
+            {
+                "name": "special_bonus_hp_400", 
+                "level": 3
+            }, 
+            {
+                "name": "special_bonus_spell_amplify_10", 
+                "level": 3
+            }, 
+            {
+                "name": "special_bonus_unique_disruptor", 
+                "level": 4
+            }, 
+            {
+                "name": "special_bonus_magic_resistance_30", 
+                "level": 4
+            }
+        ]
+    }, 
+    "npc_dota_hero_nyx_assassin": {
+        "abilities": [
+            [
+                "nyx_assassin_impale", 
+                1
+            ], 
+            [
+                "nyx_assassin_mana_burn", 
+                1
+            ], 
+            [
+                "nyx_assassin_spiked_carapace", 
+                1
+            ], 
+            [
+                "nyx_assassin_burrow", 
+                2
+            ], 
+            [
+                "nyx_assassin_unburrow", 
+                2
+            ], 
+            [
+                "nyx_assassin_vendetta", 
+                1
+            ]
+        ], 
+        "talents": [
+            {
+                "name": "special_bonus_spell_amplify_5", 
+                "level": 1
+            }, 
+            {
+                "name": "special_bonus_hp_175", 
+                "level": 1
+            }, 
+            {
+                "name": "special_bonus_magic_resistance_12", 
+                "level": 2
+            }, 
+            {
+                "name": "special_bonus_unique_nyx_2", 
+                "level": 2
+            }, 
+            {
+                "name": "special_bonus_gold_income_20", 
+                "level": 3
+            }, 
+            {
+                "name": "special_bonus_agility_40", 
+                "level": 3
+            }, 
+            {
+                "name": "special_bonus_movement_speed_40", 
+                "level": 4
+            }, 
+            {
+                "name": "special_bonus_unique_nyx", 
+                "level": 4
+            }
+        ]
+    }, 
+    "npc_dota_hero_naga_siren": {
+        "abilities": [
+            [
+                "naga_siren_mirror_image", 
+                1
+            ], 
+            [
+                "naga_siren_ensnare", 
+                1
+            ], 
+            [
+                "naga_siren_rip_tide", 
+                1
+            ], 
+            [
+                "naga_siren_song_of_the_siren", 
+                2
+            ], 
+            [
+                "naga_siren_song_of_the_siren_cancel", 
+                2
+            ]
+        ], 
+        "talents": [
+            {
+                "name": "special_bonus_mp_250", 
+                "level": 1
+            }, 
+            {
+                "name": "special_bonus_hp_125", 
+                "level": 1
+            }, 
+            {
+                "name": "special_bonus_attack_speed_30", 
+                "level": 2
+            }, 
+            {
+                "name": "special_bonus_unique_naga_siren_2", 
+                "level": 2
+            }, 
+            {
+                "name": "special_bonus_agility_15", 
+                "level": 3
+            }, 
+            {
+                "name": "special_bonus_strength_20", 
+                "level": 3
+            }, 
+            {
+                "name": "special_bonus_movement_speed_40", 
+                "level": 4
+            }, 
+            {
+                "name": "special_bonus_unique_naga_siren", 
+                "level": 4
+            }
+        ]
+    }, 
+    "npc_dota_hero_keeper_of_the_light": {
+        "abilities": [
+            [
+                "keeper_of_the_light_illuminate", 
+                2
+            ],
+            [
+                "keeper_of_the_light_illuminate_end", 
+                2
+            ], 
+            [
+                "keeper_of_the_light_mana_leak", 
+                1
+            ], 
+            [
+                "keeper_of_the_light_chakra_magic", 
+                1
+            ], 
+            [
+                "keeper_of_the_light_recall", 
+                3
+            ], 
+            [
+                "keeper_of_the_light_blinding_light", 
+                3
+            ], 
+            [
+                "keeper_of_the_light_spirit_form", 
+                3
+            ]
+        ], 
+        "talents": [
+            {
+                "name": "special_bonus_strength_7", 
+                "level": 1
+            }, 
+            {
+                "name": "special_bonus_movement_speed_20", 
+                "level": 1
+            }, 
+            {
+                "name": "special_bonus_exp_boost_20", 
+                "level": 2
+            }, 
+            {
+                "name": "special_bonus_unique_keeper_of_the_light_2", 
+                "level": 2
+            }, 
+            {
+                "name": "special_bonus_magic_resistance_10", 
+                "level": 3
+            }, 
+            {
+                "name": "special_bonus_armor_7", 
+                "level": 3
+            }, 
+            {
+                "name": "special_bonus_cast_range_400", 
+                "level": 4
+            }, 
+            {
+                "name": "special_bonus_unique_keeper_of_the_light", 
+                "level": 4
+            }
+        ]
+    }, 
+    "npc_dota_hero_wisp": {
+        "abilities": [
+            [
+                "wisp_tether", 
+                2
+            ], 
+            [
+                "wisp_tether_break", 
+                2
+            ], 
+            [
+                "wisp_spirits", 
+                3
+            ],
+            [
+                "wisp_spirits_in", 
+                3
+            ],
+            [
+                "wisp_spirits_out", 
+                3
+            ], 
+            [
+                "wisp_overcharge", 
+                1
+            ],   
+            [
+                "wisp_relocate", 
+                1
+            ]
+        ], 
+        "talents": [
+            {
+                "name": "special_bonus_magic_resistance_10", 
+                "level": 1
+            }, 
+            {
+                "name": "special_bonus_armor_6", 
+                "level": 2
+            }, 
+            {
+                "name": "special_bonus_mp_regen_10", 
+                "level": 2
+            }, 
+            {
+                "name": "special_bonus_strength_10", 
+                "level": 3
+            }, 
+            {
+                "name": "special_bonus_hp_regen_20", 
+                "level": 3
+            }, 
+            {
+                "name": "special_bonus_gold_income_20", 
+                "level": 4
+            }, 
+            {
+                "name": "special_bonus_unique_wisp_2", 
+                "level": 4
+            }, 
+            {
+                "name": "special_bonus_unique_wisp", 
+                "level": 5
+            }
+        ]
+    }, 
+    "npc_dota_hero_visage": {
+        "abilities": [
+            [
+                "visage_grave_chill", 
+                1
+            ], 
+            [
+                "visage_soul_assumption", 
+                1
+            ], 
+            [
+                "visage_gravekeepers_cloak", 
+                1
+            ], 
+            [
+                "visage_summon_familiars", 
+                1
+            ]
+        ], 
+        "talents": [
+            {
+                "name": "special_bonus_gold_income_15", 
+                "level": 1
+            }, 
+            {
+                "name": "special_bonus_exp_boost_30", 
+                "level": 1
+            }, 
+            {
+                "name": "special_bonus_attack_damage_50", 
+                "level": 2
+            }, 
+            {
+                "name": "special_bonus_cast_range_100", 
+                "level": 2
+            }, 
+            {
+                "name": "special_bonus_hp_300", 
+                "level": 3
+            }, 
+            {
+                "name": "special_bonus_unique_visage_3", 
+                "level": 3
+            }, 
+            {
+                "name": "special_bonus_spell_amplify_20", 
+                "level": 4
+            }, 
+            {
+                "name": "special_bonus_unique_visage_2", 
+                "level": 4
+            }
+        ]
+    }, 
+    "npc_dota_hero_slark": {
+        "abilities": [
+            [
+                "slark_dark_pact", 
+                1
+            ], 
+            [
+                "slark_pounce", 
+                1
+            ], 
+            [
+                "slark_essence_shift", 
+                1
+            ], 
+            [
+                "slark_shadow_dance", 
+                1
+            ]
+        ], 
+        "talents": [
+            {
+                "name": "special_bonus_lifesteal_10", 
+                "level": 1
+            }, 
+            {
+                "name": "special_bonus_attack_damage_15", 
+                "level": 1
+            }, 
+            {
+                "name": "special_bonus_agility_15", 
+                "level": 2
+            }, 
+            {
+                "name": "special_bonus_strength_15", 
+                "level": 2
+            }, 
+            {
+                "name": "special_bonus_cooldown_reduction_10", 
+                "level": 3
+            }, 
+            {
+                "name": "special_bonus_attack_speed_25", 
+                "level": 3
+            }, 
+            {
+                "name": "special_bonus_all_stats_12", 
+                "level": 4
+            }, 
+            {
+                "name": "special_bonus_unique_slark", 
+                "level": 4
+            }
+        ]
+    }, 
+    "npc_dota_hero_medusa": {
+        "abilities": [
+            [
+                "medusa_split_shot", 
+                1
+            ], 
+            [
+                "medusa_mystic_snake", 
+                1
+            ], 
+            [
+                "medusa_mana_shield", 
+                1
+            ], 
+            [
+                "medusa_stone_gaze", 
+                1
+            ]
+        ], 
+        "talents": [
+            {
+                "name": "special_bonus_intelligence_12", 
+                "level": 1
+            }, 
+            {
+                "name": "special_bonus_attack_damage_15", 
+                "level": 1
+            }, 
+            {
+                "name": "special_bonus_attack_speed_20", 
+                "level": 2
+            }, 
+            {
+                "name": "special_bonus_evasion_15", 
+                "level": 2
+            }, 
+            {
+                "name": "special_bonus_unique_medusa_2", 
+                "level": 3
+            }, 
+            {
+                "name": "special_bonus_mp_600", 
+                "level": 3
+            }, 
+            {
+                "name": "special_bonus_lifesteal_25", 
+                "level": 4
+            }, 
+            {
+                "name": "special_bonus_unique_medusa", 
+                "level": 4
+            }
+        ]
+    }, 
+    "npc_dota_hero_troll_warlord": {
+        "abilities": [
+            [
+                "troll_warlord_berserkers_rage", 
+                1
+            ], 
+            [
+                "troll_warlord_whirling_axes_ranged", 
+                2
+            ], 
+            [
+                "troll_warlord_whirling_axes_melee", 
+                2
+            ], 
+            [
+                "troll_warlord_fervor", 
+                1
+            ], 
+            [
+                "troll_warlord_battle_trance", 
+                1
+            ]
+        ], 
+        "talents": [
+            {
+                "name": "special_bonus_strength_7", 
+                "level": 1
+            }, 
+            {
+                "name": "special_bonus_agility_10", 
+                "level": 1
+            }, 
+            {
+                "name": "special_bonus_movement_speed_15", 
+                "level": 2
+            }, 
+            {
+                "name": "special_bonus_armor_6", 
+                "level": 2
+            }, 
+            {
+                "name": "special_bonus_hp_350", 
+                "level": 3
+            }, 
+            {
+                "name": "special_bonus_attack_damage_40", 
+                "level": 3
+            }, 
+            {
+                "name": "special_bonus_magic_resistance_20", 
+                "level": 4
+            }, 
+            {
+                "name": "special_bonus_unique_troll_warlord", 
+                "level": 4
+            }
+        ]
+    }, 
+    "npc_dota_hero_centaur": {
+        "abilities": [
+            [
+                "centaur_hoof_stomp", 
+                1
+            ], 
+            [
+                "centaur_double_edge", 
+                1
+            ], 
+            [
+                "centaur_return", 
+                1
+            ], 
+            [
+                "centaur_stampede", 
+                1
+            ]
+        ], 
+        "talents": [
+            {
+                "name": "special_bonus_attack_damage_35", 
+                "level": 1
+            }, 
+            {
+                "name": "special_bonus_mp_regen_2", 
+                "level": 1
+            }, 
+            {
+                "name": "special_bonus_evasion_10", 
+                "level": 2
+            }, 
+            {
+                "name": "special_bonus_magic_resistance_10", 
+                "level": 2
+            }, 
+            {
+                "name": "special_bonus_spell_amplify_10", 
+                "level": 3
+            }, 
+            {
+                "name": "special_bonus_strength_15", 
+                "level": 3
+            }, 
+            {
+                "name": "special_bonus_unique_centaur_1", 
+                "level": 4
+            }, 
+            {
+                "name": "special_bonus_unique_centaur_2", 
+                "level": 4
+            }
+        ]
+    }, 
+    "npc_dota_hero_magnataur": {
+        "abilities": [
+            [
+                "magnataur_shockwave", 
+                1
+            ], 
+            [
+                "magnataur_empower", 
+                1
+            ], 
+            [
+                "magnataur_skewer", 
+                1
+            ], 
+            [
+                "magnataur_reverse_polarity", 
+                1
+            ]
+        ], 
+        "talents": [
+            {
+                "name": "special_bonus_attack_speed_25", 
+                "level": 1
+            }, 
+            {
+                "name": "special_bonus_spell_amplify_15", 
+                "level": 1
+            }, 
+            {
+                "name": "special_bonus_gold_income_15", 
+                "level": 2
+            }, 
+            {
+                "name": "special_bonus_strength_12", 
+                "level": 2
+            }, 
+            {
+                "name": "special_bonus_unique_magnus_2", 
+                "level": 3
+            }, 
+            {
+                "name": "special_bonus_movement_speed_40", 
+                "level": 3
+            }, 
+            {
+                "name": "special_bonus_unique_magnus_3", 
+                "level": 4
+            }, 
+            {
+                "name": "special_bonus_armor_15", 
+                "level": 4
+            }
+        ]
+    }, 
+    "npc_dota_hero_shredder": {
+        "abilities": [
+            [
+                "shredder_whirling_death", 
+                1
+            ], 
+            [
+                "shredder_timber_chain", 
+                1
+            ], 
+            [
+                "shredder_reactive_armor", 
+                1
+            ], 
+            [
+                "shredder_chakram_2", 
+                2
+            ], 
+            [
+                "shredder_return_chakram_2", 
+                2
+            ], 
+            [
+                "shredder_chakram", 
+                2
+            ], 
+            [
+                "shredder_return_chakram", 
+                2
+            ]
+        ], 
+        "talents": [
+            {
+                "name": "special_bonus_hp_150", 
+                "level": 1
+            }, 
+            {
+                "name": "special_bonus_exp_boost_20", 
+                "level": 1
+            }, 
+            {
+                "name": "special_bonus_hp_regen_14", 
+                "level": 2
+            }, 
+            {
+                "name": "special_bonus_intelligence_20", 
+                "level": 2
+            }, 
+            {
+                "name": "special_bonus_spell_amplify_5", 
+                "level": 3
+            }, 
+            {
+                "name": "special_bonus_cast_range_150", 
+                "level": 3
+            }, 
+            {
+                "name": "special_bonus_unique_timbersaw", 
+                "level": 4
+            }, 
+            {
+                "name": "special_bonus_strength_20", 
+                "level": 4
+            }
+        ]
+    }, 
+    "npc_dota_hero_bristleback": {
+        "abilities": [
+            [
+                "bristleback_viscous_nasal_goo", 
+                1
+            ], 
+            [
+                "bristleback_quill_spray", 
+                1
+            ], 
+            [
+                "bristleback_bristleback", 
+                1
+            ], 
+            [
+                "bristleback_warpath", 
+                1
+            ]
+        ], 
+        "talents": [
+            {
+                "name": "special_bonus_strength_8", 
+                "level": 1
+            }, 
+            {
+                "name": "special_bonus_mp_regen_2", 
+                "level": 1
+            }, 
+            {
+                "name": "special_bonus_hp_225", 
+                "level": 2
+            }, 
+            {
+                "name": "special_bonus_unique_bristleback", 
+                "level": 2
+            }, 
+            {
+                "name": "special_bonus_attack_speed_50", 
+                "level": 3
+            }, 
+            {
+                "name": "special_bonus_spell_lifesteal_10", 
+                "level": 3
+            }, 
+            {
+                "name": "special_bonus_hp_regen_30", 
+                "level": 4
+            }, 
+            {
+                "name": "special_bonus_unique_bristleback_2", 
+                "level": 4
+            }
+        ]
+    }, 
+    "npc_dota_hero_tusk": {
+        "abilities": [
+            [
+                "tusk_ice_shards", 
+                1
+            ], 
+            [
+                "tusk_snowball", 
+                2
+            ],
+            [
+                "tusk_launch_snowball", 
+                2
+            ], 
+            [
+                "tusk_frozen_sigil", 
+                1
+            ],  
+            [
+                "tusk_walrus_kick", 
+                1
+            ], 
+            [
+                "tusk_walrus_punch", 
+                1
+            ]
+        ], 
+        "talents": [
+            {
+                "name": "special_bonus_exp_boost_40", 
+                "level": 1
+            }, 
+            {
+                "name": "special_bonus_attack_damage_35", 
+                "level": 1
+            }, 
+            {
+                "name": "special_bonus_unique_tusk_2", 
+                "level": 2
+            }, 
+            {
+                "name": "special_bonus_gold_income_15", 
+                "level": 2
+            }, 
+            {
+                "name": "special_bonus_armor_6", 
+                "level": 3
+            }, 
+            {
+                "name": "special_bonus_magic_resistance_12", 
+                "level": 3
+            }, 
+            {
+                "name": "special_bonus_hp_700", 
+                "level": 4
+            }, 
+            {
+                "name": "special_bonus_unique_tusk", 
+                "level": 4
+            }
+        ]
+    }, 
+    "npc_dota_hero_skywrath_mage": {
+        "abilities": [
+            [
+                "skywrath_mage_arcane_bolt", 
+                1
+            ], 
+            [
+                "skywrath_mage_concussive_shot", 
+                1
+            ], 
+            [
+                "skywrath_mage_ancient_seal", 
+                1
+            ], 
+            [
+                "skywrath_mage_mystic_flare", 
+                1
+            ]
+        ], 
+        "talents": [
+            {
+                "name": "special_bonus_hp_150", 
+                "level": 1
+            }, 
+            {
+                "name": "special_bonus_intelligence_7", 
+                "level": 1
+            }, 
+            {
+                "name": "special_bonus_spell_lifesteal_10", 
+                "level": 2
+            }, 
+            {
+                "name": "special_bonus_gold_income_15", 
+                "level": 2
+            }, 
+            {
+                "name": "special_bonus_movement_speed_40", 
+                "level": 3
+            }, 
+            {
+                "name": "special_bonus_magic_resistance_20", 
+                "level": 3
+            }, 
+            {
+                "name": "special_bonus_mp_regen_14", 
+                "level": 4
+            }, 
+            {
+                "name": "special_bonus_unique_skywrath", 
+                "level": 4
+            }
+        ]
+    }, 
+    "npc_dota_hero_abaddon": {
+        "abilities": [
+            [
+                "abaddon_death_coil", 
+                1
+            ], 
+            [
+                "abaddon_aphotic_shield", 
+                1
+            ], 
+            [
+                "abaddon_frostmourne", 
+                1
+            ], 
+            [
+                "abaddon_borrowed_time", 
+                1
+            ]
+        ], 
+        "talents": [
+            {
+                "name": "special_bonus_attack_damage_25", 
+                "level": 1
+            }, 
+            {
+                "name": "special_bonus_exp_boost_20", 
+                "level": 1
+            }, 
+            {
+                "name": "special_bonus_mp_200", 
+                "level": 2
+            }, 
+            {
+                "name": "special_bonus_armor_5", 
+                "level": 2
+            }, 
+            {
+                "name": "special_bonus_movement_speed_25", 
+                "level": 3
+            }, 
+            {
+                "name": "special_bonus_cooldown_reduction_15", 
+                "level": 3
+            }, 
+            {
+                "name": "special_bonus_strength_25", 
+                "level": 4
+            }, 
+            {
+                "name": "special_bonus_unique_abaddon", 
+                "level": 4
+            }
+        ]
+    }, 
+    "npc_dota_hero_elder_titan": {
+        "abilities": [
+            [
+                "elder_titan_echo_stomp", 
+                1
+            ], 
+            [
+                "elder_titan_ancestral_spirit", 
+                2
+            ],
+            [
+                "elder_titan_return_spirit", 
+                2
+            ], 
+            [
+                "elder_titan_natural_order", 
+                1
+            ],  
+            [
+                "elder_titan_earth_splitter", 
+                1
+            ]
+        ], 
+        "talents": [
+            {
+                "name": "special_bonus_mp_200", 
+                "level": 1
+            }, 
+            {
+                "name": "special_bonus_strength_10", 
+                "level": 1
+            }, 
+            {
+                "name": "special_bonus_hp_275", 
+                "level": 2
+            }, 
+            {
+                "name": "special_bonus_unique_elder_titan_2", 
+                "level": 2
+            }, 
+            {
+                "name": "special_bonus_magic_resistance_12", 
+                "level": 3
+            }, 
+            {
+                "name": "special_bonus_attack_speed_50", 
+                "level": 3
+            }, 
+            {
+                "name": "special_bonus_armor_15", 
+                "level": 4
+            }, 
+            {
+                "name": "special_bonus_unique_elder_titan", 
+                "level": 4
+            }
+        ]
+    }, 
+    "npc_dota_hero_legion_commander": {
+        "abilities": [
+            [
+                "legion_commander_overwhelming_odds", 
+                1
+            ], 
+            [
+                "legion_commander_press_the_attack", 
+                1
+            ], 
+            [
+                "legion_commander_moment_of_courage", 
+                1
+            ], 
+            [
+                "legion_commander_duel", 
+                1
+            ]
+        ], 
+        "talents": [
+            {
+                "name": "special_bonus_strength_7", 
+                "level": 1
+            }, 
+            {
+                "name": "special_bonus_exp_boost_20", 
+                "level": 1
+            }, 
+            {
+                "name": "special_bonus_attack_damage_30", 
+                "level": 2
+            }, 
+            {
+                "name": "special_bonus_movement_speed_20", 
+                "level": 2
+            }, 
+            {
+                "name": "special_bonus_armor_7", 
+                "level": 3
+            }, 
+            {
+                "name": "special_bonus_unique_legion_commander_3", 
+                "level": 3
+            }, 
+            {
+                "name": "special_bonus_unique_legion_commander", 
+                "level": 4
+            }, 
+            {
+                "name": "special_bonus_unique_legion_commander_2", 
+                "level": 4
+            }
+        ]
+    }, 
+    "npc_dota_hero_ember_spirit": {
+        "abilities": [
+            [
+                "ember_spirit_searing_chains", 
+                1
+            ], 
+            [
+                "ember_spirit_sleight_of_fist", 
+                1
+            ], 
+            [
+                "ember_spirit_flame_guard", 
+                1
+            ], 
+            [
+                "ember_spirit_activate_fire_remnant", 
+                2
+            ], 
+            [
+                "ember_spirit_fire_remnant", 
+                2
+            ]
+        ], 
+        "talents": [
+            {
+                "name": "special_bonus_spell_amplify_8", 
+                "level": 1
+            }, 
+            {
+                "name": "special_bonus_attack_damage_30", 
+                "level": 1
+            }, 
+            {
+                "name": "special_bonus_movement_speed_20", 
+                "level": 2
+            }, 
+            {
+                "name": "special_bonus_all_stats_6", 
+                "level": 2
+            }, 
+            {
+                "name": "special_bonus_unique_ember_spirit_1", 
+                "level": 3
+            }, 
+            {
+                "name": "special_bonus_armor_10", 
+                "level": 3
+            }, 
+            {
+                "name": "special_bonus_cooldown_reduction_20", 
+                "level": 4
+            }, 
+            {
+                "name": "special_bonus_unique_ember_spirit_2", 
+                "level": 4
+            }
+        ]
+    }, 
+    "npc_dota_hero_earth_spirit": {
+        "abilities": [
+            [
+                "earth_spirit_boulder_smash", 
+                1
+            ], 
+            [
+                "earth_spirit_rolling_boulder", 
+                1
+            ], 
+            [
+                "earth_spirit_geomagnetic_grip", 
+                1
+            ], 
+            [
+                "earth_spirit_stone_caller", 
+                1
+            ], 
+            [
+                "earth_spirit_petrify", 
+                1
+            ], 
+            [
+                "earth_spirit_magnetize", 
+                1
+            ]
+        ], 
+        "talents": [
+            {
+                "name": "special_bonus_intelligence_10", 
+                "level": 1
+            }, 
+            {
+                "name": "special_bonus_armor_4", 
+                "level": 1
+            }, 
+            {
+                "name": "special_bonus_magic_resistance_15", 
+                "level": 2
+            }, 
+            {
+                "name": "special_bonus_gold_income_15", 
+                "level": 2
+            }, 
+            {
+                "name": "special_bonus_spell_amplify_15", 
+                "level": 3
+            }, 
+            {
+                "name": "special_bonus_hp_300", 
+                "level": 3
+            }, 
+            {
+                "name": "special_bonus_unique_earth_spirit_2", 
+                "level": 4
+            }, 
+            {
+                "name": "special_bonus_unique_earth_spirit", 
+                "level": 4
+            }
+        ]
+    }, 
+    "npc_dota_hero_terrorblade": {
+        "abilities": [
+            [
+                "terrorblade_reflection", 
+                1
+            ], 
+            [
+                "terrorblade_conjure_image", 
+                1
+            ], 
+            [
+                "terrorblade_metamorphosis", 
+                1
+            ], 
+            [
+                "terrorblade_sunder", 
+                1
+            ]
+        ], 
+        "talents": [
+            {
+                "name": "special_bonus_hp_regen_6", 
+                "level": 1
+            }, 
+            {
+                "name": "special_bonus_attack_speed_15", 
+                "level": 1
+            }, 
+            {
+                "name": "special_bonus_attack_damage_25", 
+                "level": 2
+            }, 
+            {
+                "name": "special_bonus_hp_200", 
+                "level": 2
+            }, 
+            {
+                "name": "special_bonus_agility_15", 
+                "level": 3
+            }, 
+            {
+                "name": "special_bonus_movement_speed_25", 
+                "level": 3
+            }, 
+            {
+                "name": "special_bonus_all_stats_15", 
+                "level": 4
+            }, 
+            {
+                "name": "special_bonus_unique_terrorblade", 
+                "level": 4
+            }
+        ]
+    }, 
+    "npc_dota_hero_phoenix": {
+        "abilities": [
+            [
+                "phoenix_icarus_dive", 
+                2
+            ],
+            [
+                "phoenix_icarus_dive_stop", 
+                2
+            ], 
+            [
+                "phoenix_fire_spirits", 
+                2
+            ],
+            [
+                "phoenix_launch_fire_spirit", 
+                2
+            ], 
+            [
+                "phoenix_sun_ray", 
+                3
+            ],
+            [
+                "phoenix_sun_ray_stop", 
+                3
+            ], 
+            [
+                "phoenix_sun_ray_toggle_move", 
+                3
+            ], 
+            [
+                "phoenix_supernova", 
+                1
+            ]
+        ], 
+        "talents": [
+            {
+                "name": "special_bonus_exp_boost_20", 
+                "level": 1
+            }, 
+            {
+                "name": "special_bonus_hp_200", 
+                "level": 1
+            }, 
+            {
+                "name": "special_bonus_unique_phoenix_3", 
+                "level": 2
+            }, 
+            {
+                "name": "special_bonus_gold_income_25", 
+                "level": 2
+            }, 
+            {
+                "name": "special_bonus_armor_10", 
+                "level": 3
+            }, 
+            {
+                "name": "special_bonus_spell_amplify_8", 
+                "level": 3
+            }, 
+            {
+                "name": "special_bonus_unique_phoenix_1", 
+                "level": 4
+            }, 
+            {
+                "name": "special_bonus_unique_phoenix_2", 
+                "level": 4
+            }
+        ]
+    }, 
+    "npc_dota_hero_oracle": {
+        "abilities": [
+            [
+                "oracle_fortunes_end", 
+                1
+            ], 
+            [
+                "oracle_fates_edict", 
+                1
+            ], 
+            [
+                "oracle_purifying_flames", 
+                1
+            ], 
+            [
+                "oracle_false_promise", 
+                1
+            ]
+        ], 
+        "talents": [
+            {
+                "name": "special_bonus_unique_oracle_2", 
+                "level": 1
+            }, 
+            {
+                "name": "special_bonus_exp_boost_20", 
+                "level": 1
+            }, 
+            {
+                "name": "special_bonus_hp_200", 
+                "level": 2
+            }, 
+            {
+                "name": "special_bonus_gold_income_10", 
+                "level": 2
+            }, 
+            {
+                "name": "special_bonus_movement_speed_25", 
+                "level": 3
+            }, 
+            {
+                "name": "special_bonus_intelligence_20", 
+                "level": 3
+            }, 
+            {
+                "name": "special_bonus_cast_range_250", 
+                "level": 4
+            }, 
+            {
+                "name": "special_bonus_unique_oracle", 
+                "level": 4
+            }
+        ]
+    }, 
+    "npc_dota_hero_techies": {
+        "abilities": [
+            [
+                "techies_land_mines", 
+                1
+            ], 
+            [
+                "techies_stasis_trap", 
+                1
+            ], 
+            [
+                "techies_suicide", 
+                1
+            ],  
+            [
+                "techies_minefield_sign", 
+                1
+            ],
+            [
+                "techies_focused_detonate", 
+                2
+            ], 
+            [
+                "techies_remote_mines", 
+                2
+            ]
+        ], 
+        "talents": [
+            {
+                "name": "special_bonus_movement_speed_20", 
+                "level": 1
+            }, 
+            {
+                "name": "special_bonus_mp_regen_2", 
+                "level": 1
+            }, 
+            {
+                "name": "special_bonus_exp_boost_30", 
+                "level": 2
+            }, 
+            {
+                "name": "special_bonus_cast_range_200", 
+                "level": 2
+            }, 
+            {
+                "name": "special_bonus_gold_income_20", 
+                "level": 3
+            }, 
+            {
+                "name": "special_bonus_unique_techies", 
+                "level": 3
+            }, 
+            {
+                "name": "special_bonus_cooldown_reduction_20", 
+                "level": 4
+            }, 
+            {
+                "name": "special_bonus_attack_damage_250", 
+                "level": 4
+            }
+        ]
+    }, 
+    "npc_dota_hero_winter_wyvern": {
+        "abilities": [
+            [
+                "winter_wyvern_arctic_burn", 
+                1
+            ], 
+            [
+                "winter_wyvern_splinter_blast", 
+                1
+            ], 
+            [
+                "winter_wyvern_cold_embrace", 
+                1
+            ], 
+            [
+                "winter_wyvern_winters_curse", 
+                1
+            ]
+        ], 
+        "talents": [
+            {
+                "name": "special_bonus_intelligence_8", 
+                "level": 1
+            }, 
+            {
+                "name": "special_bonus_strength_7", 
+                "level": 1
+            }, 
+            {
+                "name": "special_bonus_movement_speed_20", 
+                "level": 2
+            }, 
+            {
+                "name": "special_bonus_attack_damage_50", 
+                "level": 2
+            }, 
+            {
+                "name": "special_bonus_gold_income_20", 
+                "level": 3
+            }, 
+            {
+                "name": "special_bonus_unique_winter_wyvern_3", 
+                "level": 3
+            }, 
+            {
+                "name": "special_bonus_unique_winter_wyvern_1", 
+                "level": 4
+            }, 
+            {
+                "name": "special_bonus_unique_winter_wyvern_2", 
+                "level": 4
+            }
+        ]
+    }, 
+    "npc_dota_hero_arc_warden": {
+        "abilities": [
+            [
+                "arc_warden_flux", 
+                1
+            ], 
+            [
+                "arc_warden_magnetic_field", 
+                1
+            ], 
+            [
+                "arc_warden_spark_wraith", 
+                1
+            ], 
+            [
+                "arc_warden_tempest_double", 
+                1
+            ]
+        ], 
+        "talents": [
+            {
+                "name": "special_bonus_unique_arc_warden_2", 
+                "level": 1
+            }, 
+            {
+                "name": "special_bonus_attack_speed_25", 
+                "level": 1
+            }, 
+            {
+                "name": "special_bonus_attack_damage_30", 
+                "level": 2
+            }, 
+            {
+                "name": "special_bonus_hp_200", 
+                "level": 2
+            }, 
+            {
+                "name": "special_bonus_cooldown_reduction_10", 
+                "level": 3
+            }, 
+            {
+                "name": "special_bonus_attack_range_100", 
+                "level": 3
+            }, 
+            {
+                "name": "special_bonus_lifesteal_30", 
+                "level": 4
+            }, 
+            {
+                "name": "special_bonus_unique_arc_warden", 
+                "level": 4
+            }
+        ]
+    }, 
+    "npc_dota_hero_abyssal_underlord": {
+        "abilities": [
+            [
+                "abyssal_underlord_firestorm", 
+                1
+            ], 
+            [
+                "abyssal_underlord_pit_of_malice", 
+                1
+            ], 
+            [
+                "abyssal_underlord_atrophy_aura", 
+                1
+            ], 
+            [
+                "abyssal_underlord_dark_rift", 
+                2
+            ], 
+            [
+                "abyssal_underlord_cancel_dark_rift", 
+                2
+            ]
+        ], 
+        "talents": [
+            {
+                "name": "special_bonus_armor_5", 
+                "level": 1
+            }, 
+            {
+                "name": "special_bonus_mp_regen_2", 
+                "level": 1
+            }, 
+            {
+                "name": "special_bonus_movement_speed_40", 
+                "level": 2
+            }, 
+            {
+                "name": "special_bonus_spell_amplify_12", 
+                "level": 2
+            }, 
+            {
+                "name": "special_bonus_attack_speed_60", 
+                "level": 3
+            }, 
+            {
+                "name": "special_bonus_cast_range_125", 
+                "level": 3
+            }, 
+            {
+                "name": "special_bonus_hp_regen_50", 
+                "level": 4
+            }, 
+            {
+                "name": "special_bonus_unique_underlord", 
+                "level": 4
+            }
+        ]
+    }, 
+    "npc_dota_hero_monkey_king": {
+        "abilities": [
+            [
+                "monkey_king_boundless_strike", 
+                1
+            ], 
+            [
+                "monkey_king_tree_dance", 
+                2
+            ], 
+            [
+                "monkey_king_primal_spring", 
+                2
+            ], 
+            [
+                "monkey_king_jingu_mastery", 
+                1
+            ], 
+            [
+                "monkey_king_mischief", 
+                2
+            ], 
+            [
+                "monkey_king_untransform", 
+                2
+            ], 
+            [
+                "monkey_king_wukongs_command", 
+                1
+            ]
+        ], 
+        "talents": [
+            {
+                "name": "special_bonus_attack_speed_20", 
+                "level": 1
+            }, 
+            {
+                "name": "special_bonus_evasion_12", 
+                "level": 1
+            }, 
+            {
+                "name": "special_bonus_hp_275", 
+                "level": 2
+            }, 
+            {
+                "name": "special_bonus_unique_monkey_king_2", 
+                "level": 2
+            }, 
+            {
+                "name": "special_bonus_attack_damage_40", 
+                "level": 3
+            }, 
+            {
+                "name": "special_bonus_magic_resistance_20", 
+                "level": 3
+            }, 
+            {
+                "name": "special_bonus_strength_25", 
+                "level": 4
+            }, 
+            {
+                "name": "special_bonus_unique_monkey_king", 
+                "level": 4
+            }
+        ]
+    }
+}

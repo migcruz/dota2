@@ -14968,34 +14968,6 @@
         "ability_name": "doom_bringer_infernal_blade", 
         "hero_id": 69
     }, 
-    "doom_bringer_empty1": {
-        "ability_info": {
-            "dname": "Devoured Ability", 
-            "behavior": [
-                "Passive", 
-                null
-            ], 
-            "desc": "This slot will be replaced with abilities acquired using Devour.", 
-            "attrib": [], 
-            "img": "dota2assets/img/spellicons/doom_bringer_empty1.png"
-        }, 
-        "ability_name": "doom_bringer_empty1", 
-        "hero_id": 69
-    }, 
-    "doom_bringer_empty2": {
-        "ability_info": {
-            "dname": "Devoured Ability", 
-            "behavior": [
-                "Passive", 
-                null
-            ], 
-            "desc": "This slot will be replaced with abilities acquired using Devour.", 
-            "attrib": [], 
-            "img": "dota2assets/img/spellicons/doom_bringer_empty2.png"
-        }, 
-        "ability_name": "doom_bringer_empty2", 
-        "hero_id": 69
-    }, 
     "doom_bringer_doom": {
         "ability_info": {
             "dname": "Doom", 
@@ -16470,34 +16442,6 @@
             "img": "dota2assets/img/spellicons/invoker_exort.png"
         }, 
         "ability_name": "invoker_exort", 
-        "hero_id": 74
-    }, 
-    "invoker_empty1": {
-        "ability_info": {
-            "dname": "Invoked Spell", 
-            "behavior": [
-                "Passive", 
-                null
-            ], 
-            "desc": "Casting Invoke will replace this slot with one of ten unique spells based on Invoker's currently active Quas, Wex, and Exort buffs.", 
-            "attrib": [], 
-            "img": "dota2assets/img/spellicons/invoker_empty1.png"
-        }, 
-        "ability_name": "invoker_empty1", 
-        "hero_id": 74
-    }, 
-    "invoker_empty2": {
-        "ability_info": {
-            "dname": "Invoked Spell", 
-            "behavior": [
-                "Passive", 
-                null
-            ], 
-            "desc": "Casting Invoke will replace this slot with one of ten unique spells based on Invoker's currently active Quas, Wex, and Exort buffs.", 
-            "attrib": [], 
-            "img": "dota2assets/img/spellicons/invoker_empty2.png"
-        }, 
-        "ability_name": "invoker_empty2", 
         "hero_id": 74
     }, 
     "invoker_invoke": {
@@ -20068,34 +20012,6 @@
             "img": "dota2assets/img/spellicons/rubick_null_field.png"
         }, 
         "ability_name": "rubick_null_field", 
-        "hero_id": 86
-    }, 
-    "rubick_empty1": {
-        "ability_info": {
-            "dname": "Stolen Spell", 
-            "behavior": [
-                "Passive", 
-                null
-            ], 
-            "desc": "Spells acquired with Spell Steal will replace this slot.", 
-            "attrib": [], 
-            "img": "dota2assets/img/spellicons/rubick_empty1.png"
-        }, 
-        "ability_name": "rubick_empty1", 
-        "hero_id": 86
-    }, 
-    "rubick_empty2": {
-        "ability_info": {
-            "dname": "Stolen Spell", 
-            "behavior": [
-                "Passive", 
-                null
-            ], 
-            "desc": "Spells acquired with Spell Steal will replace this slot.", 
-            "attrib": [], 
-            "img": "dota2assets/img/spellicons/rubick_empty2.png"
-        }, 
-        "ability_name": "rubick_empty2", 
         "hero_id": 86
     }, 
     "rubick_spell_steal": {

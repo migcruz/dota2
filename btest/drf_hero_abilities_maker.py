@@ -7,16 +7,16 @@ key_list2 = []
 hero_ability = OrderedDict()
 hero_npc_id = {}
 
-with open('abilities.json') as filepath:
+with open('abilities/abilities.json') as filepath:
  	abilities = json.load(filepath, object_pairs_hook=OrderedDict)
 
-with open('hero_abilities.json') as filepath:
+with open('abilities/my_hero_abilities.json') as filepath:
  	hero_abilities = json.load(filepath, object_pairs_hook=OrderedDict)
 
 with open('prod_jsons/heroes2.json') as filepath:
  	heroes2 = json.load(filepath, object_pairs_hook=OrderedDict)
 
-with open('npc_abilities.json') as filepath:
+with open('abilities/npc_abilities.json') as filepath:
  	npc_abilities = json.load(filepath, object_pairs_hook=OrderedDict)
 
 
@@ -51,16 +51,36 @@ for key, val in hero_abilities.iteritems():
 	for ability in val["abilities"]:
 		for key2, val2 in npc_abilities.iteritems():
 			for key3, val3 in val2.iteritems():
-				if key3 == ability:
-					hero_ability[key3] = val3
-					hero_ability[key3]["img"] = "dota2assets/img/spellicons/"+key3+".png"
-					hero_ability[key3]["hero_id"] = hero_npc_id[key]
-					hero_ability[key3]["ability_name"] = key3
+				if key3 == ability[0]:
+					info = {}
+					info["ability_info"] = abilities[key3]
+					info["ability_info"]["img"] = "dota2assets/img/spellicons/"+key3+".png"
+					info["hero_id"] = hero_npc_id[key]
+					info["ability_name"] = key3
 					print key3
-					hero_ability[key3]["desc"] = abilities[key3]["desc"]
+					info["bucket_size"] = ability[1]
+
+					try:
+						x = int(val3["HasScepterUpgrade"])
+					except:
+						x = 0
+					info["ability_info"]["has_scepter_upgrade"] = x
+
+					try:
+						x = int(val3["IsGrantedByScepter"])
+					except:
+						x = 0
+					info["ability_info"]["is_granted_by_scepter"] = x
+
+					try:
+						x = val3["SpellDispellableType"]
+					except:
+						x = ""
+					info["ability_info"]["dispellable_type"] = x
+					hero_ability[key3] = info
 
 
-with open('prod_jsons/hero_abilities3.json', 'wb') as filepath:
+with open('prod_jsons/drf_hero_abilities.json', 'wb') as filepath:
         json.dump(hero_ability, filepath, indent=4, sort_keys=False)
 
 # for key, val in abilities.iteritems():
