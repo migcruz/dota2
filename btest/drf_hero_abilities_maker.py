@@ -77,6 +77,13 @@ for key, val in hero_abilities.iteritems():
 					except:
 						x = ""
 					info["ability_info"]["dispellable_type"] = x
+
+					try:
+						x = val3["AbilityCastRange"]
+					except:
+						x = ""
+					info["ability_info"]["ability_cast_range"] = x
+
 					hero_ability[key3] = info
 
 
