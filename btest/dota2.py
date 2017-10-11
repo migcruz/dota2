@@ -6,9 +6,12 @@ from collections import OrderedDict
 
 items_list = []
 
-with open('heroes.json') as filepath:
+with open('heroes/heroes.json') as filepath:
  	heroes = json.load(filepath, object_pairs_hook=OrderedDict)
 
+
+with open('heroes/npc_heroes.json') as filepath:
+    npc_heroes = json.load(filepath, object_pairs_hook=OrderedDict)
 #print heroes["1"]
  #item_dict = {}
  #for item in items_list:
@@ -399,6 +402,21 @@ for key, val in heroes.iteritems():
     if found == False:
         print val["localized_name"]
 
+# get hero roles and role levels and complexity
+for key, val in npc_heroes.iteritems():
+    for key2, val2 in val.iteritems():
+        rolesandrolelevels = {}
+        try:
+            roles = val2["Role"].split(",")
+            rolelevels = val2["Rolelevels"].split(",")
+            for role, rolelevel in zip(roles, rolelevels):
+                rolesandrolelevels[role] = int(rolelevel)
+            heroes[val2["HeroID"]]["roles"] = rolesandrolelevels
+            heroes[val2["HeroID"]]["complexity"] = int(val2["Complexity"])
+            print "SUCCESS"
+        except Exception as e:
+            print e
+
 # for num in c:
 #     heroes[str(num)]
 hero_url_id = OrderedDict()
@@ -411,10 +429,10 @@ for key, val in heroes.iteritems():
 # print c
 print(heroes["68"]["img"], b, len(heroes))
 
-with open('heroes2.json', 'wb') as filepath:
+with open('prod_jsons/drf_heroes.json', 'wb') as filepath:
         json.dump(heroes, filepath, indent=4, sort_keys=False)
 
-with open('heroes_url_id.json', 'wb') as filepath:
+with open('prod_jsons/drf_heroes_url_id.json', 'wb') as filepath:
         json.dump(hero_url_id, filepath, indent=4, sort_keys=True)
 
 # print(type(heroes["1"]))
