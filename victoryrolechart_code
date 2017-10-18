@@ -1,0 +1,234 @@
+ <VictoryChart polar
+  theme={VictoryTheme.material}
+  domainPadding={{ y: 10 }}
+>
+    <VictoryPolarAxis
+        tickValues={_.keys({0: "intelligence", 72: "strength", 144: "speed", 216: "stealth", 288: "lOL"}).map((k) => +k)}
+        tickFormat={_.values({0: "intelligence", 72: "strength", 144: "speed", 216: "stealth", 288: "lOL"})}
+        labelPlacement="vertical"
+        style={{ 
+          tickLabels: { fill: "white" },
+          axis: { stroke: "grey", strokeWidth: 0.5},
+          grid: { stroke: "grey", strokeWidth: 0.2, opacity: 1 },
+		  axisLabel: {fill: "black"}
+        }}
+  	/>  
+  <VictoryBar
+    style={{ data: { fill: "grey", width: 40 } }}
+    data={[
+      { x: 0, y: 1 },
+      { x: 72, y: 2 },
+      { x: 144, y: 2 },
+      { x: 216, y: 1 },
+      { x: 288, y: 2 }
+    ]}
+  />
+  <VictoryBar
+    style={{ data: { fill: "none", width: 40 } }}
+    data={[
+      { x: 0, y: 1 },
+      { x: 72, y: 2 },
+      { x: 144, y: 3 },
+      { x: 216, y: 1 },
+      { x: 288, y: 2 }
+    ]}
+  />
+</VictoryChart>
+
+
+
+
+ <div>
+   <svg>
+      <defs>
+        <linearGradient id="gradient1" 
+          x1="0%" y1="0%" x2="0%" y2="100%"
+        >
+          <stop offset="0%"   stopColor="white"/>
+          <stop offset="100%" stopColor="red"/>
+        </linearGradient>
+
+      </defs>
+   </svg>
+   <VictoryChart polar
+    theme={VictoryTheme.material}
+    domainPadding={{ y: 10 }}
+      >
+      <VictoryPolarAxis
+          tickValues={_.keys({0: "intelligence", 72: "strength", 144: "speed", 216: "stealth", 288: "lOL"}).map((k) => +k)}
+          tickFormat={_.values({0: "intelligence", 72: "strength", 144: "speed", 216: "stealth", 288: "lOL"})}
+          labelPlacement="vertical"
+          style={{ 
+            tickLabels: { fill: "white" },
+            axis: { stroke: "grey", strokeWidth: 0.5},
+            grid: { stroke: "grey", strokeWidth: 0.2, opacity: 1 },
+            axisLabel: {fill: "black"}
+          }}
+      />
+    <VictoryBar
+        style={{ data: { fill: "none", width: 40 } }}
+        data={[
+          { x: 0, y: 1 },
+          { x: 72, y: 2 },
+          { x: 144, y: 3 },
+          { x: 216, y: 1 },
+          { x: 288, y: 2 }
+        ]}
+      />
+    <VictoryStack
+    	colorScale={[
+          	"url(#gradient1)", 
+            ]}>
+      <VictoryBar
+        style={{ data: { width: 40 } }}
+        data={[
+          { x: 0, y: 1 },
+          { x: 72, y: 2 },
+          { x: 144, y: 2 },
+          { x: 216, y: 1 },
+          { x: 288, y: 2 }
+        ]}
+      />
+      
+    </VictoryStack>
+  </VictoryChart>
+</div>
+
+
+
+
+
+
+-----------------
+
+ <div>
+   <svg>
+      <defs>
+        <linearGradient id="gradient1" 
+          x1="0%" y1="0%" x2="0%" y2="100%"
+        >
+          <stop offset="0%"   stopColor="orange"/>
+          <stop offset="100%" stopColor="red"/>
+        </linearGradient>
+
+      </defs>
+   </svg>
+   <VictoryChart polar
+    theme={VictoryTheme.material}
+    domainPadding={{ y: 10 }}
+    innerRadius={20}
+      >
+      
+    <VictoryBar
+        style={{ data: { fill: "none", width: 40 } }}
+        data={[
+          	{ x: 0, y: 1 },
+            { x: 40, y: 3 },
+            { x: 80, y: 3 },
+            { x: 120, y: 3 },
+            { x: 160, y: 2 },
+            { x: 200, y: 3 },
+            { x: 240, y: 3 },
+            { x: 280, y: 3 },
+            { x: 320, y: 3 }
+        ]}
+      />
+    <VictoryGroup
+
+    	colorScale={[
+          	"red",
+            "orange",
+            "yellow",
+            "pink",
+            "url(#gradient1)"
+            ]}>
+      <VictoryBar
+  		domainPadding={{ y: 0 }}
+        data={[
+          { x: 0, y: 4 },
+            { x: 40, y: 4 },
+            { x: 80, y: 4 },
+            { x: 120, y: 4 },
+            { x: 160, y: 0 },
+            { x: 200, y: 4 },
+            { x: 240, y: 4 },
+            { x: 280, y: 4 },
+            { x: 320, y: 0 }
+        ]}
+      />
+      <VictoryBar
+      	domainPadding={{ y: 0 }}
+        data={[
+          { x: 0, y: 3 },
+            { x: 40, y: 3 },
+            { x: 80, y: 3 },
+            { x: 120, y: 3 },
+            { x: 160, y: 0},
+            { x: 200, y: 3},
+            { x: 240, y: 3 },
+            { x: 280, y: 3 },
+            { x: 320, y: 0}
+        ]}
+      />
+      
+      <VictoryBar
+      	domainPadding={{ y: 0 }}
+        data={[
+          { x: 0, y: 2},
+            { x: 40, y: 2},
+            { x: 80, y: 2},
+            { x: 120, y: 2},
+            { x: 160, y: 0},
+            { x: 200, y: 2},
+            { x: 240, y: 2},
+            { x: 280, y: 2},
+            { x: 320, y: 0}
+        ]}
+      />
+    </VictoryGroup>
+    <VictoryBar
+    	style={{ data: { fill: "red" } }}
+        data={[
+          { x: 0, y: 0.5 },
+            { x: 40, y: 0.5 },
+            { x: 80, y: 0.5 },
+            { x: 120, y: 0.5 },
+            { x: 160, y: 0.5 },
+            { x: 200, y: 0.5 },
+            { x: 240, y: 0.5 },
+            { x: 280, y: 0.5 },
+            { x: 320, y: 0.5 }
+        ]}
+      />
+    <VictoryPolarAxis dependentAxis
+    	tickValues={[2, 3, 4]}
+          style={{ 
+            tickLabels: { fill: "none" },
+            axis: { stroke: "none", strokeWidth: 0.5},
+            grid: { stroke: "white", strokeWidth: 0.2, opacity: 1, strokeDasharray: "5,0" },
+            axisLabel: {fill: "black"}
+          }}
+      />
+    <VictoryPie
+    	 data={[
+          	{ x: 0, y: 3 },
+            { x: 40, y: 3 },
+            { x: 80, y: 3 },
+            { x: 120, y: 3 },
+            { x: 160, y: 3 },
+            { x: 200, y: 3 },
+            { x: 240, y: 3 },
+            { x: 280, y: 3 },
+            { x: 320, y: 3 }
+        ]}
+    	innerRadius={120}
+        startAngle={70}
+        endAngle={450}
+        padAngle={1}
+        style={{ 
+            labels: { fill: "black" },
+        }}
+    
+    />
+  </VictoryChart>
+</div>
