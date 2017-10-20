@@ -98,9 +98,8 @@
 
 
 
-
+"url(#gradient1)"
 -----------------
-
  <div>
    <svg>
       <defs>
@@ -133,61 +132,18 @@
             { x: 320, y: 3 }
         ]}
       />
-    <VictoryGroup
+    <VictoryStack
 
     	colorScale={[
-          	"red",
-            "orange",
-            "yellow",
+          	"mediumspringgreen",
+            "#1cff60",
+            "lime",
             "pink",
             "url(#gradient1)"
             ]}>
       <VictoryBar
-  		domainPadding={{ y: 0 }}
-        data={[
-          { x: 0, y: 4 },
-            { x: 40, y: 4 },
-            { x: 80, y: 4 },
-            { x: 120, y: 4 },
-            { x: 160, y: 0 },
-            { x: 200, y: 4 },
-            { x: 240, y: 4 },
-            { x: 280, y: 4 },
-            { x: 320, y: 0 }
-        ]}
-      />
-      <VictoryBar
-      	domainPadding={{ y: 0 }}
-        data={[
-          { x: 0, y: 3 },
-            { x: 40, y: 3 },
-            { x: 80, y: 3 },
-            { x: 120, y: 3 },
-            { x: 160, y: 0},
-            { x: 200, y: 3},
-            { x: 240, y: 3 },
-            { x: 280, y: 3 },
-            { x: 320, y: 0}
-        ]}
-      />
-      
-      <VictoryBar
-      	domainPadding={{ y: 0 }}
-        data={[
-          { x: 0, y: 2},
-            { x: 40, y: 2},
-            { x: 80, y: 2},
-            { x: 120, y: 2},
-            { x: 160, y: 0},
-            { x: 200, y: 2},
-            { x: 240, y: 2},
-            { x: 280, y: 2},
-            { x: 320, y: 0}
-        ]}
-      />
-    </VictoryGroup>
-    <VictoryBar
-    	style={{ data: { fill: "red" } }}
+    	domainPadding={{ y: 40 }}
+    	style={{ data: { width: 50} }}
         data={[
           { x: 0, y: 0.5 },
             { x: 40, y: 0.5 },
@@ -200,6 +156,54 @@
             { x: 320, y: 0.5 }
         ]}
       />
+      <VictoryBar
+      	style={{ data: {width: 42 } }}
+  		domainPadding={{ y: 7.5 }}
+        data={[
+          { x: 0, y: 2 },
+            { x: 40, y: 2 },
+            { x: 80, y: 2 },
+            { x: 120, y: 2 },
+            { x: 160, y: 0 },
+            { x: 200, y: 2 },
+            { x: 240, y: 2 },
+            { x: 280, y: 2 },
+            { x: 320, y: 0 }
+        ]}
+      />
+      <VictoryBar
+      	style={{ data: {width: 42 } }}
+      	domainPadding={{ y: 3 }}
+        data={[
+          { x: 0, y: 1 },
+            { x: 40, y: 1 },
+            { x: 80, y: 1 },
+            { x: 120, y: 1 },
+            { x: 160, y: 0},
+            { x: 200, y: 1},
+            { x: 240, y: 1 },
+            { x: 280, y: 1 },
+            { x: 320, y: 0}
+        ]}
+      />
+      
+      <VictoryBar
+      	style={{ data: {width: 42 } }}
+      	domainPadding={{ y: 0 }}
+        data={[
+          { x: 0, y: 0},
+            { x: 40, y: 0},
+            { x: 80, y: 1},
+            { x: 120, y: 1},
+            { x: 160, y: 0},
+            { x: 200, y: 1},
+            { x: 240, y: 1},
+            { x: 280, y: 1},
+            { x: 320, y: 0}
+        ]}
+      />
+    </VictoryStack>
+    
     <VictoryPolarAxis dependentAxis
     	tickValues={[2, 3, 4]}
           style={{ 
@@ -210,6 +214,9 @@
           }}
       />
     <VictoryPie
+    	colorScale={[
+          	"blue"
+            ]}
     	 data={[
           	{ x: 0, y: 3 },
             { x: 40, y: 3 },
@@ -227,6 +234,7 @@
         padAngle={1}
         style={{ 
             labels: { fill: "black" },
+            data: {stroke: "purple", strokeWidth: 1}
         }}
     
     />
@@ -250,3 +258,145 @@
     data={sampleData}
   />
 </svg>
+
+
+----################------
+ <div>
+   <svg>
+      <defs>
+        <pattern id="img1" patternUnits="userSpaceOnUse" width="60" height="60">
+    		<image xlinkHref="https://dota2.gamepedia.com/media/dota2.gamepedia.com/2/2d/Agility_attribute_symbol.png" x="0" y="0" width="60" height="60" />
+  		</pattern>
+		
+      </defs>
+   </svg>
+   <VictoryChart polar
+    theme={VictoryTheme.material}
+    domainPadding={{ y: 10 }}
+    innerRadius={20}
+      >
+      
+    <VictoryBar
+        style={{ data: { fill: "none", width: 40 } }}
+        data={[
+          	{ x: 0, y: 1 },
+            { x: 40, y: 3 },
+            { x: 80, y: 3 },
+            { x: 120, y: 3 },
+            { x: 160, y: 2 },
+            { x: 200, y: 3 },
+            { x: 240, y: 3 },
+            { x: 280, y: 3 },
+            { x: 320, y: 3 }
+        ]}
+      />
+    <VictoryStack
+
+    	colorScale={[
+        	"limegreen",
+          	"mediumspringgreen",
+            "#1cff60",
+            "lime",
+            "pink",
+            "url(#gradient1)"
+            ]}>
+      <VictoryBar
+    	domainPadding={{ y: 40 }}
+    	style={{ data: { width: 50} }}
+        data={[
+          { x: 0, y: 0.5 },
+            { x: 40, y: 0.5 },
+            { x: 80, y: 0.5 },
+            { x: 120, y: 0.5 },
+            { x: 160, y: 0.5 },
+            { x: 200, y: 0.5 },
+            { x: 240, y: 0.5 },
+            { x: 280, y: 0.5 },
+            { x: 320, y: 0.5 }
+        ]}
+      />
+      <VictoryBar
+      	style={{ data: {width: 42 } }}
+  		domainPadding={{ y: 7.5 }}
+        data={[
+          { x: 0, y: 2 },
+            { x: 40, y: 2 },
+            { x: 80, y: 2 },
+            { x: 120, y: 2 },
+            { x: 160, y: 0 },
+            { x: 200, y: 2 },
+            { x: 240, y: 2 },
+            { x: 280, y: 2 },
+            { x: 320, y: 0 }
+        ]}
+      />
+      <VictoryBar
+      	style={{ data: {width: 42 } }}
+      	domainPadding={{ y: 3 }}
+        data={[
+          { x: 0, y: 1 },
+            { x: 40, y: 1 },
+            { x: 80, y: 1 },
+            { x: 120, y: 1 },
+            { x: 160, y: 0},
+            { x: 200, y: 1},
+            { x: 240, y: 1 },
+            { x: 280, y: 1 },
+            { x: 320, y: 0}
+        ]}
+      />
+      
+      <VictoryBar
+      	style={{ data: {width: 42 } }}
+      	domainPadding={{ y: 0 }}
+        data={[
+          { x: 0, y: 0},
+            { x: 40, y: 0},
+            { x: 80, y: 1},
+            { x: 120, y: 1},
+            { x: 160, y: 0},
+            { x: 200, y: 1},
+            { x: 240, y: 1},
+            { x: 280, y: 1},
+            { x: 320, y: 0}
+        ]}
+      />
+    </VictoryStack>
+    
+    <VictoryPolarAxis dependentAxis
+    	tickValues={[2, 3, 4]}
+          style={{ 
+            tickLabels: { fill: "none" },
+            axis: { stroke: "none", strokeWidth: 0.5},
+            grid: { stroke: "white", strokeWidth: 0.2, opacity: 1, strokeDasharray: "5,0" },
+            axisLabel: {fill: "black"}
+          }}
+      />
+    <VictoryPie
+    	colorScale={[
+          	"limegreen"
+            ]}
+    	 data={[
+          	{ x: 0, y: 3 },
+            { x: 40, y: 3 },
+            { x: 80, y: 3 },
+            { x: 120, y: 3 },
+            { x: 160, y: 3 },
+            { x: 200, y: 3 },
+            { x: 240, y: 3 },
+            { x: 280, y: 3 },
+            { x: 320, y: 3 }
+        ]}
+    	innerRadius={120}
+        startAngle={70}
+        endAngle={450}
+        padAngle={1}
+        style={{ 
+            labels: { fill: "black" },
+            data: {stroke: "yellow", strokeWidth: 1}
+        }}
+    
+    />
+   <circle transform="translate(25,25)" cx={150} cy={150} r={22} fill="url(#img1)"/>
+  </VictoryChart>
+</div>
