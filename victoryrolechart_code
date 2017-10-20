@@ -232,3 +232,21 @@
     />
   </VictoryChart>
 </div>
+
+
+----###############################################
+<svg width={300} height={300}>
+	<defs>
+        <pattern id="img1" patternUnits="userSpaceOnUse" width="100" height="100">
+    		<image xlinkHref="https://dota2.gamepedia.com/media/dota2.gamepedia.com/7/7a/Strength_attribute_symbol.png?version=3022b09c51a2b172ba107fa3147b32c9" x="0" y="0" width="100" height="100" />
+  		</pattern>
+
+      </defs>
+  <circle cx={150} cy={150} r={35} fill="url(#img1)"/>
+  <VictoryPie
+    standalone={false}
+    width={300} height={300}
+    innerRadius={75}
+    data={sampleData}
+  />
+</svg>
