@@ -4,13 +4,17 @@ import csv
 import json
 from collections import OrderedDict
 
-items_list = []
+# Opendota hero json: https://github.com/odota/dotaconstants/blob/master/build/heroes.json
+# Dotabuff hero json: https://github.com/dotabuff/d2vpkr/blob/master/dota/scripts/npc/npc_heroes.json
 
-with open('heroes/heroes.json') as filepath:
+items_list = []
+version = '7.07'
+
+with open('heroes/' + version + '/heroes.json') as filepath:
  	heroes = json.load(filepath, object_pairs_hook=OrderedDict)
 
 
-with open('heroes/npc_heroes.json') as filepath:
+with open('heroes/'  + version + '/npc_heroes.json') as filepath:
     npc_heroes = json.load(filepath, object_pairs_hook=OrderedDict)
 #print heroes["1"]
  #item_dict = {}
@@ -40,6 +44,7 @@ test = [
     {"key": "Clinkz", "value": "dota2assets/img/heroes/clinkz.png"},
     {"key": "Crystal Maiden", "value": "dota2assets/img/heroes/crystal_maiden.png"},
     {"key": "Dark Seer", "value": "dota2assets/img/heroes/dark_seer.png"},
+    {"key": "Dark Willow", "value": "dota2assets/img/heroes/dark_willow.png"},
     {"key": "Dazzle", "value": "dota2assets/img/heroes/dazzle.png"},
     {"key": "Death Prophet", "value": "dota2assets/img/heroes/death_prophet.png"},
     {"key": "Disruptor", "value": "dota2assets/img/heroes/disruptor.png"},
@@ -85,6 +90,7 @@ test = [
     {"key": "Ogre Magi", "value": "dota2assets/img/heroes/ogre_magi.png"},
     {"key": "Omniknight", "value": "dota2assets/img/heroes/omniknight.png"},
     {"key": "Oracle", "value": "dota2assets/img/heroes/oracle.png"},
+    {"key": "Pangolier", "value": "dota2assets/img/heroes/pangolier.png"},
     {"key": "Phantom Assassin", "value": "dota2assets/img/heroes/phantom_assassin.png"},
     {"key": "Phantom Lancer", "value": "dota2assets/img/heroes/phantom_lancer.png"},
     {"key": "Phoenix", "value": "dota2assets/img/heroes/phoenix.png"},
@@ -156,6 +162,7 @@ test2 = [
     {"key": "Clinkz", "value": "dota2assets/webm/heroes/clinkz.webm"},
     {"key": "Crystal Maiden", "value": "dota2assets/webm/heroes/crystal_maiden.webm"},
     {"key": "Dark Seer", "value": "dota2assets/webm/heroes/dark_seer.webm"},
+    {"key": "Dark Willow", "value": "dota2assets/webm/heroes/dark_willow.webm"},
     {"key": "Dazzle", "value": "dota2assets/webm/heroes/dazzle.webm"},
     {"key": "Death Prophet", "value": "dota2assets/webm/heroes/death_prophet.webm"},
     {"key": "Disruptor", "value": "dota2assets/webm/heroes/disruptor.webm"},
@@ -201,6 +208,7 @@ test2 = [
     {"key": "Ogre Magi", "value": "dota2assets/webm/heroes/ogre_magi.webm"},
     {"key": "Omniknight", "value": "dota2assets/webm/heroes/omniknight.webm"},
     {"key": "Oracle", "value": "dota2assets/webm/heroes/oracle.webm"},
+    {"key": "Pangolier", "value": "dota2assets/webm/heroes/pangolier.webm"},
     {"key": "Phantom Assassin", "value": "dota2assets/webm/heroes/phantom_assassin.webm"},
     {"key": "Phantom Lancer", "value": "dota2assets/webm/heroes/phantom_lancer.webm"},
     {"key": "Phoenix", "value": "dota2assets/webm/heroes/phoenix.webm"},
@@ -272,6 +280,7 @@ test3 = [
     {"key": "Clinkz", "value": "dota2assets/img/miniheroes/clinkz.png"},
     {"key": "Crystal Maiden", "value": "dota2assets/img/miniheroes/crystal_maiden.png"},
     {"key": "Dark Seer", "value": "dota2assets/img/miniheroes/dark_seer.png"},
+    {"key": "Dark Willow", "value": "dota2assets/img/miniheroes/dark_willow.png"},
     {"key": "Dazzle", "value": "dota2assets/img/miniheroes/dazzle.png"},
     {"key": "Death Prophet", "value": "dota2assets/img/miniheroes/death_prophet.png"},
     {"key": "Disruptor", "value": "dota2assets/img/miniheroes/disruptor.png"},
@@ -317,6 +326,7 @@ test3 = [
     {"key": "Ogre Magi", "value": "dota2assets/img/miniheroes/ogre_magi.png"},
     {"key": "Omniknight", "value": "dota2assets/img/miniheroes/omniknight.png"},
     {"key": "Oracle", "value": "dota2assets/img/miniheroes/oracle.png"},
+    {"key": "Pangolier", "value": "dota2assets/img/miniheroes/pangolier.png"},
     {"key": "Phantom Assassin", "value": "dota2assets/img/miniheroes/phantom_assassin.png"},
     {"key": "Phantom Lancer", "value": "dota2assets/img/miniheroes/phantom_lancer.png"},
     {"key": "Phoenix", "value": "dota2assets/img/miniheroes/phoenix.png"},
@@ -364,6 +374,124 @@ test3 = [
     {"key": "Io", "value": "dota2assets/img/miniheroes/wisp.png"},
     {"key": "Witch Doctor", "value": "dota2assets/img/miniheroes/witch_doctor.png"},
     {"key": "Zeus", "value": "dota2assets/img/miniheroes/zuus.png"}
+]
+
+test4 = [
+    {"key": "Abaddon", "value": "Abaddon"},
+    {"key": "Underlord", "value": "Abyssal_Underlord"},
+    {"key": "Alchemist", "value": "Alchemist"},
+    {"key": "Ancient Apparition", "value": "Ancient_Apparition"},
+    {"key": "Anti-Mage", "value": "Anti-mage"},
+    {"key": "Arc Warden", "value": "Arc_Warden"},
+    {"key": "Axe", "value": "Axe"},
+    {"key": "Bane", "value": "Bane"},
+    {"key": "Batrider", "value": "Batrider"},
+    {"key": "Beastmaster", "value": "Beastmaster"},
+    {"key": "Bloodseeker", "value": "Bloodseeker"},
+    {"key": "Bounty Hunter", "value": "Bounty_Hunter"},
+    {"key": "Brewmaster", "value": "Brewmaster"},
+    {"key": "Bristleback", "value": "Bristleback"},
+    {"key": "Broodmother", "value": "Broodmother"},
+    {"key": "Centaur Warrunner", "value": "Centaur"},
+    {"key": "Chaos Knight", "value": "Chaos_Knight"},
+    {"key": "Chen", "value": "Chen"},
+    {"key": "Clinkz", "value": "Clinkz"},
+    {"key": "Crystal Maiden", "value": "Crystal_Maiden"},
+    {"key": "Dark Seer", "value": "Dark_Seer"},
+    {"key": "Dark Willow", "value": "Dark_Willow"},
+    {"key": "Dazzle", "value": "Dazzle"},
+    {"key": "Death Prophet", "value": "Death_Prophet"},
+    {"key": "Disruptor", "value": "Disruptor"},
+    {"key": "Doom", "value": "Doom"},
+    {"key": "Dragon Knight", "value": "Dragon_Knight"},
+    {"key": "Drow Ranger", "value": "Drow_Ranger"},
+    {"key": "Earthshaker", "value": "Earthshaker"},
+    {"key": "Earth Spirit", "value": "Earth_Spirit"},
+    {"key": "Elder Titan", "value": "Elder_Titan"},
+    {"key": "Ember Spirit", "value": "Ember_Spirit"},
+    {"key": "Enchantress", "value": "Enchantress"},
+    {"key": "Enigma", "value": "Enigma"},
+    {"key": "Faceless Void", "value": "Faceless_Void"},
+    {"key": "Nature's Prophet", "value": "Natures_Prophet"},
+    {"key": "Gyrocopter", "value": "Gyrocopter"},
+    {"key": "Huskar", "value": "Huskar"},
+    {"key": "Invoker", "value": "Invoker"},
+    {"key": "Jakiro", "value": "Jakiro"},
+    {"key": "Juggernaut", "value": "Juggernaut"},
+    {"key": "Keeper of the Light", "value": "Keeper_of_the_Light"},
+    {"key": "Kunkka", "value": "kunkka"},
+    {"key": "Legion Commander", "value": "Legion_Commander"},
+    {"key": "Leshrac", "value": "Leshrac"},
+    {"key": "Lich", "value": "Lich"},
+    {"key": "Lifestealer", "value": "Lifestealer"},
+    {"key": "Lina", "value": "Lina"},
+    {"key": "Lion", "value": "Lion"},
+    {"key": "Lone Druid", "value": "Lone_Druid"},
+    {"key": "Luna", "value": "Luna"},
+    {"key": "Lycan", "value": "Lycan"},
+    {"key": "Magnus", "value": "Magnus"},
+    {"key": "Medusa", "value": "Medusa"},
+    {"key": "Meepo", "value": "Meepo"},
+    {"key": "Mirana", "value": "Mirana"},
+    {"key": "Monkey King", "value": "Monkey_King"},
+    {"key": "Morphling", "value": "Morphling"},
+    {"key": "Naga Siren", "value": "Naga_Siren"},
+    {"key": "Necrophos", "value": "Necrophos"},
+    {"key": "Shadow Fiend", "value": "Shadow_Fiend"},
+    {"key": "Night Stalker", "value": "Night_Stalker"},
+    {"key": "Nyx Assassin", "value": "Nyx_Assassin"},
+    {"key": "Outworld Devourer", "value": "Outworld_Devourer"},
+    {"key": "Ogre Magi", "value": "Ogre_Magi"},
+    {"key": "Omniknight", "value": "Omniknight"},
+    {"key": "Oracle", "value": "Oracle"},
+    {"key": "Pangolier", "value": "Pangolier"},
+    {"key": "Phantom Assassin", "value": "Phantom_Assassin"},
+    {"key": "Phantom Lancer", "value": "Phantom_Lancer"},
+    {"key": "Phoenix", "value": "Phoenix"},
+    {"key": "Puck", "value": "Puck"},
+    {"key": "Pudge", "value": "Pudge"},
+    {"key": "Pugna", "value": "Pugna"},
+    {"key": "Queen of Pain", "value": "Queen_of_Pain"},
+    {"key": "Clockwerk", "value": "Clockwerk"},
+    {"key": "Razor", "value": "Razor"},
+    {"key": "Riki", "value": "Riki"},
+    {"key": "Rubick", "value": "Rubick"},
+    {"key": "Sand King", "value": "Sand_King"},
+    {"key": "Shadow Demon", "value": "Shadow_Demon"},
+    {"key": "Shadow Shaman", "value": "Shadow_Shaman"},
+    {"key": "Timbersaw", "value": "Timbersaw"},
+    {"key": "Silencer", "value": "Silencer"},
+    {"key": "Wraith King", "value": "Wraith_King"},
+    {"key": "Skywrath Mage", "value": "Skywrath_Mage"},
+    {"key": "Slardar", "value": "Slardar"},
+    {"key": "Slark", "value": "Slark"},
+    {"key": "Sniper", "value": "Sniper"},
+    {"key": "Spectre", "value": "Spectre"},
+    {"key": "Spirit Breaker", "value": "Spirit_Breaker"},
+    {"key": "Storm Spirit", "value": "Storm_Spirit"},
+    {"key": "Sven", "value": "Sven"},
+    {"key": "Techies", "value": "Techies"},
+    {"key": "Templar Assassin", "value": "Templar_Assassin"},
+    {"key": "Terrorblade", "value": "Terrorblade"},
+    {"key": "Tidehunter", "value": "Tidehunter"},
+    {"key": "Tinker", "value": "Tinker"},
+    {"key": "Tiny", "value": "Tiny"},
+    {"key": "Treant Protector", "value": "Treant_Protector"},
+    {"key": "Troll Warlord", "value": "Troll_Warlord"},
+    {"key": "Tusk", "value": "Tusk"},
+    {"key": "Undying", "value": "Undying"},
+    {"key": "Ursa", "value": "Ursa"},
+    {"key": "Vengeful Spirit", "value": "Vengeful_Spirit"},
+    {"key": "Venomancer", "value": "Venomancer"},
+    {"key": "Viper", "value": "Viper"},
+    {"key": "Visage", "value": "Visage"},
+    {"key": "Warlock", "value": "Warlock"},
+    {"key": "Weaver", "value": "Weaver"},
+    {"key": "Windranger", "value": "Windrunner"},
+    {"key": "Winter Wyvern", "value": "Winter_Wyvern"},
+    {"key": "Io", "value": "Io"},
+    {"key": "Witch Doctor", "value": "Witch_Doctor"},
+    {"key": "Zeus", "value": "Zeus"}
 ]
 
 
@@ -417,8 +545,19 @@ for key, val in npc_heroes.iteritems():
         except Exception as e:
             print e
 
-# for num in c:
-#     heroes[str(num)]
+# set hero urls
+for key, val in heroes.iteritems():
+    found = False
+    for item in test4:
+        if item["key"] == val["localized_name"]:
+            b += 1
+            val["url"] = item["value"]
+            found = True
+    if found == False:
+        print val["localized_name"]
+
+
+# Make hero_url_id
 hero_url_id = OrderedDict()
 
 for key, val in heroes.iteritems():

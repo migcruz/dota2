@@ -4,6 +4,11 @@
         "Abaddon", 
         "dota2assets/webm/heroes/abaddon.webm"
     ], 
+    "Abyssal_Underlord": [
+        "108", 
+        "Underlord", 
+        "dota2assets/webm/heroes/abyssal_underlord.webm"
+    ], 
     "Alchemist": [
         "73", 
         "Alchemist", 
@@ -14,7 +19,7 @@
         "Ancient Apparition", 
         "dota2assets/webm/heroes/ancient_apparition.webm"
     ], 
-    "Anti-Mage": [
+    "Anti-mage": [
         "1", 
         "Anti-Mage", 
         "dota2assets/webm/heroes/antimage.webm"
@@ -69,7 +74,7 @@
         "Broodmother", 
         "dota2assets/webm/heroes/broodmother.webm"
     ], 
-    "Centaur_Warrunner": [
+    "Centaur": [
         "96", 
         "Centaur Warrunner", 
         "dota2assets/webm/heroes/centaur.webm"
@@ -103,6 +108,11 @@
         "55", 
         "Dark Seer", 
         "dota2assets/webm/heroes/dark_seer.webm"
+    ], 
+    "Dark_Willow": [
+        "119", 
+        "Dark Willow", 
+        "dota2assets/webm/heroes/dark_willow.webm"
     ], 
     "Dazzle": [
         "50", 
@@ -203,11 +213,6 @@
         "90", 
         "Keeper of the Light", 
         "dota2assets/webm/heroes/keeper_of_the_light.webm"
-    ], 
-    "Kunkka": [
-        "23", 
-        "Kunkka", 
-        "dota2assets/webm/heroes/kunkka.webm"
     ], 
     "Legion_Commander": [
         "104", 
@@ -328,6 +333,11 @@
         "76", 
         "Outworld Devourer", 
         "dota2assets/webm/heroes/obsidian_destroyer.webm"
+    ], 
+    "Pangolier": [
+        "120", 
+        "Pangolier", 
+        "dota2assets/webm/heroes/pangolier.webm"
     ], 
     "Phantom_Assassin": [
         "44", 
@@ -494,11 +504,6 @@
         "Tusk", 
         "dota2assets/webm/heroes/tusk.webm"
     ], 
-    "Underlord": [
-        "108", 
-        "Underlord", 
-        "dota2assets/webm/heroes/abyssal_underlord.webm"
-    ], 
     "Undying": [
         "85", 
         "Undying", 
@@ -539,7 +544,7 @@
         "Weaver", 
         "dota2assets/webm/heroes/weaver.webm"
     ], 
-    "Windranger": [
+    "Windrunner": [
         "21", 
         "Windranger", 
         "dota2assets/webm/heroes/windrunner.webm"
@@ -563,5 +568,10 @@
         "22", 
         "Zeus", 
         "dota2assets/webm/heroes/zuus.webm"
+    ], 
+    "kunkka": [
+        "23", 
+        "Kunkka", 
+        "dota2assets/webm/heroes/kunkka.webm"
     ]
 }
