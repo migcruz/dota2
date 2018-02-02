@@ -4414,8 +4414,8 @@
             "Disabler": 1, 
             "Escape": 2
         }, 
-        "img": "dota2assets/img/heroes/dark_willow.png", 
-        "icon": "dota2assets/img/miniheroes/dark_willow.png", 
+        "img": "dota2assets/img/heroes/phantom_assassin.png", 
+        "icon": "dota2assets/img/miniheroes/phantom_assassin.png", 
         "base_health": 200, 
         "base_health_regen": 1.5, 
         "base_mana": 75, 
@@ -4437,7 +4437,7 @@
         "turn_rate": 0.7, 
         "cm_enabled": false, 
         "legs": 2, 
-        "webm": "dota2assets/webm/heroes/dark_willow.webm", 
+        "webm": "dota2assets/webm/heroes/phantom_assassin.webm", 
         "complexity": 2, 
         "url": "Dark_Willow"
     }, 
@@ -4455,8 +4455,8 @@
             "Escape": 2, 
             "Carry": 2
         }, 
-        "img": "dota2assets/img/heroes/pangolier.png", 
-        "icon": "dota2assets/img/miniheroes/pangolier.png", 
+        "img": "dota2assets/img/heroes/phantom_assassin.png", 
+        "icon": "dota2assets/img/miniheroes/phantom_assassin.png", 
         "base_health": 200, 
         "base_health_regen": 1.5, 
         "base_mana": 75, 
@@ -4478,7 +4478,7 @@
         "turn_rate": 1, 
         "cm_enabled": false, 
         "legs": 2, 
-        "webm": "dota2assets/webm/heroes/pangolier.webm", 
+        "webm": "dota2assets/webm/heroes/phantom_assassin.webm", 
         "complexity": 2, 
         "url": "Pangolier"
     }
